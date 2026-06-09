@@ -70,6 +70,10 @@ categories:
     name:
       zh: 播客
       en: Podcasts
+  - id: bilibili
+    name:
+      zh: B站
+      en: Bilibili
 
 sources:
   - id: hacker-news-best
@@ -276,3 +280,9 @@ sources:
       en: Lex Fridman Podcast
     url: https://lexfridman.com/feed/podcast/
     category: podcasts
+  - id: hezhong-bilibili-dynamic
+    name:
+      zh: 合众教育Bilibili动态
+      en: HeZhong Bilibili Dynamic
+    url: https://rss.spriple.org/bilibili/user/dynamic/417302260
+    category: bilibili
