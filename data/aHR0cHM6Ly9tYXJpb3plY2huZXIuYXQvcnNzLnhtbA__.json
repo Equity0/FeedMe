@@ -1,0 +1,275 @@
+{
+  "sourceUrl": "https://mariozechner.at/rss.xml",
+  "title": "{ Mario Zechner }",
+  "description": "Musings from an old computer guy.",
+  "link": "https://mariozechner.at",
+  "items": [
+    {
+      "title": "How to build a shitty robot",
+      "link": "https://mariozechner.at/posts/2026-05-30-shitty-robot",
+      "pubDate": "Sat, 30 May 2026 00:00:00 GMT",
+      "isoDate": "2026-05-30T00:00:00.000Z",
+      "content": "A work in progress post about building a shitty robot.",
+      "contentSnippet": "A work in progress post about building a shitty robot.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文是一篇关于如何制造“糟糕机器人”的未完成文章。内容目前仅说明该文章正在撰写中，尚未提供具体的构建方法、材料或设计理念等实质性信息。",
+        "en": "The article titled \"How to build a shitty robot\" is presented as a work in progress. Its main topic is the construction of a poorly designed or malfunctioning robot. The content provided is minimal and indicates the post is unfinished. No further details or steps are included in the excerpt."
+      },
+      "summary": "本文是一篇关于如何制造“糟糕机器人”的未完成文章。内容目前仅说明该文章正在撰写中，尚未提供具体的构建方法、材料或设计理念等实质性信息。"
+    },
+    {
+      "title": "I've sold out",
+      "link": "https://mariozechner.at/posts/2026-04-08-ive-sold-out",
+      "pubDate": "Wed, 08 Apr 2026 00:00:00 GMT",
+      "isoDate": "2026-04-08T00:00:00.000Z",
+      "content": "I've sold out",
+      "contentSnippet": "I've sold out",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章标题与内容均为“I've sold out”（我已售罄），仅传达了作者宣布物品售罄这一信息，无其他具体内容或背景。",
+        "en": "The article contains only the brief statement \"I've sold out\" with no additional context or details. There is insufficient information to determine what was sold, to whom, for what purpose, or any other relevant details. A meaningful summary cannot be generated from this minimal content."
+      },
+      "summary": "该文章标题与内容均为“I've sold out”（我已售罄），仅传达了作者宣布物品售罄这一信息，无其他具体内容或背景。"
+    },
+    {
+      "title": "Thoughts on slowing the fuck down",
+      "link": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down",
+      "pubDate": "Wed, 25 Mar 2026 00:00:00 GMT",
+      "isoDate": "2026-03-25T00:00:00.000Z",
+      "content": "Thoughts on slowing the fuck down",
+      "contentSnippet": "Thoughts on slowing the fuck down",
+      "creator": "",
+      "summaries": {
+        "zh": "您提供的文章标题为“Thoughts on slowing the fuck down”（关于放慢脚步的思考），但正文内容为空。由于没有实际文章内容，无法生成有效摘要。请检查并提供完整的文章文本，以便我为您进行准确总结。",
+        "en": "The provided article content consists solely of the title \"Thoughts on slowing the fuck down\" and contains no substantive text or elaboration. Therefore, it lacks sufficient information to generate a meaningful summary. The core idea suggested by the title is the concept of reducing pace or speed, but without further details, the key points, arguments, or context remain unstated."
+      },
+      "summary": "您提供的文章标题为“Thoughts on slowing the fuck down”（关于放慢脚步的思考），但正文内容为空。由于没有实际文章内容，无法生成有效摘要。请检查并提供完整的文章文本，以便我为您进行准确总结。"
+    },
+    {
+      "title": "Year in Review 2025",
+      "link": "https://mariozechner.at/posts/2025-12-22-year-in-review-2025",
+      "pubDate": "Mon, 22 Dec 2025 00:00:00 GMT",
+      "isoDate": "2025-12-22T00:00:00.000Z",
+      "content": "A look back at 2025",
+      "contentSnippet": "A look back at 2025",
+      "creator": "",
+      "summaries": {
+        "zh": "本文是关于“2025年回顾”的文章，旨在总结与回顾2025年。",
+        "en": "The article \"Year in Review 2025\" contains only the brief phrase \"A look back at 2025.\" It does not provide any specific events, data, or detailed information about the year. Therefore, there is no substantive content to summarize beyond acknowledging its title and introductory nature."
+      },
+      "summary": "本文是关于“2025年回顾”的文章，旨在总结与回顾2025年。"
+    },
+    {
+      "title": "What I learned building an opinionated and minimal coding agent",
+      "link": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent",
+      "pubDate": "Sun, 30 Nov 2025 00:00:00 GMT",
+      "isoDate": "2025-11-30T00:00:00.000Z",
+      "content": "Lessons I learned while building my own coding agent from scratch.",
+      "contentSnippet": "Lessons I learned while building my own coding agent from scratch.",
+      "creator": "",
+      "summaries": {
+        "zh": "这篇文章探讨了作者从零开始构建一个具有特定设计倾向的简洁代码智能体的经验。作者在分享构建过程中获得的见解时，强调了实践学习的重要性。由于原文仅提供了概括性描述，具体实现细节与技术总结未在内容中展开。",
+        "en": "This article shares practical lessons from the author's experience building a custom coding agent from scratch. The piece focuses on the insights gained during the development process, specifically from creating a tool with a clear, opinionated, and minimal design philosophy. It aims to provide value for other developers interested in AI-assisted coding or building their own specialized agents."
+      },
+      "summary": "这篇文章探讨了作者从零开始构建一个具有特定设计倾向的简洁代码智能体的经验。作者在分享构建过程中获得的见解时，强调了实践学习的重要性。由于原文仅提供了概括性描述，具体实现细节与技术总结未在内容中展开。"
+    },
+    {
+      "title": "Armin is wrong and here's why",
+      "link": "https://mariozechner.at/posts/2025-11-22-armin-is-wrong",
+      "pubDate": "Sat, 22 Nov 2025 00:00:00 GMT",
+      "isoDate": "2025-11-22T00:00:00.000Z",
+      "content": "A rambling rebuttal to Armin's claim that LLM APIs are a state synchronization problem.",
+      "contentSnippet": "A rambling rebuttal to Armin's claim that LLM APIs are a state synchronization problem.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文针对阿尔明关于“LLM API本质上是状态同步问题”的观点提出反驳，认为其主张存在错误。文章通过分析论证指出了该观点的不足之处。",
+        "en": "The article provides a rebuttal to a claim made by Armin, asserting that his view of LLM APIs as a state synchronization problem is incorrect. However, the provided content is too brief to detail the specific arguments or evidence presented in the rebuttal."
+      },
+      "summary": "本文针对阿尔明关于“LLM API本质上是状态同步问题”的观点提出反驳，认为其主张存在错误。文章通过分析论证指出了该观点的不足之处。"
+    },
+    {
+      "title": "What if you don't need MCP at all?",
+      "link": "https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp",
+      "pubDate": "Sun, 02 Nov 2025 00:00:00 GMT",
+      "isoDate": "2025-11-02T00:00:00.000Z",
+      "content": "Got Bash and some code interpreter? Skip MCP.",
+      "contentSnippet": "Got Bash and some code interpreter? Skip MCP.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章探讨了MCP的替代方案，指出若已具备Bash命令行和代码解释器，则可能无需使用MCP。核心观点在于，特定场景下可用现有工具实现类似功能。",
+        "en": "The article suggests that Model Context Protocol (MCP) may not be necessary for some users. It proposes that if you have access to a command-line interface like Bash and a basic code interpreter, you can likely achieve similar functionality more directly. This implies a simpler, more hands-on alternative to implementing MCP for certain tasks."
+      },
+      "summary": "文章探讨了MCP的替代方案，指出若已具备Bash命令行和代码解释器，则可能无需使用MCP。核心观点在于，特定场景下可用现有工具实现类似功能。"
+    },
+    {
+      "title": "Infinite Footguns: Writing a JavaScript Interpreter in JavaScript",
+      "link": "https://mariozechner.at/posts/2025-10-05-jailjs",
+      "pubDate": "Sun, 05 Oct 2025 00:00:00 GMT",
+      "isoDate": "2025-10-05T00:00:00.000Z",
+      "content": "Building a JavaScript AST interpreter in JavaScript: scope isolation, ES5 implementation, and all the footguns along the way.",
+      "contentSnippet": "Building a JavaScript AST interpreter in JavaScript: scope isolation, ES5 implementation, and all the footguns along the way.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文探讨了在JavaScript中构建AST（抽象语法树）解释器的实践过程，重点关注了作用域隔离、ES5规范实现等技术挑战，并详细说明了开发中可能遇到的各类陷阱与解决方案。",
+        "en": "This article discusses the process of building a JavaScript Abstract Syntax Tree (AST) interpreter using JavaScript itself. It focuses on key technical challenges, including implementing scope isolation and adhering to the ES5 specification. The title and content emphasize the numerous pitfalls and difficulties (\"infinite footguns\") encountered during such a project, highlighting the complexities involved in creating a meta-circular interpreter."
+      },
+      "summary": "本文探讨了在JavaScript中构建AST（抽象语法树）解释器的实践过程，重点关注了作用域隔离、ES5规范实现等技术挑战，并详细说明了开发中可能遇到的各类陷阱与解决方案。"
+    },
+    {
+      "title": "MCP vs CLI: Benchmarking Tools for Coding Agents",
+      "link": "https://mariozechner.at/posts/2025-08-15-mcp-vs-cli",
+      "pubDate": "Fri, 15 Aug 2025 00:00:00 GMT",
+      "isoDate": "2025-08-15T00:00:00.000Z",
+      "content": "A data-driven comparison of MCP and CLI approaches for coding agent terminal control",
+      "contentSnippet": "A data-driven comparison of MCP and CLI approaches for coding agent terminal control",
+      "creator": "",
+      "summaries": {
+        "zh": "这篇文章对MCP（模型上下文协议）与CLI（命令行界面）两种方法进行了基于数据的比较，旨在评估它们在编程代理实现终端控制方面的效果与差异。",
+        "en": "The article presents a data-driven benchmarking comparison between MCP (Model Context Protocol) and CLI (Command-Line Interface) approaches for managing terminal control in coding agents. It evaluates their respective performance, efficiency, and suitability for agent-driven development tasks. The analysis likely focuses on metrics such as accuracy, speed, and resource usage to determine which method is more effective for integrating large language models with development environments. The core comparison aims to guide developers in choosing the appropriate tool for building or enhancing coding assistants."
+      },
+      "summary": "这篇文章对MCP（模型上下文协议）与CLI（命令行界面）两种方法进行了基于数据的比较，旨在评估它们在编程代理实现终端控制方面的效果与差异。"
+    },
+    {
+      "title": "Patching Claude Code for debugging and /cost support for Max users",
+      "link": "https://mariozechner.at/posts/2025-08-06-cc-antidebug",
+      "pubDate": "Wed, 06 Aug 2025 00:00:00 GMT",
+      "isoDate": "2025-08-06T00:00:00.000Z",
+      "content": "cc-antidebug patches Claude Code to enable Node.js debugger support for SDK-based apps and restores the /cost command functionality for Max plan users",
+      "contentSnippet": "cc-antidebug patches Claude Code to enable Node.js debugger support for SDK-based apps and restores the /cost command functionality for Max plan users",
+      "creator": "",
+      "summaries": {
+        "zh": "该补丁名为cc-antidebug，主要用于修复Claude Code。它允许基于SDK的应用程序启用Node.js调试器支持，并为Max计划用户恢复了/cost命令的功能。",
+        "en": "A patch called \"cc-antidebug\" has been developed for Claude Code. It enables Node.js debugger support for SDK-based applications and restores the functionality of the \"/cost\" command specifically for users on the Max plan."
+      },
+      "summary": "该补丁名为cc-antidebug，主要用于修复Claude Code。它允许基于SDK的应用程序启用Node.js调试器支持，并为Max计划用户恢复了/cost命令的功能。"
+    },
+    {
+      "title": "cchistory: Tracking Claude Code System Prompt and Tool Changes",
+      "link": "https://mariozechner.at/posts/2025-08-03-cchistory",
+      "pubDate": "Sun, 03 Aug 2025 00:00:00 GMT",
+      "isoDate": "2025-08-03T00:00:00.000Z",
+      "content": "Exploring how to track and analyze changes in Claude Code's system prompts and tools to understand AI assistant evolution",
+      "contentSnippet": "Exploring how to track and analyze changes in Claude Code's system prompts and tools to understand AI assistant evolution",
+      "creator": "",
+      "summaries": {
+        "zh": "“cchistory”项目专注于追踪与分析Claude代码系统提示词及工具的变更，旨在通过对比不同版本的变化，洞察AI助手的技术演进与功能迭代过程。",
+        "en": "The article introduces \"cchistory,\" a tool designed to track and analyze changes in Claude Code's system prompts and tools. It aims to provide insight into the evolution of this AI assistant by monitoring updates to its core configuration and capabilities. The focus is on documenting how the underlying system adjusts over time, offering a way to understand developments in AI functionality through its technical modifications."
+      },
+      "summary": "“cchistory”项目专注于追踪与分析Claude代码系统提示词及工具的变更，旨在通过对比不同版本的变化，洞察AI助手的技术演进与功能迭代过程。"
+    },
+    {
+      "title": "Prompts are code, .json/.md files are state",
+      "link": "https://mariozechner.at/posts/2025-06-02-prompts-are-code",
+      "pubDate": "Mon, 02 Jun 2025 00:00:00 GMT",
+      "isoDate": "2025-06-02T00:00:00.000Z",
+      "content": "Treating LLMs as shitty general purpose computers we program with natural language. Because throwing shit at the wall wasn't working anymore.",
+      "contentSnippet": "Treating LLMs as shitty general purpose computers we program with natural language. Because throwing shit at the wall wasn't working anymore.",
+      "creator": "",
+      "summaries": {
+        "zh": "该文将大语言模型（LLMs）类比为可编程的通用计算机，指出使用自然语言作为编程方式来与之交互，而 `.json/.md` 等文件则用作保存状态与数据。这表明与模型交互正从简单的随机尝试，转向更有结构化的指令与记忆管理方法。",
+        "en": "This article conceptualizes large language models (LLMs) as general-purpose computers programmed using natural language. It describes a shift in approach, moving from trial-and-error (\"throwing shit at the wall\") to more structured interaction. In this framework, prompts function as executable code, while associated file formats like `.json` or `.md` serve as the system's state storage."
+      },
+      "summary": "该文将大语言模型（LLMs）类比为可编程的通用计算机，指出使用自然语言作为编程方式来与之交互，而 `.json/.md` 等文件则用作保存状态与数据。这表明与模型交互正从简单的随机尝试，转向更有结构化的指令与记忆管理方法。"
+    },
+    {
+      "title": "Boxie - an always offline audio player for my 3 year old",
+      "link": "https://mariozechner.at/posts/2025-04-20-boxie",
+      "pubDate": "Sat, 26 Apr 2025 00:00:00 GMT",
+      "isoDate": "2025-04-26T00:00:00.000Z",
+      "content": "How I built a simple portable audio player for my boy, summoning the spirit of the Gameboy",
+      "contentSnippet": "How I built a simple portable audio player for my boy, summoning the spirit of the Gameboy",
+      "creator": "",
+      "summaries": {
+        "zh": "为3岁孩子自制便携式音频播放器“Boxie”，灵感来自Gameboy游戏机。该设备特点为始终处于离线状态，无需网络连接即可播放音频内容，旨在为儿童提供简单安全的使用体验。设计注重便携性与操作简易性，适配幼儿操作能力。",
+        "en": "This article describes the creation of \"Boxie,\" a custom-built, portable audio player designed for a three-year-old child. The device is intentionally always offline, ensuring simple, distraction-free use. Inspired by the aesthetic and spirit of the classic Gameboy, the project focused on durability and ease of use for a young child, resulting in a dedicated music player with physical buttons and no complex interfaces."
+      },
+      "summary": "为3岁孩子自制便携式音频播放器“Boxie”，灵感来自Gameboy游戏机。该设备特点为始终处于离线状态，无需网络连接即可播放音频内容，旨在为儿童提供简单安全的使用体验。设计注重便携性与操作简易性，适配幼儿操作能力。"
+    },
+    {
+      "title": "Electronic Nights III - Animated LEDs and Buttons",
+      "link": "https://mariozechner.at/posts/2024-08-22-electronic-nights-3",
+      "pubDate": "Thu, 22 Aug 2024 00:00:00 GMT",
+      "isoDate": "2024-08-22T00:00:00.000Z",
+      "content": "How to programmatically turn on LEDs and read button states",
+      "contentSnippet": "How to programmatically turn on LEDs and read button states",
+      "creator": "",
+      "summaries": {
+        "zh": "该文介绍了如何通过编程控制LED灯的亮灭以及读取按钮的开关状态，重点在于电子控制中的程序化操作方法。",
+        "en": "This article is part of the \"Electronic Nights\" series and focuses on the programming aspect of electronics projects. It explains the methods for controlling LEDs (turning them on) and reading input from buttons through code. The guide is aimed at teaching how to programmatically interact with these common hardware components, making it relevant for electronics and coding tutorials."
+      },
+      "summary": "该文介绍了如何通过编程控制LED灯的亮灭以及读取按钮的开关状态，重点在于电子控制中的程序化操作方法。"
+    },
+    {
+      "title": "Electronic Nights II - Basic Circuits",
+      "link": "https://mariozechner.at/posts/2024-08-05-electronic-nights-2",
+      "pubDate": "Mon, 05 Aug 2024 00:00:00 GMT",
+      "isoDate": "2024-08-05T00:00:00.000Z",
+      "content": "Exploring the absolute basics.",
+      "contentSnippet": "Exploring the absolute basics.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文是《电子之夜 II》系列的基础电路篇，旨在介绍电子电路的最基础概念。内容聚焦于入门知识，适合初学者了解电路构成与原理的核心要点。",
+        "en": "This article, titled \"Electronic Nights II - Basic Circuits,\" appears to be a beginner-level guide focused on exploring fundamental electronic circuit concepts. Given the minimal content provided, the summary captures its stated purpose: an introductory exploration of absolute basics in electronics."
+      },
+      "summary": "本文是《电子之夜 II》系列的基础电路篇，旨在介绍电子电路的最基础概念。内容聚焦于入门知识，适合初学者了解电路构成与原理的核心要点。"
+    },
+    {
+      "title": "Electronic Nights I - Getting Started",
+      "link": "https://mariozechner.at/posts/2024-07-25-electronic-nights-1",
+      "pubDate": "Fri, 26 Jul 2024 00:00:00 GMT",
+      "isoDate": "2024-07-26T00:00:00.000Z",
+      "content": "The story of a programmer trying to electronics",
+      "contentSnippet": "The story of a programmer trying to electronics",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了程序员尝试电子领域的开篇故事，以“电子之夜”为题，讲述了主角从软件开发转向硬件探索的初步尝试。内容聚焦于跨领域学习的起点与挑战，未展开具体技术细节。",
+        "en": "The article \"Electronic Nights I - Getting Started\" introduces the first part of a series. It outlines the beginning of a programmer's journey into the field of electronics, detailing their initial experiences and exploration."
+      },
+      "summary": "本文介绍了程序员尝试电子领域的开篇故事，以“电子之夜”为题，讲述了主角从软件开发转向硬件探索的初步尝试。内容聚焦于跨领域学习的起点与挑战，未展开具体技术细节。"
+    },
+    {
+      "title": "macOS code injection for fun and no profit",
+      "link": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun",
+      "pubDate": "Sat, 20 Jul 2024 00:00:00 GMT",
+      "isoDate": "2024-07-20T00:00:00.000Z",
+      "content": "Fun little vacation project for fun and zero profit.",
+      "contentSnippet": "Fun little vacation project for fun and zero profit.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了macOS系统下的一项代码注入项目，该项目是作者利用假期时间出于兴趣开发的，不以盈利为目的。",
+        "en": "The article discusses a vacation project focused on macOS code injection, created purely for recreational purposes with no intention of profit or commercial use. The content emphasizes its nature as a non-commercial, fun-driven technical exploration."
+      },
+      "summary": "本文介绍了macOS系统下的一项代码注入项目，该项目是作者利用假期时间出于兴趣开发的，不以盈利为目的。"
+    },
+    {
+      "title": "Two years in review",
+      "link": "https://mariozechner.at/posts/2024-07-15-two-years-in-review",
+      "pubDate": "Mon, 15 Jul 2024 00:00:00 GMT",
+      "isoDate": "2024-07-15T00:00:00.000Z",
+      "content": "Reminiscing about the times I didn't watch TV at night but built stuff.",
+      "contentSnippet": "Reminiscing about the times I didn't watch TV at night but built stuff.",
+      "creator": "",
+      "summaries": {
+        "zh": "该文回顾了作者过去两年的生活变化，主要讲述其晚间活动由看电视转变为动手创作。",
+        "en": "The article reflects on a two-year period during which the author chose to forgo television evenings in favor of hands-on building or creation activities. The core theme centers on a deliberate shift from passive consumption to active engagement."
+      },
+      "summary": "该文回顾了作者过去两年的生活变化，主要讲述其晚间活动由看电视转变为动手创作。"
+    },
+    {
+      "title": "Dissecting history",
+      "link": "https://mariozechner.at/posts/2024-07-14-dissecting-history",
+      "pubDate": "Sun, 14 Jul 2024 00:00:00 GMT",
+      "isoDate": "2024-07-14T00:00:00.000Z",
+      "content": "Thoughts on acquiring computational thinking skills based on my own experience.",
+      "contentSnippet": "Thoughts on acquiring computational thinking skills based on my own experience.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文标题虽为“剖析历史”，但内容实为作者结合自身经历，对如何培养计算思维技能的思考。文章以个人实践为基础，探讨了获得该思维能力的过程与体会。",
+        "en": "The article \"Dissecting history\" reflects on the author's personal journey toward acquiring computational thinking skills. It suggests that examining historical processes can serve as a metaphor or method for developing analytical skills applicable to computational problem-solving. The piece emphasizes a reflective, experience-based approach to learning."
+      },
+      "summary": "本文标题虽为“剖析历史”，但内容实为作者结合自身经历，对如何培养计算思维技能的思考。文章以个人实践为基础，探讨了获得该思维能力的过程与体会。"
+    }
+  ],
+  "lastUpdated": "2026-06-09T16:57:57.764Z"
+}

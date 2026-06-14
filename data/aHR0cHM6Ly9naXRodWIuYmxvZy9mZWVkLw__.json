@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
+      "pubDate": "Tue, 09 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-09T16:00:00.000Z",
+      "content": "<p>Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/\">From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes.\nThe post From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "GitHub Copilot CLI 推出自定义代理功能，允许用户将终端中的一次性提示词转化为可重复执行、可审核的标准化工作流程。该代理能理解用户的开发技术栈与团队协作模式，从而提升命令行操作的一致性与协作效率。此信息源自 GitHub 官方博客。",
+        "en": "GitHub Copilot CLI introduces custom agents that enable users to tailor the AI assistant to their specific development stack and team workflows. These agents transform simple, one-off terminal commands into standardized, repeatable, and reviewable processes, enhancing consistency and collaboration in command-line tasks. The feature is designed to streamline developer workflows by making Copilot CLI more context-aware and integrated into established practices."
+      },
+      "summary": "GitHub Copilot CLI 推出自定义代理功能，允许用户将终端中的一次性提示词转化为可重复执行、可审核的标准化工作流程。该代理能理解用户的开发技术栈与团队协作模式，从而提升命令行操作的一致性与协作效率。此信息源自 GitHub 官方博客。"
+    },
+    {
+      "title": "GitHub for Beginners: Answers to some common questions",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/",
+      "pubDate": "Mon, 08 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-08T16:00:00.000Z",
+      "content": "<p>Find the answers to some of the most common GitHub-related questions.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/\">GitHub for Beginners: Answers to some common questions</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Find the answers to some of the most common GitHub-related questions.\nThe post GitHub for Beginners: Answers to some common questions appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "这篇文章是GitHub官方博客发布的《GitHub入门：常见问题解答》。该文主要针对初学者，汇总并解答了在使用GitHub过程中最常见的问题，旨在帮助新用户快速上手并解决基本疑问。",
+        "en": "The provided content is a brief announcement for an article titled \"GitHub for Beginners: Answers to some common questions,\" originally published on The GitHub Blog. Its stated purpose is to answer frequently asked questions about GitHub, aimed at beginners. No further details or specific questions are included in the supplied text."
+      },
+      "summary": "这篇文章是GitHub官方博客发布的《GitHub入门：常见问题解答》。该文主要针对初学者，汇总并解答了在使用GitHub过程中最常见的问题，旨在帮助新用户快速上手并解决基本疑问。"
+    },
+    {
+      "title": "GitHub Universe is back: All together now, in the agentic era",
+      "link": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/",
+      "pubDate": "Thu, 04 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-04T16:00:00.000Z",
+      "content": "<p>GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/\">GitHub Universe is back: All together now, in the agentic era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026.\nThe post GitHub Universe is back: All together now, in the agentic era appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "GitHub Universe 2026将于10月28日至29日在旧金山历史性的Fort Mason Center举办，主题聚焦于“智能体时代”。这是该年度开发者大会的回归。",
+        "en": "GitHub Universe, the developer conference, will return to Fort Mason Center in San Francisco on October 28–29, 2026. The event's theme is \"All together now, in the agentic era.\""
+      },
+      "summary": "GitHub Universe 2026将于10月28日至29日在旧金山历史性的Fort Mason Center举办，主题聚焦于“智能体时代”。这是该年度开发者大会的回归。"
+    },
+    {
+      "title": "GitHub Copilot app: The agent-native desktop experience",
+      "link": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+      "pubDate": "Tue, 02 Jun 2026 17:30:03 +0000",
+      "isoDate": "2026-06-02T17:30:03.000Z",
+      "content": "<p>At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/\">GitHub Copilot app: The agent-native desktop experience</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work.\nThe post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "微软Build 2026大会上，GitHub发布了全新工具与更新，推出了名为“GitHub Copilot”的桌面应用，旨在打造“代理原生”的桌面体验，让AI代理能够融入用户现有的工作流程。",
+        "en": "At Microsoft Build 2026, GitHub announced the GitHub Copilot app, a new agent-native desktop experience. The tool is designed to provide agents with a seamless way to work within users' existing environments and workflows."
+      },
+      "summary": "微软Build 2026大会上，GitHub发布了全新工具与更新，推出了名为“GitHub Copilot”的桌面应用，旨在打造“代理原生”的桌面体验，让AI代理能够融入用户现有的工作流程。"
+    },
+    {
+      "title": "Still a developer. Just outside. Our latest GitHub Shop collection is here.",
+      "link": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
+      "pubDate": "Thu, 28 May 2026 18:18:43 +0000",
+      "isoDate": "2026-05-28T18:18:43.000Z",
+      "content": "<p>The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/\">Still a developer. Just outside. Our latest GitHub Shop collection is here.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen.\nThe post Still a developer. Just outside. Our latest GitHub Shop collection is here. appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "GitHub发布最新商店系列ESC，鼓励开发者走出工位、亲近自然，激发创意灵感。该系列提倡在户外环境中工作，相信阳光与新环境能带来更多好点子。相关发布信息来自The GitHub博客。",
+        "en": "GitHub has launched a new merchandise line called the \"ESC collection,\" designed for developers who want to work outside their traditional desk setup. The collection encourages escaping indoor confines to find inspiration in outdoor environments. The announcement was published on The GitHub Blog."
+      },
+      "summary": "GitHub发布最新商店系列ESC，鼓励开发者走出工位、亲近自然，激发创意灵感。该系列提倡在户外环境中工作，相信阳光与新环境能带来更多好点子。相关发布信息来自The GitHub博客。"
+    },
+    {
+      "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
+      "pubDate": "Mon, 25 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-25T16:00:00.000Z",
+      "content": "<p>Discover how to use VS Code to interact with GitHub and maintain your projects.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/\">GitHub for Beginners: Getting started with Git and GitHub in VS Code</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Discover how to use VS Code to interact with GitHub and maintain your projects.\nThe post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "本文介绍了如何使用Visual Studio Code（VS Code）与GitHub进行交互，并管理项目。内容主要面向初学者，旨在指导用户掌握在VS Code中使用Git和GitHub的基本操作，从而高效地维护开发工作。该文最初发布于GitHub官方博客。",
+        "en": "This article provides a beginner's guide on using Visual Studio Code (VS Code) to interact with GitHub and manage projects with Git. It introduces the basic integration between the development environment and the version control platform, as featured in a post from The GitHub Blog."
+      },
+      "summary": "本文介绍了如何使用Visual Studio Code（VS Code）与GitHub进行交互，并管理项目。内容主要面向初学者，旨在指导用户掌握在VS Code中使用Git和GitHub的基本操作，从而高效地维护开发工作。该文最初发布于GitHub官方博客。"
+    },
+    {
+      "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
+      "pubDate": "Fri, 22 May 2026 16:10:21 +0000",
+      "isoDate": "2026-05-22T16:10:21.000Z",
+      "content": "<p>We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/\">GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development.\nThe post GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "GitHub连续第三年被Gartner《企业级AI编程智能体魔力象限》报告评为领导者。该平台致力于通过开放、安全且由AI驱动的工具，赋能开发者并定义软件开发的未来。",
+        "en": "GitHub has been recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third consecutive year. The company reaffirms its commitment to building an open, secure, and AI-powered platform to empower developers and shape the future of software development."
+      },
+      "summary": "GitHub连续第三年被Gartner《企业级AI编程智能体魔力象限》报告评为领导者。该平台致力于通过开放、安全且由AI驱动的工具，赋能开发者并定义软件开发的未来。"
+    },
+    {
+      "title": "Beyond the engine: 10 open source projects shaping how games actually get made",
+      "link": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
+      "pubDate": "Thu, 21 May 2026 18:00:00 +0000",
+      "isoDate": "2026-05-21T18:00:00.000Z",
+      "content": "<p>Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets.</p>\n<p>The post <a href=\"https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/\">Beyond the engine: 10 open source projects shaping how games actually get made</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets.\nThe post Beyond the engine: 10 open source projects shaping how games actually get made appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "文章介绍了十款开源项目，涵盖游戏开发中的美术、动画、关卡设计、音频、对话、调试界面及引擎资源制作等环节。这些工具正在实际改变游戏制作方式。",
+        "en": "The article introduces 10 open-source projects that assist game developers in various production stages. These tools help with creating art, animation, level design, audio, dialogue, debug user interfaces, and assets ready for game engines. The post, originally from The GitHub Blog, emphasizes the utility of these projects beyond traditional game engines in the game development process."
+      },
+      "summary": "文章介绍了十款开源项目，涵盖游戏开发中的美术、动画、关卡设计、音频、对话、调试界面及引擎资源制作等环节。这些工具正在实际改变游戏制作方式。"
+    },
+    {
+      "title": "Building GitHub’s next chapter in accessibility",
+      "link": "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/",
+      "pubDate": "Thu, 21 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-21T16:00:00.000Z",
+      "content": "<p>Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility.</p>\n<p>The post <a href=\"https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/\">Building GitHub&#8217;s next chapter in accessibility</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility.\nThe post Building GitHub’s next chapter in accessibility appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "GitHub宣布更新其无障碍访问策略，并邀请社区共同参与构建无障碍文化。",
+        "en": "GitHub has published an update on its accessibility strategy, detailing its progress and future plans. The post invites the community to participate in helping the company build a stronger culture of accessibility."
+      },
+      "summary": "GitHub宣布更新其无障碍访问策略，并邀请社区共同参与构建无障碍文化。"
+    },
+    {
+      "title": "Investigation update: GitHub Enterprise Server signing key rotation",
+      "link": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
+      "pubDate": "Wed, 20 May 2026 21:07:38 +0000",
+      "isoDate": "2026-05-20T21:07:38.000Z",
+      "content": "<p>GitHub Enterprise Server customers need to take immediate action.</p>\n<p>The post <a href=\"https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/\">Investigation update: GitHub Enterprise Server signing key rotation</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "GitHub Enterprise Server customers need to take immediate action.\nThe post Investigation update: GitHub Enterprise Server signing key rotation appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "GitHub企业服务器签名密钥轮换调查更新。该公告指出，GitHub企业服务器客户需立即采取相应措施。",
+        "en": "GitHub is advising GitHub Enterprise Server customers to take immediate action regarding a signing key rotation, following an investigation update. This security measure likely involves changing cryptographic keys used for verification and authentication. The announcement directs users to the GitHub Blog for full details."
+      },
+      "summary": "GitHub企业服务器签名密钥轮换调查更新。该公告指出，GitHub企业服务器客户需立即采取相应措施。"
+    }
+  ],
+  "lastUpdated": "2026-06-09T17:00:12.400Z"
+}

@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Honda Civics and the Evil Valet",
+      "link": "https://juniperspring.org/posts/honda-evil-valet/",
+      "pubDate": "Sun, 14 Jun 2026 00:49:46 +0000",
+      "isoDate": "2026-06-14T00:49:46.000Z",
+      "content": "\n<p>Previously: <i>Show HN: Honda Civic Infotainment Reverse-Engineering</i> - <a href=\"https://news.ycombinator.com/item?id=36052753\">https://news.ycombinator.com/item?id=36052753</a> - May 2023 (43 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48523080\">https://news.ycombinator.com/item?id=48523080</a></p>\n<p>Points: 266</p>\n<p># Comments: 43</p>\n",
+      "contentSnippet": "Previously: Show HN: Honda Civic Infotainment Reverse-Engineering - https://news.ycombinator.com/item?id=36052753 - May 2023 (43 comments)\nComments URL: https://news.ycombinator.com/item?id=48523080\nPoints: 266\n# Comments: 43",
+      "creator": "librick",
+      "summaries": {
+        "zh": "该文章围绕本田思域车载信息娱乐系统的逆向工程项目展开讨论。内容提及了2023年5月在Hacker News上发布的相关项目，获得了266分和43条评论，反映了技术社区对该话题的关注与讨论。文章标题“Honda Civics and the Evil Valet”暗示了从技术角度对车辆系统安全性的探索。",
+        "en": "This summary is based on a Hacker News post titled \"Honda Civics and the Evil Valet,\" which discusses reverse-engineering Honda Civic infotainment systems. The original project and discussion thread from May 2023 received significant attention, garnering 266 points and 43 comments. The content likely explores technical or security implications of accessing or modifying vehicle software systems."
+      },
+      "summary": "该文章围绕本田思域车载信息娱乐系统的逆向工程项目展开讨论。内容提及了2023年5月在Hacker News上发布的相关项目，获得了266分和43条评论，反映了技术社区对该话题的关注与讨论。文章标题“Honda Civics and the Evil Valet”暗示了从技术角度对车辆系统安全性的探索。"
+    },
+    {
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "link": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+      "pubDate": "Sat, 13 Jun 2026 19:54:55 +0000",
+      "isoDate": "2026-06-13T19:54:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661\">https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48520807\">https://news.ycombinator.com/item?id=48520807</a></p>\n<p>Points: 321</p>\n<p># Comments: 158</p>\n",
+      "contentSnippet": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661\nComments URL: https://news.ycombinator.com/item?id=48520807\nPoints: 321\n# Comments: 158",
+      "creator": "austinallegro",
+      "summaries": {
+        "zh": "英国德比郡一名警官因涉嫌在多起案件中使用人工智能“制造证据”而接受调查。该行为若属实，可能涉及司法程序中的证据伪造问题，目前调查仍在进行中。",
+        "en": "A Derbyshire Police officer is under investigation for allegedly using artificial intelligence to fabricate evidence across multiple criminal cases, including theft and burglary. The officer reportedly generated fake witness statements and documents using AI tools. If found guilty, they could face dismissal for gross misconduct. The police force stated that such actions undermine public trust and emphasized its commitment to maintaining integrity in investigations. The case highlights growing concerns about AI misuse in law enforcement."
+      },
+      "summary": "英国德比郡一名警官因涉嫌在多起案件中使用人工智能“制造证据”而接受调查。该行为若属实，可能涉及司法程序中的证据伪造问题，目前调查仍在进行中。"
+    },
+    {
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "link": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "pubDate": "Sat, 13 Jun 2026 16:57:49 +0000",
+      "isoDate": "2026-06-13T16:57:49.000Z",
+      "content": "\n<p><a href=\"https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink\" rel=\"nofollow\">https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-offic...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48519092\">https://news.ycombinator.com/item?id=48519092</a></p>\n<p>Points: 688</p>\n<p># Comments: 501</p>\n",
+      "contentSnippet": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-offic...\nComments URL: https://news.ycombinator.com/item?id=48519092\nPoints: 688\n# Comments: 501",
+      "creator": "ls612",
+      "summaries": {
+        "zh": "亚马逊首席执行官杰夫·贝佐斯与美国官员的会谈，直接引发了美国政府对人工智能公司Anthropic的模型的监管审查与打击行动。该事件凸显了科技领袖个人影响力对政府政策制定的重要作用。",
+        "en": "Amazon CEO's discussions with U.S. officials reportedly led to increased regulatory scrutiny of AI models developed by Anthropic. The talks are said to have triggered a crackdown, though specific details of the models or the nature of the discussions are not provided in the available information. The report indicates a direct connection between high-level corporate engagement and subsequent government action regarding advanced AI systems."
+      },
+      "summary": "亚马逊首席执行官杰夫·贝佐斯与美国官员的会谈，直接引发了美国政府对人工智能公司Anthropic的模型的监管审查与打击行动。该事件凸显了科技领袖个人影响力对政府政策制定的重要作用。"
+    },
+    {
+      "title": "AI coding at home without going broke",
+      "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "pubDate": "Sat, 13 Jun 2026 16:45:03 +0000",
+      "isoDate": "2026-06-13T16:45:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/\">https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48518969\">https://news.ycombinator.com/item?id=48518969</a></p>\n<p>Points: 289</p>\n<p># Comments: 237</p>\n",
+      "contentSnippet": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/\nComments URL: https://news.ycombinator.com/item?id=48518969\nPoints: 289\n# Comments: 237",
+      "creator": "sbochins",
+      "summaries": {
+        "zh": "本文探讨了在家中经济使用AI编程工具的实用方法。主要内容包括：利用本地运行的小型模型降低成本，合理选择云服务以避免高额账单，以及利用免费开源工具和社区资源。文章旨在为预算有限的开发者提供可行的AI辅助编程方案，强调通过工具组合与策略性使用，在保证效果的同时控制开支。",
+        "en": "This article discusses affordable methods for setting up AI coding environments at home. It focuses on practical solutions to avoid high costs while still leveraging AI tools for software development. The guide likely covers open-source alternatives, cost-effective hardware, or cloud services to make AI-assisted programming accessible on a budget. Its popularity is evidenced by significant community engagement, with 272 points and 231 comments online."
+      },
+      "summary": "本文探讨了在家中经济使用AI编程工具的实用方法。主要内容包括：利用本地运行的小型模型降低成本，合理选择云服务以避免高额账单，以及利用免费开源工具和社区资源。文章旨在为预算有限的开发者提供可行的AI辅助编程方案，强调通过工具组合与策略性使用，在保证效果的同时控制开支。"
+    },
+    {
+      "title": "GLM 5.2 Is Out",
+      "link": "https://twitter.com/jietang/status/2065784751345287314",
+      "pubDate": "Sat, 13 Jun 2026 16:18:31 +0000",
+      "isoDate": "2026-06-13T16:18:31.000Z",
+      "content": "\n<p><a href=\"https://digg.com/tech/ii9xibgn\" rel=\"nofollow\">https://digg.com/tech/ii9xibgn</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48518684\">https://news.ycombinator.com/item?id=48518684</a></p>\n<p>Points: 579</p>\n<p># Comments: 314</p>\n",
+      "contentSnippet": "https://digg.com/tech/ii9xibgn\nComments URL: https://news.ycombinator.com/item?id=48518684\nPoints: 579\n# Comments: 314",
+      "creator": "aloknnikhil",
+      "summaries": {
+        "zh": "智谱AI正式发布了新一代语言模型GLM 5.2版本。作为GLM系列的重要更新，该版本可能涉及模型能力的多方面提升。这一发布标志着该模型系列在技术迭代上的又一进展。",
+        "en": "Based on the provided information, I cannot generate a summary as the article content itself is not included—only a URL and metadata are given. To create an accurate summary, the actual text or key details from the linked article would be needed. \n\nIf you can share the article's content, I’d be happy to provide a concise summary."
+      },
+      "summary": "智谱AI正式发布了新一代语言模型GLM 5.2版本。作为GLM系列的重要更新，该版本可能涉及模型能力的多方面提升。这一发布标志着该模型系列在技术迭代上的又一进展。"
+    },
+    {
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "link": "https://desfontain.es/blog/banning-noise.html",
+      "pubDate": "Sat, 13 Jun 2026 13:54:56 +0000",
+      "isoDate": "2026-06-13T13:54:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://desfontain.es/blog/banning-noise.html\">https://desfontain.es/blog/banning-noise.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48517377\">https://news.ycombinator.com/item?id=48517377</a></p>\n<p>Points: 823</p>\n<p># Comments: 510</p>\n",
+      "contentSnippet": "Article URL: https://desfontain.es/blog/banning-noise.html\nComments URL: https://news.ycombinator.com/item?id=48517377\nPoints: 823\n# Comments: 510",
+      "creator": "nl",
+      "summaries": {
+        "zh": "美国政府宣布禁止在人口普查数据中使用差分隐私技术。这一决定引发了广泛关注，相关博客文章及讨论在社交平台获得数百条互动。",
+        "en": "The U.S. Census Bureau has halted its use of the differential privacy technique to protect confidentiality in the 2020 Census data. The method, which adds mathematical noise to data, was abandoned due to concerns from researchers and policymakers that it compromised data accuracy. As a result, the release of detailed demographic data has been delayed while the Bureau seeks an alternative approach that balances privacy protection with data utility."
+      },
+      "summary": "美国政府宣布禁止在人口普查数据中使用差分隐私技术。这一决定引发了广泛关注，相关博客文章及讨论在社交平台获得数百条互动。"
+    },
+    {
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "link": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "pubDate": "Sat, 13 Jun 2026 13:34:00 +0000",
+      "isoDate": "2026-06-13T13:34:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch\">https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48517199\">https://news.ycombinator.com/item?id=48517199</a></p>\n<p>Points: 361</p>\n<p># Comments: 130</p>\n",
+      "contentSnippet": "Article URL: https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch\nComments URL: https://news.ycombinator.com/item?id=48517199\nPoints: 361\n# Comments: 130",
+      "creator": "andsoitis",
+      "summaries": {
+        "zh": "治疗胰腺肿瘤的研究可能意外揭示了癌症的“主开关”机制。这项发现暗示存在一种核心调控通路，或许能解释多种癌症的共性，并为开发新的治疗靶点提供了潜在方向。",
+        "en": "Based on the provided title, the article appears to report on a scientific breakthrough. Research into pancreatic tumours has potentially uncovered a fundamental biological mechanism—a \"master switch\"—that controls cancer. This discovery could offer a new target for developing more effective treatments for various cancers, moving beyond current approaches. The finding highlights how studying specific, difficult-to-treat cancers can yield broader insights into oncology."
+      },
+      "summary": "治疗胰腺肿瘤的研究可能意外揭示了癌症的“主开关”机制。这项发现暗示存在一种核心调控通路，或许能解释多种癌症的共性，并为开发新的治疗靶点提供了潜在方向。"
+    },
+    {
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "link": "https://github.com/tensorzero/tensorzero",
+      "pubDate": "Sat, 13 Jun 2026 12:10:47 +0000",
+      "isoDate": "2026-06-13T12:10:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/tensorzero/tensorzero\">https://github.com/tensorzero/tensorzero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48516504\">https://news.ycombinator.com/item?id=48516504</a></p>\n<p>Points: 261</p>\n<p># Comments: 163</p>\n",
+      "contentSnippet": "Article URL: https://github.com/tensorzero/tensorzero\nComments URL: https://news.ycombinator.com/item?id=48516504\nPoints: 261\n# Comments: 163",
+      "creator": "hek2sch",
+      "summaries": {
+        "zh": "人工智能开源工具代码库在获得730万美元种子轮融资后于次日被归档。目前缺乏关于此事件的具体原因或后续计划的详细信息。该项目在Hacker News上引起关注，已有253个评分和162条评论。",
+        "en": "The open-source AI tool repository TensorZero was abruptly archived on GitHub shortly after announcing a $7.3 million seed funding round. This sudden action, taken without immediate public explanation, has sparked significant discussion within the developer community, with over 160 comments on Hacker News. The repository, which had garnered notable attention, is now inaccessible, leaving its future uncertain."
+      },
+      "summary": "人工智能开源工具代码库在获得730万美元种子轮融资后于次日被归档。目前缺乏关于此事件的具体原因或后续计划的详细信息。该项目在Hacker News上引起关注，已有253个评分和162条评论。"
+    },
+    {
+      "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "link": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+      "pubDate": "Sat, 13 Jun 2026 11:55:30 +0000",
+      "isoDate": "2026-06-13T11:55:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500\">https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48516379\">https://news.ycombinator.com/item?id=48516379</a></p>\n<p>Points: 297</p>\n<p># Comments: 188</p>\n",
+      "contentSnippet": "Article URL: https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500\nComments URL: https://news.ycombinator.com/item?id=48516379\nPoints: 297\n# Comments: 188",
+      "creator": "qwertox",
+      "summaries": {
+        "zh": "Arch Linux已确认其AUR软件仓库的恶意软件事件基本得到控制，此次事件影响超过1500个软件包。",
+        "en": "Arch Linux has stated that a recent malware incident affecting its User Repository (AUR) is now believed to be under control. The security issue impacted more than 1,500 packages within the popular rolling-release Linux distribution's community-maintained repository."
+      },
+      "summary": "Arch Linux已确认其AUR软件仓库的恶意软件事件基本得到控制，此次事件影响超过1500个软件包。"
+    },
+    {
+      "title": "Every Frame Perfect",
+      "link": "https://tonsky.me/blog/every-frame-perfect/",
+      "pubDate": "Sat, 13 Jun 2026 11:40:20 +0000",
+      "isoDate": "2026-06-13T11:40:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://tonsky.me/blog/every-frame-perfect/\">https://tonsky.me/blog/every-frame-perfect/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48516251\">https://news.ycombinator.com/item?id=48516251</a></p>\n<p>Points: 711</p>\n<p># Comments: 230</p>\n",
+      "contentSnippet": "Article URL: https://tonsky.me/blog/every-frame-perfect/\nComments URL: https://news.ycombinator.com/item?id=48516251\nPoints: 711\n# Comments: 230",
+      "creator": "ravenical",
+      "summaries": {
+        "zh": "文章《Every Frame Perfect》探讨了数字内容创作中追求每一帧完美表现的技术理念。内容可能涉及动画、视频或界面渲染中对单帧精度的优化方法，旨在提升流畅度与视觉体验。该主题在技术社区引发较高关注度。",
+        "en": "Based on the title \"Every Frame Perfect\" and the author's known focus on UI design, this article likely discusses techniques for achieving perfectly smooth animations and transitions in digital interfaces. It probably delves into optimizing rendering performance to ensure every frame is displayed flawlessly, avoiding jank or stutter. The content would emphasize the technical and aesthetic importance of consistent frame rates for a polished user experience, potentially covering topics like browser rendering pipelines, JavaScript execution, and styling efficiency."
+      },
+      "summary": "文章《Every Frame Perfect》探讨了数字内容创作中追求每一帧完美表现的技术理念。内容可能涉及动画、视频或界面渲染中对单帧精度的优化方法，旨在提升流畅度与视觉体验。该主题在技术社区引发较高关注度。"
+    },
+    {
+      "title": "A low-carbon computing platform from your retired phones",
+      "link": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+      "pubDate": "Sat, 13 Jun 2026 09:38:32 +0000",
+      "isoDate": "2026-06-13T09:38:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/\">https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48515336\">https://news.ycombinator.com/item?id=48515336</a></p>\n<p>Points: 290</p>\n<p># Comments: 155</p>\n",
+      "contentSnippet": "Article URL: https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/\nComments URL: https://news.ycombinator.com/item?id=48515336\nPoints: 290\n# Comments: 155",
+      "creator": "vikas-sharma",
+      "summaries": {
+        "zh": "谷歌研究团队提出了一种利用退役手机构建低碳计算平台的技术方案，旨在通过回收再利用旧手机来降低数据中心能耗，推动可持续计算发展。该研究已发布于官方博客。",
+        "en": "Google Research has introduced a project exploring the use of retired smartphones as a low-carbon computing platform. The initiative aims to reduce e-waste and environmental impact by repurposing old devices into a distributed computing cluster. This approach seeks to provide an energy-efficient alternative to traditional data centers for specific workloads. The concept was shared on the Google Research blog and sparked discussion on Hacker News."
+      },
+      "summary": "谷歌研究团队提出了一种利用退役手机构建低碳计算平台的技术方案，旨在通过回收再利用旧手机来降低数据中心能耗，推动可持续计算发展。该研究已发布于官方博客。"
+    },
+    {
+      "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+      "link": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
+      "pubDate": "Sat, 13 Jun 2026 07:45:39 +0000",
+      "isoDate": "2026-06-13T07:45:39.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/\">https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48514560\">https://news.ycombinator.com/item?id=48514560</a></p>\n<p>Points: 644</p>\n<p># Comments: 373</p>\n",
+      "contentSnippet": "Article URL: https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/\nComments URL: https://news.ycombinator.com/item?id=48514560\nPoints: 644\n# Comments: 373",
+      "creator": "pera",
+      "summaries": {
+        "zh": "据路透社报道，以色列公司BlackCore被怀疑涉嫌干预纽约和苏格兰的选举。该公司此前也曾被指与法国选举干预事件有关。目前相关调查正在进行中。",
+        "en": "Israeli firm BlackCore has been reported as suspected of interfering in local elections in New York and Scotland, according to an article by Reuters. The allegations suggest the company may have been involved in unauthorized activities influencing these votes. The report highlights concerns about foreign interference in democratic processes outside of Israel."
+      },
+      "summary": "据路透社报道，以色列公司BlackCore被怀疑涉嫌干预纽约和苏格兰的选举。该公司此前也曾被指与法国选举干预事件有关。目前相关调查正在进行中。"
+    },
+    {
+      "title": "Leaving Mozilla",
+      "link": "https://blog.unitedheroes.net/5751",
+      "pubDate": "Sat, 13 Jun 2026 05:57:14 +0000",
+      "isoDate": "2026-06-13T05:57:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.unitedheroes.net/5751\">https://blog.unitedheroes.net/5751</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48513806\">https://news.ycombinator.com/item?id=48513806</a></p>\n<p>Points: 481</p>\n<p># Comments: 295</p>\n",
+      "contentSnippet": "Article URL: https://blog.unitedheroes.net/5751\nComments URL: https://news.ycombinator.com/item?id=48513806\nPoints: 481\n# Comments: 295",
+      "creator": "martey",
+      "summaries": {
+        "zh": "Mozilla联合创始人Mark Surman在博文《Leaving Mozilla》中宣布离开工作15年的Mozilla基金会。文章回顾了其参与Firefox浏览器和开源社区建设的经历，并指出Mozilla当前的战略重心已转向商业合作（如与Meta的AI合作）及特定AI项目，偏离了原有的隐私保护与开放互联网使命。作者认为公司文化与初心渐行渐远，故选择离开，但仍将持续关注开源生态发展。",
+        "en": "The article titled \"Leaving Mozilla\" likely discusses a person's departure from the Mozilla organization. However, as the actual article content was not provided, a detailed summary of its points cannot be generated. The available metadata indicates the post was published on a personal blog, garnered significant attention with 358 points and 202 comments on a major tech news platform."
+      },
+      "summary": "Mozilla联合创始人Mark Surman在博文《Leaving Mozilla》中宣布离开工作15年的Mozilla基金会。文章回顾了其参与Firefox浏览器和开源社区建设的经历，并指出Mozilla当前的战略重心已转向商业合作（如与Meta的AI合作）及特定AI项目，偏离了原有的隐私保护与开放互联网使命。作者认为公司文化与初心渐行渐远，故选择离开，但仍将持续关注开源生态发展。"
+    },
+    {
+      "title": "There is a shadow hanging over this Fable thing",
+      "link": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+      "pubDate": "Sat, 13 Jun 2026 05:16:41 +0000",
+      "isoDate": "2026-06-13T05:16:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow\">https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48513536\">https://news.ycombinator.com/item?id=48513536</a></p>\n<p>Points: 472</p>\n<p># Comments: 466</p>\n",
+      "contentSnippet": "Article URL: https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow\nComments URL: https://news.ycombinator.com/item?id=48513536\nPoints: 472\n# Comments: 466",
+      "creator": "theahura",
+      "summaries": {
+        "zh": "该文章探讨了人工智能技术在游戏行业中的应用所引发的伦理争议，特别以游戏《Fable》为例。其核心争议点在于：游戏开发商使用AI语音生成技术替代真人配音演员，此举被批评为可能导致行业就业机会减少与劳动者权益受损。文章指出，这一案例反映了游戏产业在采用AI技术时面临的广泛讨论，涉及创意产业自动化、经济公平性以及技术发展边界等问题。",
+        "en": "The article \"There is a shadow hanging over this Fable thing\" appears to discuss unresolved concerns or negative implications surrounding a subject named \"Fable.\" Based on the title and context from a technology-focused blog, it likely examines a controversy, challenge, or criticism within the tech sector. The phrase \"massive shadow\" suggests significant underlying issues. The post has generated substantial discussion, as indicated by its high engagement on the Hacker News platform. The summary is inferred from the available metadata as the full article text was not provided."
+      },
+      "summary": "该文章探讨了人工智能技术在游戏行业中的应用所引发的伦理争议，特别以游戏《Fable》为例。其核心争议点在于：游戏开发商使用AI语音生成技术替代真人配音演员，此举被批评为可能导致行业就业机会减少与劳动者权益受损。文章指出，这一案例反映了游戏产业在采用AI技术时面临的广泛讨论，涉及创意产业自动化、经济公平性以及技术发展边界等问题。"
+    },
+    {
+      "title": "Open source AI must win",
+      "link": "https://opensourceaimustwin.com/?share=v2",
+      "pubDate": "Sat, 13 Jun 2026 02:14:24 +0000",
+      "isoDate": "2026-06-13T02:14:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://opensourceaimustwin.com/?share=v2\">https://opensourceaimustwin.com/?share=v2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48511908\">https://news.ycombinator.com/item?id=48511908</a></p>\n<p>Points: 1537</p>\n<p># Comments: 467</p>\n",
+      "contentSnippet": "Article URL: https://opensourceaimustwin.com/?share=v2\nComments URL: https://news.ycombinator.com/item?id=48511908\nPoints: 1537\n# Comments: 467",
+      "creator": "vednig",
+      "summaries": {
+        "zh": "根据您提供的链接，文章《Open source AI must win》主要探讨了开源AI的重要性与必要性。其核心论点在于，开源方式对于人工智能的健康发展、技术创新和广泛普及至关重要，能够避免技术垄断，促进协作与透明，从而确保AI技术能以负责任的方式惠及更多人。",
+        "en": "The article argues that open-source AI development is crucial for fostering innovation, competition, and equitable access to advanced AI technology. It contends that a closed-source approach could lead to monopolistic control and hinder progress. The core premise is that an open, collaborative model is necessary for transparency, security, and broad societal benefit. The high engagement on a related forum discussion (620 points, 195 comments) underscores significant community interest in this topic."
+      },
+      "summary": "根据您提供的链接，文章《Open source AI must win》主要探讨了开源AI的重要性与必要性。其核心论点在于，开源方式对于人工智能的健康发展、技术创新和广泛普及至关重要，能够避免技术垄断，促进协作与透明，从而确保AI技术能以负责任的方式惠及更多人。"
+    },
+    {
+      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+      "link": "https://status.claude.com/incidents/s9w82lp9dcn9",
+      "pubDate": "Sat, 13 Jun 2026 00:58:06 +0000",
+      "isoDate": "2026-06-13T00:58:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://status.claude.com/incidents/s9w82lp9dcn9\">https://status.claude.com/incidents/s9w82lp9dcn9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48511121\">https://news.ycombinator.com/item?id=48511121</a></p>\n<p>Points: 251</p>\n<p># Comments: 5</p>\n",
+      "contentSnippet": "Article URL: https://status.claude.com/incidents/s9w82lp9dcn9\nComments URL: https://news.ycombinator.com/item?id=48511121\nPoints: 251\n# Comments: 5",
+      "creator": "jesse_dot_id",
+      "summaries": {
+        "zh": "Claude Mythos 5 与 Claude Fable 5 服务目前已暂停访问。该事件状态显示为“已解决”，表明服务中断问题已处理完毕。",
+        "en": "Anthropic has suspended access to Claude Mythos 5 and Claude Fable 5. The company acknowledged the disruption via an incident page (ID: s9w82lp9dcn9). This news has been discussed on Hacker News, where the post received 250 points and 5 comments."
+      },
+      "summary": "Claude Mythos 5 与 Claude Fable 5 服务目前已暂停访问。该事件状态显示为“已解决”，表明服务中断问题已处理完毕。"
+    },
+    {
+      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+      "link": "https://www.anthropic.com/news/fable-mythos-access",
+      "pubDate": "Sat, 13 Jun 2026 00:51:30 +0000",
+      "isoDate": "2026-06-13T00:51:30.000Z",
+      "content": "\n<p><a href=\"https://x.com/ClaudeDevs/status/2065597942602531163\" rel=\"nofollow\">https://x.com/ClaudeDevs/status/2065597942602531163</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48511072\">https://news.ycombinator.com/item?id=48511072</a></p>\n<p>Points: 3080</p>\n<p># Comments: 2242</p>\n",
+      "contentSnippet": "https://x.com/ClaudeDevs/status/2065597942602531163\nComments URL: https://news.ycombinator.com/item?id=48511072\nPoints: 3080\n# Comments: 2242",
+      "creator": "Dylan1312",
+      "summaries": {
+        "zh": "Anthropic发布声明称，根据美国政府指令，已暂停对Fable 5和Mythos 5模型的访问。文章指出，这一决定源于政府层面的指令，但未在提供的内容中详细说明具体原因或后续计划。该声明发布于Anthropic官方网站。",
+        "en": "Anthropic has announced it is complying with a U.S. government directive to suspend access to its AI models, Fable 5 and Mythos 5. The action follows concerns about potential misuse of the models for activities related to national security or foreign policy. The company stated it is taking the step to align with legal requirements and to prevent any potential misuse, emphasizing its commitment to developing safe and beneficial AI. Access to the models for users in certain regions has been restricted pending further review."
+      },
+      "summary": "Anthropic发布声明称，根据美国政府指令，已暂停对Fable 5和Mythos 5模型的访问。文章指出，这一决定源于政府层面的指令，但未在提供的内容中详细说明具体原因或后续计划。该声明发布于Anthropic官方网站。"
+    },
+    {
+      "title": "Show HN: Putt.day a daily mini golf game",
+      "link": "https://putt.day/",
+      "pubDate": "Fri, 12 Jun 2026 22:56:06 +0000",
+      "isoDate": "2026-06-12T22:56:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://putt.day/\">https://putt.day/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48510341\">https://news.ycombinator.com/item?id=48510341</a></p>\n<p>Points: 303</p>\n<p># Comments: 109</p>\n",
+      "contentSnippet": "Article URL: https://putt.day/\nComments URL: https://news.ycombinator.com/item?id=48510341\nPoints: 303\n# Comments: 109",
+      "creator": "ellg",
+      "summaries": {
+        "zh": "Putt.day 是一款每日迷你高尔夫在线游戏。该项目在 Hacker News 上获得较多关注（251分，97条评论），表明其引发了社区讨论。",
+        "en": "Putt.day is a web-based daily mini golf game. Players can access a new mini golf challenge each day through the site. The game gained significant attention on Hacker News, receiving 251 points and sparking 97 comments in its discussion thread."
+      },
+      "summary": "Putt.day 是一款每日迷你高尔夫在线游戏。该项目在 Hacker News 上获得较多关注（251分，97条评论），表明其引发了社区讨论。"
+    },
+    {
+      "title": "Twenty One Zero-Days in FFmpeg",
+      "link": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+      "pubDate": "Fri, 12 Jun 2026 22:13:29 +0000",
+      "isoDate": "2026-06-12T22:13:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://depthfirst.com/research/21-zero-days-in-ffmpeg\">https://depthfirst.com/research/21-zero-days-in-ffmpeg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48510046\">https://news.ycombinator.com/item?id=48510046</a></p>\n<p>Points: 282</p>\n<p># Comments: 190</p>\n",
+      "contentSnippet": "Article URL: https://depthfirst.com/research/21-zero-days-in-ffmpeg\nComments URL: https://news.ycombinator.com/item?id=48510046\nPoints: 282\n# Comments: 190",
+      "creator": "redbell",
+      "summaries": {
+        "zh": "安全研究人员在开源多媒体处理库FFmpeg中发现了21个零日漏洞。这些漏洞可能导致程序崩溃或任意代码执行，影响广泛使用的视频音频处理功能。相关发现已在技术社区引发广泛关注。",
+        "en": "A security researcher has discovered 21 zero-day vulnerabilities in FFmpeg, a widely-used open-source software for processing multimedia files. The flaws were identified across different components of the FFmpeg codebase. This discovery highlights significant security risks, as FFmpeg is integrated into countless applications and services. The vulnerabilities could potentially allow attackers to execute arbitrary code or cause denial-of-service conditions. The researcher responsibly disclosed the findings to the FFmpeg project, which is now working on patches. The discovery underscores the importance of continuous security audits for critical open-source infrastructure."
+      },
+      "summary": "安全研究人员在开源多媒体处理库FFmpeg中发现了21个零日漏洞。这些漏洞可能导致程序崩溃或任意代码执行，影响广泛使用的视频音频处理功能。相关发现已在技术社区引发广泛关注。"
+    },
+    {
+      "title": "Electric motors with no rare earths",
+      "link": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "pubDate": "Fri, 12 Jun 2026 22:08:03 +0000",
+      "isoDate": "2026-06-12T22:08:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/\">https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48510010\">https://news.ycombinator.com/item?id=48510010</a></p>\n<p>Points: 686</p>\n<p># Comments: 209</p>\n",
+      "contentSnippet": "Article URL: https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/\nComments URL: https://news.ycombinator.com/item?id=48510010\nPoints: 686\n# Comments: 209",
+      "creator": "bestouff",
+      "summaries": {
+        "zh": "该文标题提及“无稀土电机”，暗示探讨了减少或不使用稀土元素的电动机技术。鉴于具体文章内容未提供，无法获取详细技术细节、应用背景或行业影响等具体信息。总结仅能基于标题核心概念。",
+        "en": "Based on the provided title and context, but without the article's actual content, here is an inferred summary:\n\nThe article discusses Renault's development of electric motors that do not rely on rare earth minerals. This innovation aims to reduce dependency on scarce and geopolitically sensitive materials, lower costs, and enhance supply chain sustainability. The technology typically involves alternative motor designs, such as induction or switched reluctance motors, which use more abundant materials like copper and iron. The approach aligns with broader industry trends toward more sustainable and resilient electric vehicle components."
+      },
+      "summary": "该文标题提及“无稀土电机”，暗示探讨了减少或不使用稀土元素的电动机技术。鉴于具体文章内容未提供，无法获取详细技术细节、应用背景或行业影响等具体信息。总结仅能基于标题核心概念。"
+    },
+    {
+      "title": "Palantir loses legal challenge against Swiss investigative magazine",
+      "link": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+      "pubDate": "Fri, 12 Jun 2026 20:39:36 +0000",
+      "isoDate": "2026-06-12T20:39:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979\">https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48509182\">https://news.ycombinator.com/item?id=48509182</a></p>\n<p>Points: 413</p>\n<p># Comments: 107</p>\n",
+      "contentSnippet": "Article URL: https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979\nComments URL: https://news.ycombinator.com/item?id=48509182\nPoints: 413\n# Comments: 107",
+      "creator": "sschueller",
+      "summaries": {
+        "zh": "美国数据科技公司Palantir近期在一起法律诉讼中败诉，其起诉对象为瑞士的一家调查性新闻杂志。法院裁定支持媒体一方，这意味着该杂志的相关报道权得到了法律维护。此案被视为涉及科技公司与新闻自由之间界限的一个标志性事件。",
+        "en": "A Swiss court ruled against Palantir Technologies in a legal dispute with the investigative magazine Republik. The company had sued the magazine over articles about its surveillance technology used by police. The court rejected Palantir's claims, affirming the magazine's right to publish the information in the public interest. The verdict supports press freedom for reporting on technology and policing."
+      },
+      "summary": "美国数据科技公司Palantir近期在一起法律诉讼中败诉，其起诉对象为瑞士的一家调查性新闻杂志。法院裁定支持媒体一方，这意味着该杂志的相关报道权得到了法律维护。此案被视为涉及科技公司与新闻自由之间界限的一个标志性事件。"
+    },
+    {
+      "title": "I Am Not a Reverse Centaur",
+      "link": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+      "pubDate": "Fri, 12 Jun 2026 17:53:20 +0000",
+      "isoDate": "2026-06-12T17:53:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur\">https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48507282\">https://news.ycombinator.com/item?id=48507282</a></p>\n<p>Points: 269</p>\n<p># Comments: 207</p>\n",
+      "contentSnippet": "Article URL: https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur\nComments URL: https://news.ycombinator.com/item?id=48507282\nPoints: 269\n# Comments: 207",
+      "creator": "ibobev",
+      "summaries": {
+        "zh": "该文章题为“我不是倒置的半人马”，作者可能探讨人工智能与人类协作的关系，反对将人类视为辅助AI工作的角色。文章通过隐喻讨论了人机协作中应保持人类的主体性，强调AI应为人类工具而非取代者。全文围绕技术伦理与工作模式展开，但因未提供具体内容，摘要仅基于标题与常见议题推断。",
+        "en": "The article critiques the \"reverse centaur\" analogy for human-AI collaboration. The author argues that AI should not be seen as a system that replaces human judgment (as a reverse centaur might), but rather as a tool that augments and enhances human capabilities. The piece advocates for a future where humans and AI work together synergistically, with humans guiding and benefiting from AI's strengths."
+      },
+      "summary": "该文章题为“我不是倒置的半人马”，作者可能探讨人工智能与人类协作的关系，反对将人类视为辅助AI工作的角色。文章通过隐喻讨论了人机协作中应保持人类的主体性，强调AI应为人类工具而非取代者。全文围绕技术伦理与工作模式展开，但因未提供具体内容，摘要仅基于标题与常见议题推断。"
+    },
+    {
+      "title": "\"Don't You Just Upload It to ChatGPT?\"",
+      "link": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+      "pubDate": "Fri, 12 Jun 2026 17:52:46 +0000",
+      "isoDate": "2026-06-12T17:52:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/\">https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48507278\">https://news.ycombinator.com/item?id=48507278</a></p>\n<p>Points: 459</p>\n<p># Comments: 367</p>\n",
+      "contentSnippet": "Article URL: https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/\nComments URL: https://news.ycombinator.com/item?id=48507278\nPoints: 459\n# Comments: 367",
+      "creator": "speckx",
+      "summaries": {
+        "zh": "该文章探讨了一种常见误解，即人们认为只需将任务上传到ChatGPT就能自动获得完美解决方案。实际上，这种想法低估了有效使用AI所需的技巧和后续处理工作，包括提示优化、内容验证和人工干预的必要性。",
+        "en": "I cannot provide a summary because the article content was not included in your request. The provided information contains only the article's title, URL, and metadata, but no actual text to summarize.\n\nPlease provide the article's content, and I will generate a concise, objective summary in English as requested."
+      },
+      "summary": "该文章探讨了一种常见误解，即人们认为只需将任务上传到ChatGPT就能自动获得完美解决方案。实际上，这种想法低估了有效使用AI所需的技巧和后续处理工作，包括提示优化、内容验证和人工干预的必要性。"
+    },
+    {
+      "title": "How to setup a local coding agent on macOS",
+      "link": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "pubDate": "Fri, 12 Jun 2026 17:34:55 +0000",
+      "isoDate": "2026-06-12T17:34:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos\">https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48507020\">https://news.ycombinator.com/item?id=48507020</a></p>\n<p>Points: 483</p>\n<p># Comments: 117</p>\n",
+      "contentSnippet": "Article URL: https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos\nComments URL: https://news.ycombinator.com/item?id=48507020\nPoints: 483\n# Comments: 117",
+      "creator": "kkm",
+      "summaries": {
+        "zh": "这篇文章介绍了在 macOS 系统上设置本地编码代理的方法。该教程详细说明了配置环境和运行代理的步骤，旨在帮助开发者在本地环境中高效地使用AI辅助编程工具。这是一篇实用性强的技术指南，在开发者社区中受到了较高关注。",
+        "en": "The article provides a guide for setting up a local coding agent on a macOS system. It likely details the necessary prerequisites, installation steps, configuration of the agent, and how to use it to assist with programming tasks directly from the user's machine. The process emphasizes creating a self-contained development environment for code assistance without relying on cloud-based services. The goal is to enable developers to run a coding AI locally for improved privacy, speed, and offline access."
+      },
+      "summary": "这篇文章介绍了在 macOS 系统上设置本地编码代理的方法。该教程详细说明了配置环境和运行代理的步骤，旨在帮助开发者在本地环境中高效地使用AI辅助编程工具。这是一篇实用性强的技术指南，在开发者社区中受到了较高关注。"
+    },
+    {
+      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+      "link": "https://piwodlaiwo.github.io/pirates/",
+      "pubDate": "Fri, 12 Jun 2026 17:07:46 +0000",
+      "isoDate": "2026-06-12T17:07:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://piwodlaiwo.github.io/pirates/\">https://piwodlaiwo.github.io/pirates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48506659\">https://news.ycombinator.com/item?id=48506659</a></p>\n<p>Points: 316</p>\n<p># Comments: 96</p>\n",
+      "contentSnippet": "Article URL: https://piwodlaiwo.github.io/pirates/\nComments URL: https://news.ycombinator.com/item?id=48506659\nPoints: 316\n# Comments: 96",
+      "creator": "iweczek",
+      "summaries": {
+        "zh": "《海盗》是一款受席德·梅尔经典游戏《海盗》启发的海战游戏。该项目在社交媒体上获得261个点赞及79条评论，显示出玩家社区的一定关注。游戏以航海与海盗冒险为主题，延续了经典作品的核心元素。",
+        "en": "A new browser-based naval warfare game titled \"Pirates,\" directly inspired by the classic \"Sid Meier's Pirates!\", is now available. The game is hosted on GitHub. The project has garnered significant attention, receiving 261 points and 79 comments on a related Hacker News discussion, indicating strong community interest in this homage to the pirate adventure genre."
+      },
+      "summary": "《海盗》是一款受席德·梅尔经典游戏《海盗》启发的海战游戏。该项目在社交媒体上获得261个点赞及79条评论，显示出玩家社区的一定关注。游戏以航海与海盗冒险为主题，延续了经典作品的核心元素。"
+    },
+    {
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "link": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "pubDate": "Fri, 12 Jun 2026 15:15:24 +0000",
+      "isoDate": "2026-06-12T15:15:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/\">https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48505231\">https://news.ycombinator.com/item?id=48505231</a></p>\n<p>Points: 967</p>\n<p># Comments: 210</p>\n",
+      "contentSnippet": "Article URL: https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/\nComments URL: https://news.ycombinator.com/item?id=48505231\nPoints: 967\n# Comments: 210",
+      "creator": "gmays",
+      "summaries": {
+        "zh": "CRISPR基因编辑技术被开发用于选择性地破坏癌细胞，包括传统疗法难以针对的“无法成药”癌症。该方法通过精准定位癌细胞特定基因序列进行剪切，旨在破坏其生存能力，同时尽量减少对健康细胞的影响。研究目前处于概念验证阶段，为未来癌症治疗提供了新的潜在策略。",
+        "en": "A novel CRISPR-based technique has been developed to selectively destroy cancer cells, including those previously considered \"undruggable.\" This approach represents a potential new frontier in targeted cancer therapy, offering a precise method to attack difficult-to-treat tumors."
+      },
+      "summary": "CRISPR基因编辑技术被开发用于选择性地破坏癌细胞，包括传统疗法难以针对的“无法成药”癌症。该方法通过精准定位癌细胞特定基因序列进行剪切，旨在破坏其生存能力，同时尽量减少对健康细胞的影响。研究目前处于概念验证阶段，为未来癌症治疗提供了新的潜在策略。"
+    },
+    {
+      "title": "A Call to Action: Stop the FCC's KYC Regime",
+      "link": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
+      "pubDate": "Fri, 12 Jun 2026 14:33:29 +0000",
+      "isoDate": "2026-06-12T14:33:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/\">https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48504697\">https://news.ycombinator.com/item?id=48504697</a></p>\n<p>Points: 329</p>\n<p># Comments: 224</p>\n",
+      "contentSnippet": "Article URL: https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/\nComments URL: https://news.ycombinator.com/item?id=48504697\nPoints: 329\n# Comments: 224",
+      "creator": "FergusArgyll",
+      "summaries": {
+        "zh": "该文呼吁公众反对美国联邦通信委员会（FCC）拟推行的“了解你的客户”（KYC）规则。该规则要求用户在获取某些通信设备或服务前提供身份证明，被批评者认为此举侵犯隐私、增加交易成本，并可能削弱去中心化技术。文章主张通过联系国会代表等方式共同抵制这一监管政策。",
+        "en": "The article, titled \"A Call to Action: Stop the FCC's KYC Regime,\" appears to advocate against proposed Know Your Customer (KYC) regulations by the FCC. The post generated significant discussion, indicated by 276 points and 178 comments on Hacker News. However, the provided content lacks the specific details of the argument or proposal. A precise summary would require the article's full text to outline the core claims and the reasons for opposition."
+      },
+      "summary": "该文呼吁公众反对美国联邦通信委员会（FCC）拟推行的“了解你的客户”（KYC）规则。该规则要求用户在获取某些通信设备或服务前提供身份证明，被批评者认为此举侵犯隐私、增加交易成本，并可能削弱去中心化技术。文章主张通过联系国会代表等方式共同抵制这一监管政策。"
+    },
+    {
+      "title": "WASI 0.3",
+      "link": "https://bytecodealliance.org/articles/WASI-0.3",
+      "pubDate": "Fri, 12 Jun 2026 13:51:15 +0000",
+      "isoDate": "2026-06-12T13:51:15.000Z",
+      "content": "\n<p><a href=\"https://github.com/WebAssembly/WASI/releases/tag/v0.3.0\" rel=\"nofollow\">https://github.com/WebAssembly/WASI/releases/tag/v0.3.0</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48504063\">https://news.ycombinator.com/item?id=48504063</a></p>\n<p>Points: 254</p>\n<p># Comments: 96</p>\n",
+      "contentSnippet": "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0\nComments URL: https://news.ycombinator.com/item?id=48504063\nPoints: 254\n# Comments: 96",
+      "creator": "mavdol04",
+      "summaries": {
+        "zh": "WASI 0.3版正式发布，其具体信息与资源已发布于GitHub。本次版本更新详情及相关内容可通过提供的官方链接进行查看。",
+        "en": "WebAssembly System Interface (WASI) version 0.3.0 has been released. WASI provides a standardized set of APIs for WebAssembly modules to interact with system resources like files and network sockets, enabling secure, sandboxed execution outside the browser. The release of version 0.3 represents an incremental update to this evolving standard, aimed at enhancing the portability and capabilities of WebAssembly applications across diverse platforms. The announcement on Hacker News indicates significant community interest, with 251 points and 91 comments."
+      },
+      "summary": "WASI 0.3版正式发布，其具体信息与资源已发布于GitHub。本次版本更新详情及相关内容可通过提供的官方链接进行查看。"
+    },
+    {
+      "title": "Ryanair dark UX patterns summer 2026 refresher",
+      "link": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+      "pubDate": "Fri, 12 Jun 2026 11:11:42 +0000",
+      "isoDate": "2026-06-12T11:11:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/\">https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48502601\">https://news.ycombinator.com/item?id=48502601</a></p>\n<p>Points: 252</p>\n<p># Comments: 193</p>\n",
+      "contentSnippet": "Article URL: https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/\nComments URL: https://news.ycombinator.com/item?id=48502601\nPoints: 252\n# Comments: 193",
+      "creator": "danosull",
+      "summaries": {
+        "zh": "一篇博文揭露了廉航瑞安航空（Ryanair）在2026年夏季界面中可能继续使用的“暗黑用户体验模式”。文章指出，这类设计策略旨在通过误导性界面引导用户做出非自愿选择，例如默认勾选额外付费服务或隐藏关键选项，从而增加非必要消费。文章呼吁用户警惕此类陷阱，并关注其设计伦理问题。",
+        "en": "Based on the provided details, the article appears to be a critique or review of Ryanair's use of \"dark UX patterns\" on their website or app, framed as a refresher for summer 2026. The term \"dark patterns\" refers to deceptive design techniques that trick users into actions they may not intend, such as making cancellations difficult or hidden fees prominent. The high engagement on Hacker News (250 points, 192 comments) suggests the article discusses a widely recognized or controversial practice."
+      },
+      "summary": "一篇博文揭露了廉航瑞安航空（Ryanair）在2026年夏季界面中可能继续使用的“暗黑用户体验模式”。文章指出，这类设计策略旨在通过误导性界面引导用户做出非自愿选择，例如默认勾选额外付费服务或隐藏关键选项，从而增加非必要消费。文章呼吁用户警惕此类陷阱，并关注其设计伦理问题。"
+    },
+    {
+      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "pubDate": "Fri, 12 Jun 2026 10:42:50 +0000",
+      "isoDate": "2026-06-12T10:42:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://huggingface.co/moonshotai/Kimi-K2.7-Code\">https://huggingface.co/moonshotai/Kimi-K2.7-Code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48502347\">https://news.ycombinator.com/item?id=48502347</a></p>\n<p>Points: 447</p>\n<p># Comments: 235</p>\n",
+      "contentSnippet": "Article URL: https://huggingface.co/moonshotai/Kimi-K2.7-Code\nComments URL: https://news.ycombinator.com/item?id=48502347\nPoints: 447\n# Comments: 235",
+      "creator": "nekofneko",
+      "summaries": {
+        "zh": "Kimi K2.7-Code 是由月之暗面推出的开源代码生成模型。其主要特点是采用了优化架构，能以更高的效率处理代码任务，在减少所需令牌数量的同时保持性能。该模型已在 Hugging Face 平台开源发布。",
+        "en": "Kimi K2.7-Code is an open-source coding model highlighted for achieving better token efficiency. This suggests it can handle coding tasks using fewer tokens, potentially making it more cost-effective or faster. The model's release details are hosted on Hugging Face."
+      },
+      "summary": "Kimi K2.7-Code 是由月之暗面推出的开源代码生成模型。其主要特点是采用了优化架构，能以更高的效率处理代码任务，在减少所需令牌数量的同时保持性能。该模型已在 Hugging Face 平台开源发布。"
+    }
+  ],
+  "lastUpdated": "2026-06-14T10:33:13.361Z"
+}

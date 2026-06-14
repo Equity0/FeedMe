@@ -1,0 +1,593 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "The Keyword",
+  "description": "The Keyword",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Get travel-ready with Google Fi Wireless",
+      "link": "https://blog.google/products-and-platforms/products/google-fi-wireless/international-travel-features-5g-coverage/",
+      "pubDate": "Tue, 09 Jun 2026 16:15:00 +0000",
+      "isoDate": "2026-06-09T16:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fi_Thumbnail.max-600x600.format-webp.webp\">We’re expanding our coverage and speed — plus, security and connectivity features will work in even more international destinations.",
+      "contentSnippet": "We’re expanding our coverage and speed — plus, security and connectivity features will work in even more international destinations.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jane Harnett"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          "Google Fi Wireless"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌无线服务扩展了覆盖范围与网络速度，并提升安全与连接功能，支持更多国际目的地。",
+        "en": "Google Fi Wireless is expanding its coverage and speed while enhancing security and connectivity features for use in more international destinations."
+      },
+      "summary": "谷歌无线服务扩展了覆盖范围与网络速度，并提升安全与连接功能，支持更多国际目的地。"
+    },
+    {
+      "title": "Paris Hilton is Android’s first icon in residence",
+      "link": "https://blog.google/products-and-platforms/platforms/android/paris-hilton/",
+      "pubDate": "Tue, 09 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-09T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ParisHilton_hero.max-600x600.format-webp.webp\">The self-described \"undercover nerd\" used Canvas to build her own app — no coding required.",
+      "contentSnippet": "The self-described \"undercover nerd\" used Canvas to build her own app — no coding required.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Paris Hilton"
+        ],
+        "title": [
+          "Android Icon in Residence"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "帕丽斯·希尔顿成为安卓系统首位驻场名人。她自称“极客”，无需编程，使用Canvas工具成功构建了个人应用程序。",
+        "en": "Paris Hilton has been named Android's first \"icon in residence.\" In this role, the entrepreneur and media personality used Google's Canvas tool to create her own application without requiring any coding knowledge. This collaboration marks a unique partnership between the tech platform and a high-profile public figure."
+      },
+      "summary": "帕丽斯·希尔顿成为安卓系统首位驻场名人。她自称“极客”，无需编程，使用Canvas工具成功构建了个人应用程序。"
+    },
+    {
+      "title": "Explore the hidden universe of color",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/see-in-cmyk/",
+      "pubDate": "Tue, 09 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-09T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_social-asset.max-600x600.format-webp.webp\">“See in CMYK:” Explore the science of color with Google Arts & Culture and the Exploratorium.",
+      "contentSnippet": "“See in CMYK:” Explore the science of color with Google Arts & Culture and the Exploratorium.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Amit Sood"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Google Arts & Culture"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "探索色彩的隐藏宇宙：Google Arts & Culture与Exploratorium合作，共同探索色彩科学的奥秘。",
+        "en": "Google Arts & Culture partners with the Exploratorium to explore the science of color through an interactive experience titled \"See in CMYK.\" The project delves into the hidden universe of color, offering insights into its scientific principles and artistic applications."
+      },
+      "summary": "探索色彩的隐藏宇宙：Google Arts & Culture与Exploratorium合作，共同探索色彩科学的奥秘。"
+    },
+    {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
+      "pubDate": "Tue, 09 Jun 2026 15:00:00 +0000",
+      "isoDate": "2026-06-09T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3-5_Live_Translate_hero.max-600x600.format-webp.webp\">Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "contentSnippet": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Anuda Weerasinghe"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌推出Gemini 3.5实时翻译功能，可提供接近实时、自然的语音翻译服务。该功能现已集成于谷歌AI工作室、谷歌翻译和谷歌Meet中。",
+        "en": "Gemini 3.5 Live Translate is a new feature providing near real-time and natural speech translation. It is integrated into Google AI Studio, Google Translate, and Google Meet."
+      },
+      "summary": "谷歌推出Gemini 3.5实时翻译功能，可提供接近实时、自然的语音翻译服务。该功能现已集成于谷歌AI工作室、谷歌翻译和谷歌Meet中。"
+    },
+    {
+      "title": "We've teamed up with American Airlines to reduce nearly 300,000 tons of CO2.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/american-airlines-sustainable-aviation-fuel/",
+      "pubDate": "Tue, 09 Jun 2026 13:00:00 +0000",
+      "isoDate": "2026-06-09T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Aviation_Fuel_Social.max-600x600.format-webp.webp\">Google and American Airlines signed a multi-year sustainable aviation fuel (SAF) agreement.",
+      "contentSnippet": "Google and American Airlines signed a multi-year sustainable aviation fuel (SAF) agreement.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jenna Stauffer"
+        ],
+        "title": [
+          "Head of Strategic Priorities"
+        ],
+        "department": [
+          "Climate Operations"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌与美国航空签署多年可持续航空燃料协议，旨在减少近30万吨二氧化碳排放。",
+        "en": "Google and American Airlines have entered into a multi-year partnership focused on sustainable aviation fuel (SAF). This agreement is projected to reduce nearly 300,000 tons of carbon dioxide (CO2) emissions, contributing to efforts in lowering the aviation industry's environmental impact."
+      },
+      "summary": "谷歌与美国航空签署多年可持续航空燃料协议，旨在减少近30万吨二氧化碳排放。"
+    },
+    {
+      "title": "The future of learning in the AI age",
+      "link": "https://blog.google/products-and-platforms/products/education/future-learning-ai-era/",
+      "pubDate": "Tue, 09 Jun 2026 10:00:00 +0000",
+      "isoDate": "2026-06-09T10:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Utokyo2.max-600x600.format-webp.webp\">Ben Gomes, Google’s Chief Technologist for Learning and Sustainability, held a dialogue for the students of the University of Tokyo.",
+      "contentSnippet": "Ben Gomes, Google’s Chief Technologist for Learning and Sustainability, held a dialogue for the students of the University of Tokyo.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Google Japan"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌学习与可持续发展首席技术官本·戈麦斯与东京大学学生展开对话，探讨人工智能时代的学习未来。",
+        "en": "Ben Gomes, Google’s Chief Technologist for Learning and Sustainability, engaged in a dialogue with students at the University of Tokyo. The discussion centered on the future of learning in the age of artificial intelligence, exploring how AI technologies may shape educational practices and opportunities."
+      },
+      "summary": "谷歌学习与可持续发展首席技术官本·戈麦斯与东京大学学生展开对话，探讨人工智能时代的学习未来。"
+    },
+    {
+      "title": "Powering the future of robotics in Europe",
+      "link": "https://blog.google/topics/google-europe/powering-the-future-of-robotics-in-europe/",
+      "pubDate": "Tue, 09 Jun 2026 10:00:00 +0000",
+      "isoDate": "2026-06-09T10:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/130.max-600x600.format-webp.webp\">Google DeepMind Accelerator selects 15 robotics companies from across Europe to join the program. Providing 3 months of intensive mentorship and technical support, enabl…",
+      "contentSnippet": "Google DeepMind Accelerator selects 15 robotics companies from across Europe to join the program. Providing 3 months of intensive mentorship and technical support, enabl…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Carolina Parada"
+        ],
+        "title": [
+          "VP Robotics"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌DeepMind加速器项目从欧洲选拔了15家机器人企业，为它们提供为期三个月的密集技术指导与支持。该项目旨在助力这些企业推动欧洲机器人领域的未来发展。",
+        "en": "Google DeepMind Accelerator has selected 15 robotics companies from across Europe for its program. Participants will receive three months of intensive mentorship and technical support to accelerate innovation and advance their work in the field. The initiative aims to foster growth and collaboration within Europe's robotics sector."
+      },
+      "summary": "谷歌DeepMind加速器项目从欧洲选拔了15家机器人企业，为它们提供为期三个月的密集技术指导与支持。该项目旨在助力这些企业推动欧洲机器人领域的未来发展。"
+    },
+    {
+      "title": "Bringing the latest Gemini models to Apple developers",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/bringing-gemini-models-to-apple-developers/",
+      "pubDate": "Mon, 08 Jun 2026 23:45:00 +0000",
+      "isoDate": "2026-06-08T23:45:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fuji_BlogHeader_v3.max-600x600.format-webp.webp\">Apple developers can now securely call cloud-hosted Gemini models using the Foundation Models framework, and access Gemini in Xcode.",
+      "contentSnippet": "Apple developers can now securely call cloud-hosted Gemini models using the Foundation Models framework, and access Gemini in Xcode.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Nicholas McNamara"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "苹果开发者现可通过Foundation Models框架安全调用云端Gemini模型，并能在Xcode中使用Gemini功能。",
+        "en": "Apple has announced that developers can now integrate Google's latest Gemini models into Apple platforms. They can securely call these cloud-hosted AI models through the Foundation Models framework and directly access Gemini capabilities within the Xcode development environment. This integration provides Apple developers with new tools to enhance their applications using advanced generative AI features."
+      },
+      "summary": "苹果开发者现可通过Foundation Models框架安全调用云端Gemini模型，并能在Xcode中使用Gemini功能。"
+    },
+    {
+      "title": "What's trending on Search during the 2026 NBA Finals",
+      "link": "https://blog.google/products-and-platforms/products/search/nba-finals-trends-2026/",
+      "pubDate": "Mon, 08 Jun 2026 22:00:00 +0000",
+      "isoDate": "2026-06-08T22:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/basketball_herosocial.max-600x600.format-webp.webp\">Explore Google Trends Data on the 2026 NBA Finals featuring the San Antonio Spurs vs. the New York Knicks.",
+      "contentSnippet": "Explore Google Trends Data on the 2026 NBA Finals featuring the San Antonio Spurs vs. the New York Knicks.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Megan Stoner"
+        ],
+        "title": [
+          "Keyword Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "2026年NBA总决赛期间，Google Trends数据显示了圣安东尼奥马刺队对阵纽约尼克斯队期间的搜索趋势。",
+        "en": "This summary is based on the provided article title and content. It discusses Google Trends data related to the 2026 NBA Finals, which features a matchup between the San Antonio Spurs and the New York Knicks. The content points to an exploration of search trends surrounding this championship series."
+      },
+      "summary": "2026年NBA总决赛期间，Google Trends数据显示了圣安东尼奥马刺队对阵纽约尼克斯队期间的搜索趋势。"
+    },
+    {
+      "title": "Do better research with NotebookLM",
+      "link": "https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/",
+      "pubDate": "Mon, 08 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-08T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG_1_Hero_2x.max-600x600.format-webp.webp\">NotebookLM’s latest upgrades deliver new agentic capabilities and more advanced reasoning to tackle complex research projects.",
+      "contentSnippet": "NotebookLM’s latest upgrades deliver new agentic capabilities and more advanced reasoning to tackle complex research projects.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Trond Wuellner"
+        ],
+        "title": [
+          "Director of Product Management"
+        ],
+        "department": [
+          "NotebookLM"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "NotebookLM最新升级新增了代理能力并增强了高级推理功能，旨在帮助用户更高效地处理复杂的研究项目。",
+        "en": "NotebookLM has received upgrades introducing new agentic capabilities and enhanced reasoning. These features are designed to assist users in managing and conducting complex research projects more effectively."
+      },
+      "summary": "NotebookLM最新升级新增了代理能力并增强了高级推理功能，旨在帮助用户更高效地处理复杂的研究项目。"
+    },
+    {
+      "title": "Our latest fraud and scams advisory",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fraud-scams-advisory-june-2026/",
+      "pubDate": "Mon, 08 Jun 2026 14:00:00 +0000",
+      "isoDate": "2026-06-08T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Online_Scams_Advisory.max-600x600.format-webp.webp\">An overview from Google’s Trust & Safety teams on the most recent online scam trends.",
+      "contentSnippet": "An overview from Google’s Trust & Safety teams on the most recent online scam trends.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Laurie Richardson"
+        ],
+        "title": [
+          "Vice President, Trust & Safety"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌安全团队近期发布了关于最新网络诈骗趋势的概览通报。",
+        "en": "Google’s Trust & Safety teams have released an overview highlighting the most recent trends in online scams and fraud. The advisory serves as an informational update to raise awareness about current malicious schemes targeting internet users."
+      },
+      "summary": "谷歌安全团队近期发布了关于最新网络诈骗趋势的概览通报。"
+    },
+    {
+      "title": "4 ways soccer fans can catch every moment of the tournament",
+      "link": "https://blog.google/products-and-platforms/products/search/soccer-tournament-google-tools-2026/",
+      "pubDate": "Mon, 08 Jun 2026 13:00:00 +0000",
+      "isoDate": "2026-06-08T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/World_Cup.max-600x600.format-webp.webp\">Google tools — like Maps, Gemini and AI Mode in Search — can help guide you from the first whistle to the final goal.",
+      "contentSnippet": "Google tools — like Maps, Gemini and AI Mode in Search — can help guide you from the first whistle to the final goal.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Keyword Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "文章介绍了足球迷不错过赛事的四种方式之一：利用谷歌工具。这些工具包括地图、Gemini以及搜索中的AI模式，旨在为观众从开场哨到最终进球的整个观赛过程提供便利。",
+        "en": "This article outlines how soccer fans can use Google tools, including Maps, Gemini, and the AI Mode in Search, to follow a tournament comprehensively. These services are designed to help viewers navigate the event from the opening match to the final game. The piece suggests that Google’s suite of applications offers various ways to stay updated and engaged with the competition."
+      },
+      "summary": "文章介绍了足球迷不错过赛事的四种方式之一：利用谷歌工具。这些工具包括地图、Gemini以及搜索中的AI模式，旨在为观众从开场哨到最终进球的整个观赛过程提供便利。"
+    },
+    {
+      "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "pubDate": "Fri, 05 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-05T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Visual_Blog.max-600x600.format-webp.webp\">We’re releasing Gemma 4 quantization-aware training checkpoints, reducing memory requirements and improving on-device performance.",
+      "contentSnippet": "We’re releasing Gemma 4 quantization-aware training checkpoints, reducing memory requirements and improving on-device performance.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Olivier Lacombe"
+        ],
+        "title": [
+          "Director of Product Management"
+        ],
+        "department": [
+          "Google Deepmind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌发布了Gemma 4量化感知训练模型检查点，旨在通过模型压缩技术降低内存占用并提升在移动设备与笔记本电脑上的运行效率。",
+        "en": "Google has released Gemma 4 quantization-aware training (QAT) checkpoints. These models are optimized to reduce memory requirements and enhance on-device performance, specifically targeting greater efficiency for mobile and laptop use."
+      },
+      "summary": "谷歌发布了Gemma 4量化感知训练模型检查点，旨在通过模型压缩技术降低内存占用并提升在移动设备与笔记本电脑上的运行效率。"
+    },
+    {
+      "title": "The latest AI news we announced in May 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "pubDate": "Fri, 05 Jun 2026 14:45:00 +0000",
+      "isoDate": "2026-06-05T14:45:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from May 2026",
+      "contentSnippet": "Here are Google’s latest AI updates from May 2026",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "The Keyword Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌于2026年5月发布了最新的人工智能相关资讯。此次发布集中了该公司在该月的主要AI动态与更新，但具体内容未在提供的片段中详细说明。",
+        "en": "Based on the provided content, here is a concise summary:\n\nThe article announces that Google released its latest AI news and updates in May 2026. However, the provided text does not include any specific details, descriptions, or key points regarding what those updates actually entail. The summary can only confirm the announcement was made."
+      },
+      "summary": "谷歌于2026年5月发布了最新的人工智能相关资讯。此次发布集中了该公司在该月的主要AI动态与更新，但具体内容未在提供的片段中详细说明。"
+    },
+    {
+      "title": "Utah State brings Gemini for Education to all K-12 schools",
+      "link": "https://blog.google/products-and-platforms/products/education/utah-state-education-partnership/",
+      "pubDate": "Thu, 04 Jun 2026 21:30:00 +0000",
+      "isoDate": "2026-06-04T21:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Utah_State_brings_Gemini_for_Ed.max-600x600.format-webp.webp\">Google and the Utah State Board of Education partner to bring Gemini for Education to educators and students statewide.",
+      "contentSnippet": "Google and the Utah State Board of Education partner to bring Gemini for Education to educators and students statewide.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Drew Sidel"
+        ],
+        "title": [
+          "North America Lead"
+        ],
+        "department": [
+          "Google Workspace and AI for Education"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌公司与犹他州教育委员会合作，将面向教育领域的Gemini人工智能工具推广至全州所有K-12学校的教师和学生。",
+        "en": "Google and the Utah State Board of Education have partnered to provide Gemini for Education, an AI-powered learning tool, to all K-12 schools across the state. This initiative will make the platform available to both educators and students, expanding access to the technology statewide."
+      },
+      "summary": "谷歌公司与犹他州教育委员会合作，将面向教育领域的Gemini人工智能工具推广至全州所有K-12学校的教师和学生。"
+    },
+    {
+      "title": "Kaggle is making AI benchmark creation effortless",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-kaggle--benchmarks-locally/",
+      "pubDate": "Thu, 04 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-04T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kaggle_is_making_AI_benchmark_H.max-600x600.format-webp.webp\">Today, we’re launching local development for Kaggle Benchmarks.",
+      "contentSnippet": "Today, we’re launching local development for Kaggle Benchmarks.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Nicholas Kang"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          "Kaggle"
+        ]
+      },
+      "summaries": {
+        "zh": "Kaggle平台宣布推出Kaggle基准测试的本地开发功能。",
+        "en": "Kaggle has announced the launch of local development for its Kaggle Benchmarks platform, a feature designed to streamline the process of creating AI benchmarks."
+      },
+      "summary": "Kaggle平台宣布推出Kaggle基准测试的本地开发功能。"
+    },
+    {
+      "title": "Industry leaders share new perspectives on generative media for startups",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/future-of-ai/",
+      "pubDate": "Thu, 04 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-04T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Future_of_AI_hero.max-600x600.format-webp.webp\">We’re sharing our findings in Google for Startups’ latest report, the Future of AI: Perspectives on generative media for startups.",
+      "contentSnippet": "We’re sharing our findings in Google for Startups’ latest report, the Future of AI: Perspectives on generative media for startups.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Darren Mowry"
+        ],
+        "title": [
+          "Vice President"
+        ],
+        "department": [
+          "Global Startups and Investor Ecosystems"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌初创企业项目发布了最新报告《AI未来：初创企业生成式媒体展望》，分享了行业领导者对初创企业生成式媒体发展的新见解。",
+        "en": "Google for Startups has released a new report titled \"The Future of AI: Perspectives on generative media for startups,\" which shares industry leaders' insights and findings on the application and potential of generative media for startup companies."
+      },
+      "summary": "谷歌初创企业项目发布了最新报告《AI未来：初创企业生成式媒体展望》，分享了行业领导者对初创企业生成式媒体发展的新见解。"
+    },
+    {
+      "title": "A new profile to help publishers and creators highlight their work on Search",
+      "link": "https://blog.google/products-and-platforms/products/search/a-new-profile-to-help-publishers-and-creators-highlight-their-work-on-search/",
+      "pubDate": "Thu, 04 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-04T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Profile_Launch_hero_gmeP.max-600x600.format-webp.webp\">We’re introducing a new, dedicated space for creators, publishers and brands.",
+      "contentSnippet": "We’re introducing a new, dedicated space for creators, publishers and brands.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ibrahim Badr"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Search"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌搜索推出新的个人资料页，为创作者、出版商和品牌提供专属展示空间。",
+        "en": "Google is introducing a new, dedicated profile space designed for creators, publishers, and brands. This feature aims to help them highlight their work directly within Google Search results."
+      },
+      "summary": "谷歌搜索推出新的个人资料页，为创作者、出版商和品牌提供专属展示空间。"
+    },
+    {
+      "title": "Meet Kameirah, this year’s Doodle for Google winner!",
+      "link": "https://blog.google/company-news/inside-google/doodles/2026-winner/",
+      "pubDate": "Thu, 04 Jun 2026 13:15:00 +0000",
+      "isoDate": "2026-06-04T13:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2096x1182.max-600x600.format-webp.webp\">Kameirah, a high school senior from Washington, shares more about the inspiration behind her winning Doodle.",
+      "contentSnippet": "Kameirah, a high school senior from Washington, shares more about the inspiration behind her winning Doodle.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Selly Sallah"
+        ],
+        "title": [
+          "Product Marketing Manager"
+        ],
+        "department": [
+          "Brand Studio"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "华盛顿州高中生Kameirah赢得今年“谷歌涂鸦”比赛。她在采访中分享了获奖作品的创作灵感来源。",
+        "en": "Kameirah, a high school senior from Washington, has won the Doodle for Google competition. The article features her discussing the inspiration behind her winning artwork. No further details about the specific theme or her creative process are provided in the given content."
+      },
+      "summary": "华盛顿州高中生Kameirah赢得今年“谷歌涂鸦”比赛。她在采访中分享了获奖作品的创作灵感来源。"
+    },
+    {
+      "title": "We’re announcing a new data center and energy investments in Gray and Roberts Counties, Texas.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/meitner-energy-center/",
+      "pubDate": "Thu, 04 Jun 2026 13:00:00 +0000",
+      "isoDate": "2026-06-04T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Texas_Social.max-600x600.format-webp.webp\">Google and Intersect are announcing construction of the Meitner Energy Center, a new data center and new energy generation in Texas.",
+      "contentSnippet": "Google and Intersect are announcing construction of the Meitner Energy Center, a new data center and new energy generation in Texas.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌与Intersect宣布将在德克萨斯州格雷和罗伯茨县建造迈特纳能源中心，该项目包括新建数据中心及配套能源设施。",
+        "en": "Google and Intersect have announced the construction of the Meitner Energy Center in Texas. This project includes both a new data center and new energy generation facilities. The announcement specifies the location as Gray and Roberts Counties, Texas."
+      },
+      "summary": "谷歌与Intersect宣布将在德克萨斯州格雷和罗伯茨县建造迈特纳能源中心，该项目包括新建数据中心及配套能源设施。"
+    }
+  ],
+  "lastUpdated": "2026-06-09T16:59:25.756Z"
+}

@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "https://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "Apple WWDC 2026 Recap: What’s Coming to iPhone, Mac and Other Devices",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/apple-wwdc-2026-recap-everything-coming-to-iphone-mac-apple-watch-and-more",
+      "pubDate": "Tue, 09 Jun 2026 16:39:23 GMT",
+      "isoDate": "2026-06-09T16:39:23.000Z",
+      "content": "Apple Inc. unveiled a new artificial intelligence strategy on Monday at its annual Worldwide Developers Conference, aiming to provide practical improvements and features that the company believes everyday consumers will actually use.",
+      "contentSnippet": "Apple Inc. unveiled a new artificial intelligence strategy on Monday at its annual Worldwide Developers Conference, aiming to provide practical improvements and features that the company believes everyday consumers will actually use.",
+      "creator": "Samantha Kelly",
+      "summaries": {
+        "zh": "苹果公司在2026年全球开发者大会（WWDC）上公布新人工智能战略，旨在提供日常消费者可实际使用的实用改进和功能。此次更新将涉及iPhone、Mac及其他设备。",
+        "en": "At its WWDC 2026 event, Apple announced a new artificial intelligence strategy focused on delivering practical, everyday features for consumers across its iPhone, Mac, and other devices. The company emphasized utility, aiming to introduce AI-driven improvements that are designed for regular use."
+      },
+      "summary": "苹果公司在2026年全球开发者大会（WWDC）上公布新人工智能战略，旨在提供日常消费者可实际使用的实用改进和功能。此次更新将涉及iPhone、Mac及其他设备。"
+    },
+    {
+      "title": "NASA Picks Crew for 2027 Artemis Mission to Test Moon Landers",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/nasa-picks-crew-for-2027-artemis-mission-to-test-moon-landers",
+      "pubDate": "Tue, 09 Jun 2026 16:37:40 GMT",
+      "isoDate": "2026-06-09T16:37:40.000Z",
+      "content": "NASA announced the four astronauts who will fly to space as soon as next year to test out moon landers built by SpaceX and Blue Origin &mdash; the next stage in the agency’s ambitious Artemis program to ultimately send humans back to the lunar surface.",
+      "contentSnippet": "NASA announced the four astronauts who will fly to space as soon as next year to test out moon landers built by SpaceX and Blue Origin — the next stage in the agency’s ambitious Artemis program to ultimately send humans back to the lunar surface.",
+      "creator": "Loren Grush",
+      "summaries": {
+        "zh": "美国国家航空航天局宣布选定四名宇航员，他们最早将于明年执行任务，以测试由太空探索技术公司和蓝色起源公司制造的月球着陆器。此举是“阿尔忒弥斯”计划的关键一步，该计划最终旨在将人类重新送上月球表面。",
+        "en": "NASA has announced the four astronauts selected for its Artemis mission, scheduled for 2027. The crew will test new moon landers developed by SpaceX and Blue Origin. This flight represents a crucial step in NASA's Artemis program, which aims to eventually return humans to the lunar surface."
+      },
+      "summary": "美国国家航空航天局宣布选定四名宇航员，他们最早将于明年执行任务，以测试由太空探索技术公司和蓝色起源公司制造的月球着陆器。此举是“阿尔忒弥斯”计划的关键一步，该计划最终旨在将人类重新送上月球表面。"
+    },
+    {
+      "title": "Meta Ordered by EU to Halt WhatsApp Curbs on AI Rivals",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/meta-ordered-by-eu-to-halt-whatsapp-curbs-on-ai-rivals",
+      "pubDate": "Tue, 09 Jun 2026 15:21:39 GMT",
+      "isoDate": "2026-06-09T15:21:39.000Z",
+      "content": "Meta Platforms Inc. has been ordered by the European Union to temporarily halt policies that allegedly block rival AI firms from operating on its WhatsApp messaging service for businesses.",
+      "contentSnippet": "Meta Platforms Inc. has been ordered by the European Union to temporarily halt policies that allegedly block rival AI firms from operating on its WhatsApp messaging service for businesses.",
+      "creator": "Samuel Stolton",
+      "summaries": {
+        "zh": "欧盟已要求Meta公司暂停其在WhatsApp企业服务中限制竞争对手AI运行的政策。该命令针对Meta涉嫌阻止其他AI公司在WhatsApp平台上开展业务的行为。",
+        "en": "The European Union has ordered Meta Platforms to temporarily halt policies on its WhatsApp business messaging service that allegedly restrict rival artificial intelligence firms from operating. This interim measure aims to prevent potential anti-competitive practices while the EU investigates further."
+      },
+      "summary": "欧盟已要求Meta公司暂停其在WhatsApp企业服务中限制竞争对手AI运行的政策。该命令针对Meta涉嫌阻止其他AI公司在WhatsApp平台上开展业务的行为。"
+    },
+    {
+      "title": "OpenAI Confidentially Files for IPO as Tech Rivals Compete for Cash",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-09/openai-confidentially-files-for-ipo-video",
+      "pubDate": "Tue, 09 Jun 2026 15:55:37 GMT",
+      "isoDate": "2026-06-09T15:55:37.000Z",
+      "content": "OpenAI filed confidentially for an IPO, as the race heads to Wall Street. Tom Mackenzie breaks down why 2026 is turning into the year of megacap tech listings. (Source: Bloomberg)",
+      "contentSnippet": "OpenAI filed confidentially for an IPO, as the race heads to Wall Street. Tom Mackenzie breaks down why 2026 is turning into the year of megacap tech listings. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI已秘密提交IPO申请，科技巨头竞相寻求资金。彭博社报道指出，2026年可能成为大型科技公司上市的关键年份，华尔街正迎来新一轮科技企业IPO浪潮。",
+        "en": "OpenAI has confidentially filed for an initial public offering (IPO), joining a competitive rush among technology companies to access Wall Street capital. This move is highlighted as part of a broader trend, with 2026 expected to be a significant year for major technology company listings. The report is sourced from Bloomberg."
+      },
+      "summary": "OpenAI已秘密提交IPO申请，科技巨头竞相寻求资金。彭博社报道指出，2026年可能成为大型科技公司上市的关键年份，华尔街正迎来新一轮科技企业IPO浪潮。"
+    },
+    {
+      "title": "AI Selloff a ‘Wake-Up Call’ for Investors, Wells Fargo Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/ai-selloff-was-a-wake-up-call-for-investors-wells-fargo-says",
+      "pubDate": "Tue, 09 Jun 2026 15:12:59 GMT",
+      "isoDate": "2026-06-09T15:12:59.000Z",
+      "content": "Friday’s technology-driven selloff was a “wake-up call” for investors, according to Wells Fargo &amp; Co., which said it has highlighted the risks of piling into the artificial-intelligence trade.",
+      "contentSnippet": "Friday’s technology-driven selloff was a “wake-up call” for investors, according to Wells Fargo & Co., which said it has highlighted the risks of piling into the artificial-intelligence trade.",
+      "creator": "Joel Leon",
+      "summaries": {
+        "zh": "富国银行表示，近日科技股引发的市场下跌为投资者敲响了警钟，突显了集中投资人工智能（AI）相关交易所蕴含的风险。",
+        "en": "Wells Fargo characterized Friday's technology-driven market selloff as a \"wake-up call\" for investors. The bank stated this event underscores the potential risks associated with heavy investment trends focused on artificial intelligence."
+      },
+      "summary": "富国银行表示，近日科技股引发的市场下跌为投资者敲响了警钟，突显了集中投资人工智能（AI）相关交易所蕴含的风险。"
+    },
+    {
+      "title": "Asia’s Largest Outsourcer to Slow Hiring as AI Reshapes Industry",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/asia-s-largest-outsourcer-to-slow-hiring-as-ai-reshapes-industry",
+      "pubDate": "Tue, 09 Jun 2026 15:32:09 GMT",
+      "isoDate": "2026-06-09T15:32:09.000Z",
+      "content": "Tata Consultancy Services Ltd., Asia’s largest outsourcer, will reduce hiring going ahead as it steps up the use of artificial intelligence agents, marking a pivotal shift in India’s labor-intensive outsourcing industry.",
+      "contentSnippet": "Tata Consultancy Services Ltd., Asia’s largest outsourcer, will reduce hiring going ahead as it steps up the use of artificial intelligence agents, marking a pivotal shift in India’s labor-intensive outsourcing industry.",
+      "creator": "Sankalp Phartiyal",
+      "summaries": {
+        "zh": "塔塔咨询服务公司作为亚洲最大的外包企业，宣布将因加速采用人工智能技术而放缓招聘。这一举措标志着印度劳动力密集型外包行业发生关键性转变。",
+        "en": "Tata Consultancy Services (TCS), Asia's largest outsourcing company, plans to reduce future hiring as it increasingly adopts artificial intelligence agents. This decision marks a significant transformation within India's traditionally labor-driven IT outsourcing sector."
+      },
+      "summary": "塔塔咨询服务公司作为亚洲最大的外包企业，宣布将因加速采用人工智能技术而放缓招聘。这一举措标志着印度劳动力密集型外包行业发生关键性转变。"
+    },
+    {
+      "title": "SpaceX IPO Draws Orders for Multiple Times the Shares Available",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/spacex-ipo-draws-orders-for-multiple-times-the-shares-available",
+      "pubDate": "Tue, 09 Jun 2026 15:14:46 GMT",
+      "isoDate": "2026-06-09T15:14:46.000Z",
+      "content": "SpaceX’s initial public offering has attracted demand from institutional investors for multiple times the available shares, according to people familiar with the matter, as the Elon Musk-led rocket, satellite and artificial intelligence firm’s debut gets closer.",
+      "contentSnippet": "SpaceX’s initial public offering has attracted demand from institutional investors for multiple times the available shares, according to people familiar with the matter, as the Elon Musk-led rocket, satellite and artificial intelligence firm’s debut gets closer.",
+      "creator": "Anthony Hughes",
+      "summaries": {
+        "zh": "SpaceX首次公开募股（IPO）已获机构投资者数倍超额认购。该公司由埃隆·马斯克领导，业务涵盖火箭、卫星及人工智能领域，此次IPO进程正加速推进。",
+        "en": "SpaceX's IPO has received demand from institutional investors that exceeds the number of available shares, according to sources. The company, led by Elon Musk and involved in rockets, satellites, and artificial intelligence, is nearing its market debut with strong investor interest."
+      },
+      "summary": "SpaceX首次公开募股（IPO）已获机构投资者数倍超额认购。该公司由埃隆·马斯克领导，业务涵盖火箭、卫星及人工智能领域，此次IPO进程正加速推进。"
+    },
+    {
+      "title": "How One Hedge Fund Is Replacing Human Analysts With AI Bots",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/magnetar-plans-fund-that-replaces-human-analysts-with-ai-bots",
+      "pubDate": "Tue, 09 Jun 2026 15:12:18 GMT",
+      "isoDate": "2026-06-09T15:12:18.000Z",
+      "content": "Magnetar Capital, the $18 billion hedge fund firm, will shun human analysts for its newest offering and instead deploy hundreds of AI bots to research stocks.",
+      "contentSnippet": "Magnetar Capital, the $18 billion hedge fund firm, will shun human analysts for its newest offering and instead deploy hundreds of AI bots to research stocks.",
+      "creator": "Hema Parmar",
+      "summaries": {
+        "zh": "美国对冲基金公司Magnetar Capital（管理资产规模达180亿美元）在最新产品中将放弃人类分析师，转而部署数百个AI机器人进行股票研究。",
+        "en": "Magnetar Capital, an $18 billion hedge fund, is launching a new offering that will not use human analysts. Instead, the firm will deploy hundreds of AI bots to conduct stock research. This represents a significant shift in its operational approach for this specific investment strategy."
+      },
+      "summary": "美国对冲基金公司Magnetar Capital（管理资产规模达180亿美元）在最新产品中将放弃人类分析师，转而部署数百个AI机器人进行股票研究。"
+    },
+    {
+      "title": "No Chips Can Be Designed Without Synopsys, CEO Says",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-09/no-chips-can-be-designed-without-synopsys-ceo-says-video",
+      "pubDate": "Tue, 09 Jun 2026 15:01:59 GMT",
+      "isoDate": "2026-06-09T15:01:59.000Z",
+      "content": "Sassine Ghazi, Synopsys chief executive officer, talks about the growth of artificial intelligence, how it's integrated Ansys, an engineering software company it bought last year, and he says there are no chips that can be designed today without Synopsys. He speaks to Bloomberg's Romaine Bostick at the Mizuho Technology Conference in New York. (Source: Bloomberg)",
+      "contentSnippet": "Sassine Ghazi, Synopsys chief executive officer, talks about the growth of artificial intelligence, how it's integrated Ansys, an engineering software company it bought last year, and he says there are no chips that can be designed today without Synopsys. He speaks to Bloomberg's Romaine Bostick at the Mizuho Technology Conference in New York. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "Synopsys首席执行官指出，当前没有芯片设计能离开其技术工具。他同时谈及人工智能发展及公司收购的工程软件企业Ansys的整合情况。该观点是在纽约一次科技会议上接受采访时提出的。",
+        "en": "Synopsys CEO Sassine Ghazi discussed the growth of artificial intelligence and the integration of engineering software company Ansys, which Synopsys acquired last year. Speaking at the Mizuho Technology Conference in New York, he emphasized that Synopsys is indispensable in the industry, stating that no chips can be designed today without the company's technology."
+      },
+      "summary": "Synopsys首席执行官指出，当前没有芯片设计能离开其技术工具。他同时谈及人工智能发展及公司收购的工程软件企业Ansys的整合情况。该观点是在纽约一次科技会议上接受采访时提出的。"
+    },
+    {
+      "title": "Expectations From Apple’s Big AI, Siri Launch",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-08/expectations-from-apple-s-big-ai-siri-launch-video",
+      "pubDate": "Mon, 08 Jun 2026 18:01:56 GMT",
+      "isoDate": "2026-06-08T18:01:56.000Z",
+      "content": "Carolina Milanesi, Creative Strategies president and principal analyst, joins Ed Ludlow in Cupertino, California to discuss what happens next after Apple rolls out an overhauled version of the Siri digital assistant, and the importance of having the AI embedded into the consumer's devices. She joins on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "contentSnippet": "Carolina Milanesi, Creative Strategies president and principal analyst, joins Ed Ludlow in Cupertino, California to discuss what happens next after Apple rolls out an overhauled version of the Siri digital assistant, and the importance of having the AI embedded into the consumer's devices. She joins on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "创意策略总裁兼首席分析师卡罗拉·米拉内西在彭博科技节目中讨论了苹果即将推出全新版本的Siri数字助手，并强调了将人工智能嵌入消费者设备的重要性。此次升级是苹果AI战略的关键一步，旨在通过深度集成提升用户体验。",
+        "en": "In a Bloomberg Tech segment, Creative Strategies president and principal analyst Carolina Milanesi discussed Apple's upcoming launch of an overhauled Siri digital assistant. Speaking from Cupertino with Ed Ludlow, she focused on the implications of this AI update and emphasized the strategic importance of embedding artificial intelligence directly into consumer devices. The conversation highlighted expectations for Apple's next steps in integrating advanced AI across its product ecosystem."
+      },
+      "summary": "创意策略总裁兼首席分析师卡罗拉·米拉内西在彭博科技节目中讨论了苹果即将推出全新版本的Siri数字助手，并强调了将人工智能嵌入消费者设备的重要性。此次升级是苹果AI战略的关键一步，旨在通过深度集成提升用户体验。"
+    },
+    {
+      "title": "Roblox Shares Rise on Report Russia May Unblock Gaming Platform",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/roblox-shares-rise-on-report-russia-may-unblock-gaming-platform",
+      "pubDate": "Tue, 09 Jun 2026 14:48:10 GMT",
+      "isoDate": "2026-06-09T14:48:10.000Z",
+      "content": "Roblox Corp. shares jumped after a report Russian government agencies proposed lifting restrictions on the company’s gaming platform, though any final decision rests with law enforcement authorities.",
+      "contentSnippet": "Roblox Corp. shares jumped after a report Russian government agencies proposed lifting restrictions on the company’s gaming platform, though any final decision rests with law enforcement authorities.",
+      "creator": "Andrey Lemeshko",
+      "summaries": {
+        "zh": "据外媒报道，俄罗斯政府部门提议解除对游戏平台罗布乐思（Roblox）的访问限制，受此消息提振，该公司股价上涨。但最终决定权仍掌握在俄执法机构手中。",
+        "en": "Roblox shares saw a significant increase following reports that Russian government agencies have proposed lifting restrictions on its gaming platform. However, the article clarifies that any final decision on the matter remains with law enforcement authorities. The news indicates a potential positive development for the company's access to the Russian market, though the outcome is not yet determined."
+      },
+      "summary": "据外媒报道，俄罗斯政府部门提议解除对游戏平台罗布乐思（Roblox）的访问限制，受此消息提振，该公司股价上涨。但最终决定权仍掌握在俄执法机构手中。"
+    },
+    {
+      "title": "Crusoe Touts 5 Gigawatts of Data Centers, Pauses Wyoming Site",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/crusoe-touts-5-gigawatts-worth-of-data-centers-deals-pauses-wyoming-site",
+      "pubDate": "Tue, 09 Jun 2026 14:30:00 GMT",
+      "isoDate": "2026-06-09T14:30:00.000Z",
+      "content": "Crusoe, a developer of data centers for companies like OpenAI and Microsoft Corp., said it has contracts for almost 5 gigawatts of capacity, even though it has paused work on a significant project in Wyoming.",
+      "contentSnippet": "Crusoe, a developer of data centers for companies like OpenAI and Microsoft Corp., said it has contracts for almost 5 gigawatts of capacity, even though it has paused work on a significant project in Wyoming.",
+      "creator": "Dina Bass",
+      "summaries": {
+        "zh": "数据中心开发商Crusoe（服务对象包括OpenAI和微软）表示，尽管暂停了在怀俄明州的一个重要项目，但公司已签约近5吉瓦的数据中心容量。",
+        "en": "Crusoe, a data center developer serving clients like OpenAI and Microsoft, has secured contracts for nearly 5 gigawatts of capacity. However, the company has paused construction on a major project in Wyoming. Despite this pause, the overall contracted capacity indicates the company's continued significant expansion in infrastructure."
+      },
+      "summary": "数据中心开发商Crusoe（服务对象包括OpenAI和微软）表示，尽管暂停了在怀俄明州的一个重要项目，但公司已签约近5吉瓦的数据中心容量。"
+    },
+    {
+      "title": "Oura Ring 5 is 40% Smaller and Has New Health Features ",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-09/oura-ring-5-is-40-smaller-and-has-new-health-features-video",
+      "pubDate": "Tue, 09 Jun 2026 13:50:00 GMT",
+      "isoDate": "2026-06-09T13:50:00.000Z",
+      "content": "Oura Ring 5 is here, 40% smaller &mdash; closer to the size of a wedding band &mdash; and has some brand new health features. Mark Gurman explores how the Oura Ring has evolved, generation by generation  (Source: Bloomberg)",
+      "contentSnippet": "Oura Ring 5 is here, 40% smaller — closer to the size of a wedding band — and has some brand new health features. Mark Gurman explores how the Oura Ring has evolved, generation by generation  (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "Oura Ring 5发布，体积比前代缩小40%，接近普通戒指大小，并引入了全新的健康监测功能。彭博社的Mark Gurman在报道中探讨了该产品历代的发展演变。",
+        "en": "The Oura Ring 5 has been released, featuring a size reduction of 40%, making it comparable to a wedding band in form factor. It also introduces new health-tracking features. The article, sourced from Bloomberg, examines the generational evolution of the Oura Ring."
+      },
+      "summary": "Oura Ring 5发布，体积比前代缩小40%，接近普通戒指大小，并引入了全新的健康监测功能。彭博社的Mark Gurman在报道中探讨了该产品历代的发展演变。"
+    },
+    {
+      "title": "SpaceX, Anthropic, OpenAI Can Rewrite History for Megacap IPOs",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/spacex-anthropic-openai-can-rewrite-history-for-megacap-ipos",
+      "pubDate": "Tue, 09 Jun 2026 08:41:16 GMT",
+      "isoDate": "2026-06-09T08:41:16.000Z",
+      "content": "The history of megacap initial public offerings shows that the stocks usually slump in the first year of trading. But upcoming listings from SpaceX, Anthropic and OpenAI are big enough and systemically important enough to the market that those analogies may not apply.",
+      "contentSnippet": "The history of megacap initial public offerings shows that the stocks usually slump in the first year of trading. But upcoming listings from SpaceX, Anthropic and OpenAI are big enough and systemically important enough to the market that those analogies may not apply.",
+      "creator": "Carmen Reinicke",
+      "summaries": {
+        "zh": "大型科技公司IPO历史表明，其上市首年股价通常会下跌。但即将上市的SpaceX、Anthropic和OpenAI因规模庞大且对市场至关重要，以往规律可能不再适用。",
+        "en": "Historically, megacap IPOs have often seen their stock prices decline within the first year of trading. However, the upcoming IPOs of SpaceX, Anthropic, and OpenAI are expected to be an exception. Their massive scale and systemic importance to the market may mean the traditional analogy of a first-year slump does not apply to these listings."
+      },
+      "summary": "大型科技公司IPO历史表明，其上市首年股价通常会下跌。但即将上市的SpaceX、Anthropic和OpenAI因规模庞大且对市场至关重要，以往规律可能不再适用。"
+    },
+    {
+      "title": "Apple Expands Child Safety Tools as Social Media Bans Grow",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/apple-expands-child-safety-tools-as-social-media-bans-grow",
+      "pubDate": "Tue, 09 Jun 2026 08:06:30 GMT",
+      "isoDate": "2026-06-09T08:06:30.000Z",
+      "content": "Apple Inc. is expanding tools for parents to protect children online, a move that comes as governments around the world are increasingly banning social media for young people.",
+      "contentSnippet": "Apple Inc. is expanding tools for parents to protect children online, a move that comes as governments around the world are increasingly banning social media for young people.",
+      "creator": "Newley Purnell",
+      "summaries": {
+        "zh": "苹果公司正加强其儿童网络保护工具，此举背景是全球多地政府愈发频繁地对青少年实施社交媒体禁令。",
+        "en": "Apple Inc. is introducing expanded online safety tools for parents to protect children. This development occurs amid a growing global trend of governments implementing social media bans targeting young users. The initiative aims to enhance child safety in digital spaces."
+      },
+      "summary": "苹果公司正加强其儿童网络保护工具，此举背景是全球多地政府愈发频繁地对青少年实施社交媒体禁令。"
+    },
+    {
+      "title": "Taiwan Eyes Curbs on AI Chip Sales to China to Align With US",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/taiwan-mulls-curbs-on-ai-chip-exports-to-china-to-align-with-us",
+      "pubDate": "Tue, 09 Jun 2026 10:07:50 GMT",
+      "isoDate": "2026-06-09T10:07:50.000Z",
+      "content": "Taiwan authorities are considering much stricter export controls on AI chip sales to China to further align with US measures, according to people familiar with the matter, an effort to address semiconductor smuggling that risks drawing a rebuke from Beijing.",
+      "contentSnippet": "Taiwan authorities are considering much stricter export controls on AI chip sales to China to further align with US measures, according to people familiar with the matter, an effort to address semiconductor smuggling that risks drawing a rebuke from Beijing.",
+      "creator": "Mackenzie Hawkins, Debby Wu",
+      "summaries": {
+        "zh": "据知情人士透露，台湾当局正考虑对AI芯片对华出口实施更严格的管制，以进一步与美国保持一致。此举旨在打击半导体走私问题，但可能招致北京方面的批评。",
+        "en": "Taiwan is considering stricter export controls on AI chip sales to China to align with U.S. measures. This move aims to address semiconductor smuggling, which could provoke a rebuke from Beijing. The potential policy shift reflects ongoing geopolitical tensions over advanced technology trade."
+      },
+      "summary": "据知情人士透露，台湾当局正考虑对AI芯片对华出口实施更严格的管制，以进一步与美国保持一致。此举旨在打击半导体走私问题，但可能招致北京方面的批评。"
+    },
+    {
+      "title": "Europe’s Space Race Gains Pace With Iceye’s Jump to €10 Billion Valuation",
+      "link": "https://www.bloomberg.com/news/features/2026-06-09/iceye-10-billion-valuation-shows-europe-firmly-in-space-race",
+      "pubDate": "Tue, 09 Jun 2026 12:47:40 GMT",
+      "isoDate": "2026-06-09T12:47:40.000Z",
+      "content": "<p>Finnish satellite-intelligence company is one in an&nbsp;ecosystem of space-based industries that’s&nbsp;emerging in Europe</p>",
+      "contentSnippet": "Finnish satellite-intelligence company is one in an ecosystem of space-based industries that’s emerging in Europe",
+      "creator": "Konrad Krasuski",
+      "summaries": {
+        "zh": "芬兰卫星侦察公司Iceye估值跃升至100亿欧元，标志着欧洲航天竞赛加速。该公司是欧洲新兴航天产业生态中的重要一员。",
+        "en": "Finnish satellite-intelligence company ICEYE has reached a valuation of €10 billion. This milestone highlights the rapid growth of Europe's space-based industry ecosystem. The development underscores the accelerating pace and investment within Europe's broader space race."
+      },
+      "summary": "芬兰卫星侦察公司Iceye估值跃升至100亿欧元，标志着欧洲航天竞赛加速。该公司是欧洲新兴航天产业生态中的重要一员。"
+    },
+    {
+      "title": "OpenAI Joins a Massive AI IPO Pipeline Now Worth $3.6 Trillion",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market",
+      "pubDate": "Mon, 08 Jun 2026 21:19:23 GMT",
+      "isoDate": "2026-06-08T21:19:23.000Z",
+      "content": "ChatGPT creator OpenAI became the third major artificial intelligence developer to confidentially file for a public listing Monday, joining rivals in an IPO pipeline now worth some $3.6 trillion.",
+      "contentSnippet": "ChatGPT creator OpenAI became the third major artificial intelligence developer to confidentially file for a public listing Monday, joining rivals in an IPO pipeline now worth some $3.6 trillion.",
+      "creator": "Bailey Lipschultz, Shirin Ghaffary",
+      "summaries": {
+        "zh": "ChatGPT开发者OpenAI已秘密提交上市申请，成为第三家寻求公开上市的主要人工智能开发商。目前，人工智能领域的待上市企业总估值已达约3.6万亿美元。",
+        "en": "OpenAI, the creator of ChatGPT, has confidentially filed for a public listing. This makes it the third major AI company to do so, joining a broader IPO pipeline currently valued at approximately $3.6 trillion."
+      },
+      "summary": "ChatGPT开发者OpenAI已秘密提交上市申请，成为第三家寻求公开上市的主要人工智能开发商。目前，人工智能领域的待上市企业总估值已达约3.6万亿美元。"
+    },
+    {
+      "title": "Clip Partners With Ant on Consumer Payments Wallet in Mexico",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/clip-partners-with-ant-mastercard-on-payments-wallet-mi-clip-in-mexico",
+      "pubDate": "Tue, 09 Jun 2026 12:00:00 GMT",
+      "isoDate": "2026-06-09T12:00:00.000Z",
+      "content": "Mexican payments company Clip is launching a digital wallet as it pushes to bring millions of consumers and small businesses into the country’s formal financial system.",
+      "contentSnippet": "Mexican payments company Clip is launching a digital wallet as it pushes to bring millions of consumers and small businesses into the country’s formal financial system.",
+      "creator": "Maria Clara Cobo",
+      "summaries": {
+        "zh": "墨西哥支付公司Clip与蚂蚁集团合作，推出数字钱包服务。此举旨在推动数百万消费者及小型企业纳入该国正规金融体系。",
+        "en": "Mexican payments company Clip is partnering with Ant to launch a digital wallet. The initiative aims to bring millions of consumers and small businesses into Mexico’s formal financial system."
+      },
+      "summary": "墨西哥支付公司Clip与蚂蚁集团合作，推出数字钱包服务。此举旨在推动数百万消费者及小型企业纳入该国正规金融体系。"
+    },
+    {
+      "title": "Banks Sell Out After Broadband Firms’ Land Grab Backfires",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/broadband-firms-land-grab-backfired-and-banks-are-selling-out",
+      "pubDate": "Tue, 09 Jun 2026 06:15:00 GMT",
+      "isoDate": "2026-06-09T06:15:00.000Z",
+      "content": "Banks with exposure to heavily-indebted broadband providers are selling their loans to distressed debt funds at a discount, a sign of their increasing weariness with the cash-strapped sector.",
+      "contentSnippet": "Banks with exposure to heavily-indebted broadband providers are selling their loans to distressed debt funds at a discount, a sign of their increasing weariness with the cash-strapped sector.",
+      "creator": "Libby Cherry, Constantine Courcoulas",
+      "summaries": {
+        "zh": "银行正将与高负债宽带提供商相关的贷款折价出售给困境债务基金，反映出该行业资金紧张，银行对这一领域的信心下降。",
+        "en": "Banks with significant loans to indebted broadband providers are selling this debt to distressed debt funds at a discount. This move signals growing concern and fatigue among lenders regarding the financial stability of cash-strapped companies in the broadband sector."
+      },
+      "summary": "银行正将与高负债宽带提供商相关的贷款折价出售给困境债务基金，反映出该行业资金紧张，银行对这一领域的信心下降。"
+    },
+    {
+      "title": "Klarna Launches US Savings Accounts to Attract Everyday Users",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/klarna-klar-launches-high-yield-savings-accounts-in-us-with-over-3-apy",
+      "pubDate": "Tue, 09 Jun 2026 11:30:00 GMT",
+      "isoDate": "2026-06-09T11:30:00.000Z",
+      "content": "Klarna Group Plc is launching savings accounts in the US as the digital lender looks to deepen its core banking business and attract more everyday users.",
+      "contentSnippet": "Klarna Group Plc is launching savings accounts in the US as the digital lender looks to deepen its core banking business and attract more everyday users.",
+      "creator": "Aisha S Gani",
+      "summaries": {
+        "zh": "瑞典金融科技公司 Klarna 宣布在美国推出储蓄账户，旨在深化其核心银行服务并吸引更多普通用户。",
+        "en": "Klarna Group Plc is launching savings accounts in the United States. This strategic move aims to deepen its core banking services and attract a broader base of everyday users."
+      },
+      "summary": "瑞典金融科技公司 Klarna 宣布在美国推出储蓄账户，旨在深化其核心银行服务并吸引更多普通用户。"
+    },
+    {
+      "title": "Ad Agencies Are a Buying Opportunity in AI Era, Berenberg Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/ad-agencies-are-a-buying-opportunity-in-ai-era-berenberg-says",
+      "pubDate": "Tue, 09 Jun 2026 11:21:23 GMT",
+      "isoDate": "2026-06-09T11:21:23.000Z",
+      "content": "Investor jitters about the potential disruption caused by artificial-intelligence adoption has created a broad-based buying opportunity for the shares of European advertising agencies, according to Berenberg analysts.",
+      "contentSnippet": "Investor jitters about the potential disruption caused by artificial-intelligence adoption has created a broad-based buying opportunity for the shares of European advertising agencies, according to Berenberg analysts.",
+      "creator": "Lisa Pham",
+      "summaries": {
+        "zh": "贝伦贝格分析师指出，由于市场担忧人工智能应用可能带来的颠覆，欧洲广告公司股价出现波动，但这正为投资者提供了广泛的买入机会。",
+        "en": "According to Berenberg analysts, investor concerns about disruption from artificial intelligence adoption have created a broad buying opportunity for shares of European advertising agencies. The analysts suggest that market jitters have undervalued these companies in the face of AI's potential impact, making them attractive investments."
+      },
+      "summary": "贝伦贝格分析师指出，由于市场担忧人工智能应用可能带来的颠覆，欧洲广告公司股价出现波动，但这正为投资者提供了广泛的买入机会。"
+    },
+    {
+      "title": "Japan Inc.’s Shake-Up Sparks Flashbacks to Dot.com Boom and Bust",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-06-09/reshuffling-of-japan-inc-s-corporate-ranks-stirs-memories-of-the-dot-com-bubble",
+      "pubDate": "Tue, 09 Jun 2026 11:02:01 GMT",
+      "isoDate": "2026-06-09T11:02:01.000Z",
+      "content": "The rise to the top by AI-related companies has parallels to an earlier bubble",
+      "contentSnippet": "The rise to the top by AI-related companies has parallels to an earlier bubble",
+      "creator": "Alice French",
+      "summaries": {
+        "zh": "日本AI相关企业迅速崛起至行业领先位置，其发展轨迹与早年互联网泡沫时期的兴衰模式存在相似性。",
+        "en": "The article draws parallels between the rapid rise of AI-related companies in Japan and the earlier dot-com boom, suggesting that the current surge in AI firms may follow a similar pattern of inflated growth followed by a downturn."
+      },
+      "summary": "日本AI相关企业迅速崛起至行业领先位置，其发展轨迹与早年互联网泡沫时期的兴衰模式存在相似性。"
+    },
+    {
+      "title": "Standard Bots Raises $200 Million to Manufacture Robots in US",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/standard-bots-raises-200-million-to-manufacture-robots-in-us",
+      "pubDate": "Tue, 09 Jun 2026 11:00:00 GMT",
+      "isoDate": "2026-06-09T11:00:00.000Z",
+      "content": "Standard Bots has raised $200 million in a new round of funding to ramp up manufacturing of robotic arms in the US as the country vies to keep pace with China in building more advanced robots.",
+      "contentSnippet": "Standard Bots has raised $200 million in a new round of funding to ramp up manufacturing of robotic arms in the US as the country vies to keep pace with China in building more advanced robots.",
+      "creator": "Paayal Zaveri, Ryan Weeks",
+      "summaries": {
+        "zh": "美国机器人公司Standard Bots近期获得2亿美元融资，旨在加快在美国本土制造机械臂。此举旨在提升美国在先进机器人制造领域的能力，以保持与中国在该领域的竞争力。",
+        "en": "Standard Bots has secured $200 million in new funding. The company will use this capital to increase the production of robotic arms within the United States. This move is part of a broader national effort to advance domestic robotics manufacturing and compete more effectively with China in the field."
+      },
+      "summary": "美国机器人公司Standard Bots近期获得2亿美元融资，旨在加快在美国本土制造机械臂。此举旨在提升美国在先进机器人制造领域的能力，以保持与中国在该领域的竞争力。"
+    },
+    {
+      "title": "AI Rivals Race to Market, Intesa Exclusive | The Pulse 6/9/2026",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-09/the-pulse-6-9-2026-video",
+      "pubDate": "Tue, 09 Jun 2026 10:43:27 GMT",
+      "isoDate": "2026-06-09T10:43:27.000Z",
+      "content": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests: Carlo Messina, Intesa Sanpaolo CEO; Angel Ubide, Citadel Head of Economic Research for Global Fixed Income & Macro; Steve Wise, Carlyle Co-Head of Americas Corporate Private Equity; Lawrence Freedman, King's College London War Studies Emeritus Professor\n (Source: Bloomberg)",
+      "contentSnippet": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests: Carlo Messina, Intesa Sanpaolo CEO; Angel Ubide, Citadel Head of Economic Research for Global Fixed Income & Macro; Steve Wise, Carlyle Co-Head of Americas Corporate Private Equity; Lawrence Freedman, King's College London War Studies Emeritus Professor\n (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "彭博商业访谈节目\"The Pulse With Francine Lacqua\"聚焦全球经济、金融与政治领域的核心议题。该节目立足伦敦，提供独家专访和市场动态报道。本期节目邀请了联合圣保罗银行首席执行官Carlo Messina、城堡投资经济研究主管Angel Ubide、凯雷集团美洲私募股权联席主管Steve Wise，以及伦敦国王学院战争研究荣休教授Lawrence Freedman。",
+        "en": "The provided content is a promotional introduction for the Bloomberg program \"The Pulse With Francine Lacqua.\" It describes the show's focus on exclusive interviews regarding global business, economics, finance, and politics. The specific episode highlights featured guests: Carlo Messina (CEO of Intesa Sanpaolo), Angel Ubide (Citadel), Steve Wise (Carlyle), and Lawrence Freedman (King's College London). The source is identified as Bloomberg. The article title references AI competition, but this theme is not addressed in the provided content snippet."
+      },
+      "summary": "彭博商业访谈节目\"The Pulse With Francine Lacqua\"聚焦全球经济、金融与政治领域的核心议题。该节目立足伦敦，提供独家专访和市场动态报道。本期节目邀请了联合圣保罗银行首席执行官Carlo Messina、城堡投资经济研究主管Angel Ubide、凯雷集团美洲私募股权联席主管Steve Wise，以及伦敦国王学院战争研究荣休教授Lawrence Freedman。"
+    },
+    {
+      "title": "China Preps $295 Billion Plan to Fund AI Buildout",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-09/china-preps-295-billion-plan-to-fund-ai-buildout-video",
+      "pubDate": "Tue, 09 Jun 2026 10:41:47 GMT",
+      "isoDate": "2026-06-09T10:41:47.000Z",
+      "content": "China is planning to spend around 2 trillion yuan ($295 billion) over the next five years to build data centers across the country. Neil Campling reports on Bloomberg Television. (Source: Bloomberg)",
+      "contentSnippet": "China is planning to spend around 2 trillion yuan ($295 billion) over the next five years to build data centers across the country. Neil Campling reports on Bloomberg Television. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "中国计划在未来五年内投入约2万亿元人民币（约合2950亿美元），用于在全国范围内建设数据中心。",
+        "en": "China is set to allocate approximately 2 trillion yuan ($295 billion) over the next five years to construct data centers nationwide as part of its strategy to advance artificial intelligence infrastructure. The significant investment underscores the country's commitment to bolstering its AI capabilities."
+      },
+      "summary": "中国计划在未来五年内投入约2万亿元人民币（约合2950亿美元），用于在全国范围内建设数据中心。"
+    },
+    {
+      "title": "Apple Delays Siri AI for iPhone Users in the EU, Says Regulators Refusing to Engage",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-08/apple-delays-siri-ai-for-iphone-users-in-eu-says-regulators-refusing-to-engage",
+      "pubDate": "Mon, 08 Jun 2026 20:23:11 GMT",
+      "isoDate": "2026-06-08T20:23:11.000Z",
+      "content": "Apple Inc. said it isn’t able to launch Siri AI, its redesigned digital assistant, on iPhones, Apple Watches or iPads in the European Union, marking the company’s latest standoff with the continent’s antitrust watchdog.",
+      "contentSnippet": "Apple Inc. said it isn’t able to launch Siri AI, its redesigned digital assistant, on iPhones, Apple Watches or iPads in the European Union, marking the company’s latest standoff with the continent’s antitrust watchdog.",
+      "creator": "Natalie Lung",
+      "summaries": {
+        "zh": "苹果公司宣布，因与欧盟监管机构存在分歧，将无法在欧洲市场的iPhone、Apple Watch和iPad上推出重新设计的Siri人工智能助手。该公司称监管方拒绝就此进行协商，导致这一延期。",
+        "en": "Apple has announced a delay in launching its redesigned Siri AI assistant on iPhones, Apple Watches, and iPads in the European Union. The company stated that EU antitrust regulators are refusing to engage, preventing the release of the new AI-powered features. This represents the latest point of contention between the tech giant and European regulatory authorities."
+      },
+      "summary": "苹果公司宣布，因与欧盟监管机构存在分歧，将无法在欧洲市场的iPhone、Apple Watch和iPad上推出重新设计的Siri人工智能助手。该公司称监管方拒绝就此进行协商，导致这一延期。"
+    },
+    {
+      "title": "China Preps $295 Billion Plan to Fund Nationwide AI Buildout",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
+      "pubDate": "Tue, 09 Jun 2026 08:13:10 GMT",
+      "isoDate": "2026-06-09T08:13:10.000Z",
+      "content": "China is preparing to spend around 2 trillion yuan ($295 billion) over the next five years on building data centers across the country, fueling Beijing’s ambition to propel the domestic AI sector and surpass the US in a potentially game-changing technology.",
+      "contentSnippet": "China is preparing to spend around 2 trillion yuan ($295 billion) over the next five years on building data centers across the country, fueling Beijing’s ambition to propel the domestic AI sector and surpass the US in a potentially game-changing technology.",
+      "creator": "Charlie Zhu",
+      "summaries": {
+        "zh": "中国计划在未来五年投入约2万亿元人民币（约2950亿美元），用于在全国范围内建设数据中心，以推动人工智能（AI）发展，力争在该关键技术领域超越美国。",
+        "en": "China has announced a five-year investment plan worth approximately 2 trillion yuan ($295 billion) to construct data centers nationwide. The initiative aims to bolster the domestic artificial intelligence sector, supporting Beijing's strategic ambition to advance AI development and compete technologically with the United States."
+      },
+      "summary": "中国计划在未来五年投入约2万亿元人民币（约2950亿美元），用于在全国范围内建设数据中心，以推动人工智能（AI）发展，力争在该关键技术领域超越美国。"
+    },
+    {
+      "title": "Robots May Help Defuse US-China Tensions",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-06-09/as-ai-moves-into-robots-nvidia-may-be-bridging-a-us-china-divide",
+      "pubDate": "Tue, 09 Jun 2026 10:30:01 GMT",
+      "isoDate": "2026-06-09T10:30:01.000Z",
+      "content": "The two countries have vital tech for the coming wave of robots",
+      "contentSnippet": "The two countries have vital tech for the coming wave of robots",
+      "creator": "Saritha Rai",
+      "summaries": {
+        "zh": "机器人技术或在中美关系中发挥关键作用。两国均掌握着即将到来的机器人浪潮所需的核心技术，这种技术上的相互依存与关联，可能成为缓解双边紧张局势的一个潜在因素。",
+        "en": "The article suggests that robotics technology could serve as a potential bridge between the United States and China. It notes that both nations possess critical, interdependent technologies essential for the upcoming wave of robotics development. This shared technological foundation could create opportunities for cooperation, thereby helping to ease broader geopolitical tensions between the two countries."
+      },
+      "summary": "机器人技术或在中美关系中发挥关键作用。两国均掌握着即将到来的机器人浪潮所需的核心技术，这种技术上的相互依存与关联，可能成为缓解双边紧张局势的一个潜在因素。"
+    },
+    {
+      "title": "AI Earnings Durability Is in Focus for BlackRock’s Wei Li",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-09/ai-earnings-durability-in-focus-for-blackrock-s-wei-li-video",
+      "pubDate": "Tue, 09 Jun 2026 10:03:02 GMT",
+      "isoDate": "2026-06-09T10:03:02.000Z",
+      "content": "Wei Li, chief global investment strategist at BlackRock, says there is a “healthy debate to be had” about the durability of Artificial Intelligence earnings and sees the AI trade as a “space to be selective and active.” (Source: Bloomberg)",
+      "contentSnippet": "Wei Li, chief global investment strategist at BlackRock, says there is a “healthy debate to be had” about the durability of Artificial Intelligence earnings and sees the AI trade as a “space to be selective and active.” (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "贝莱德全球首席投资策略师Wei Li认为，关于人工智能（AI）盈利持久性的讨论至关重要。她指出AI投资领域需要更具选择性和主动性，投资者应审慎评估相关机会。",
+        "en": "BlackRock's chief global investment strategist, Wei Li, believes there is ongoing debate regarding how long artificial intelligence earnings will remain strong. He suggests the AI investment landscape requires careful, selective analysis rather than broad market approaches."
+      },
+      "summary": "贝莱德全球首席投资策略师Wei Li认为，关于人工智能（AI）盈利持久性的讨论至关重要。她指出AI投资领域需要更具选择性和主动性，投资者应审慎评估相关机会。"
+    }
+  ],
+  "lastUpdated": "2026-06-09T16:57:24.496Z"
+}

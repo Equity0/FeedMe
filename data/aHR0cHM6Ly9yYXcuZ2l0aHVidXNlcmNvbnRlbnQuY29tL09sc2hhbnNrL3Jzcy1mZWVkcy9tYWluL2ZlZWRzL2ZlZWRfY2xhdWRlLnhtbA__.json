@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml",
+  "title": "Claude Blog",
+  "description": "Latest updates from Claude Blog",
+  "link": "https://claude.com/blog",
+  "items": [
+    {
+      "title": "Observability for developers building connectors",
+      "link": "https://claude.com/blog/observability-for-developers-building-connectors",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-08T00:00:00.000Z",
+      "content": "Observability for developers building connectors",
+      "contentSnippet": "Observability for developers building connectors",
+      "creator": "",
+      "summaries": {
+        "zh": "该文聚焦于为开发连接器的开发者提供可观测性支持。其核心在于强调可观测性在连接器开发过程中的重要性，旨在帮助开发者更好地监控、调试和优化所构建的连接器。",
+        "en": "This article emphasizes the importance of observability for developers who create connectors. Observability provides the necessary insights to monitor, understand, and troubleshoot the performance and behavior of connectors in real-time. For developers, it is a critical practice to ensure their integrations are reliable, efficient, and resilient, enabling them to quickly identify and resolve issues."
+      },
+      "summary": "该文聚焦于为开发连接器的开发者提供可观测性支持。其核心在于强调可观测性在连接器开发过程中的重要性，旨在帮助开发者更好地监控、调试和优化所构建的连接器。"
+    },
+    {
+      "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "link": "https://claude.com/blog/claude-for-foundation-models",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-08T00:00:00.000Z",
+      "content": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "contentSnippet": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "creator": "",
+      "summaries": {
+        "zh": "本文标题提及在苹果平台的Foundation Models框架中使用Claude构建智能应用，但未提供具体内容。基于标题，其核心是探讨如何利用Claude模型与苹果开发框架结合，以创建适用于iOS等平台的智能应用程序。由于缺乏详细信息，无法展开具体分析。",
+        "en": "This article discusses how developers can build intelligent applications for Apple platforms by integrating Claude within the Foundation Models framework. It likely serves as a guide or announcement, focusing on leveraging AI capabilities to enhance app functionality within Apple's ecosystem."
+      },
+      "summary": "本文标题提及在苹果平台的Foundation Models框架中使用Claude构建智能应用，但未提供具体内容。基于标题，其核心是探讨如何利用Claude模型与苹果开发框架结合，以创建适用于iOS等平台的智能应用程序。由于缺乏详细信息，无法展开具体分析。"
+    },
+    {
+      "title": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+      "link": "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering",
+      "pubDate": "Fri, 05 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-05T00:00:00.000Z",
+      "content": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+      "contentSnippet": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic一位销售人员利用Claude Code工具对其团队的工作流程进行了重塑与优化，提升了工作效率。该案例展示了AI编程助手在实际业务场景中的应用价值。",
+        "en": "Based on the provided article title, there is no accompanying content or body text to analyze. The title suggests a story about an Anthropic sales team member who used \"Claude Code\" to improve their team's workflows. However, without the actual article, a substantive summary cannot be generated."
+      },
+      "summary": "Anthropic一位销售人员利用Claude Code工具对其团队的工作流程进行了重塑与优化，提升了工作效率。该案例展示了AI编程助手在实际业务场景中的应用价值。"
+    },
+    {
+      "title": "The Claude Cowork product guide",
+      "link": "https://claude.com/blog/the-claude-cowork-product-guide",
+      "pubDate": "Fri, 05 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-05T00:00:00.000Z",
+      "content": "The Claude Cowork product guide",
+      "contentSnippet": "The Claude Cowork product guide",
+      "creator": "",
+      "summaries": {
+        "zh": "目前提供的内容仅为文章标题《The Claude Cowork product guide》，没有正文或详细信息可供摘要。请提供具体的产品指南内容，以便为您生成准确、简洁的中文摘要。",
+        "en": "The article titled \"The Claude Cowork product guide\" appears to contain no substantive content for summarization. The guide's title suggests it would detail a collaborative product, but the provided text offers no information, features, or key points to summarize."
+      },
+      "summary": "目前提供的内容仅为文章标题《The Claude Cowork product guide》，没有正文或详细信息可供摘要。请提供具体的产品指南内容，以便为您生成准确、简洁的中文摘要。"
+    },
+    {
+      "title": "Running an AI-native engineering org",
+      "link": "https://claude.com/blog/running-an-ai-native-engineering-org",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "Running an AI-native engineering org",
+      "contentSnippet": "Running an AI-native engineering org",
+      "creator": "",
+      "summaries": {
+        "zh": "这篇文章探讨了构建原生AI工程组织的核心理念与实践方法。重点在于如何将团队结构、开发流程及产品思维全面转向以AI为中心的模式，旨在提升效率与创新能力，实现组织在AI时代的适应性进化。",
+        "en": "The provided article content appears to be empty, containing only the title \"Running an AI-native engineering org.\" While the title suggests a focus on organizational structures and practices for engineering teams that fundamentally integrate AI into their workflow and culture, no specific points, key information, or main arguments are presented in the given text. Therefore, a substantive summary cannot be generated from this material."
+      },
+      "summary": "这篇文章探讨了构建原生AI工程组织的核心理念与实践方法。重点在于如何将团队结构、开发流程及产品思维全面转向以AI为中心的模式，旨在提升效率与创新能力，实现组织在AI时代的适应性进化。"
+    },
+    {
+      "title": "Best practices for getting started with Claude Cowork",
+      "link": "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "Best practices for getting started with Claude Cowork",
+      "contentSnippet": "Best practices for getting started with Claude Cowork",
+      "creator": "",
+      "summaries": {
+        "zh": "提供的文章标题为《Claude Cowork入门最佳实践》，但内容仅重复了标题，缺乏具体信息。因此无法总结出实际要点。若需总结，请提供完整文章内容。",
+        "en": "The provided content consists solely of an article title and does not include any substantive information, best practices, or key details about using Claude Cowork. Therefore, it is not possible to generate a meaningful summary based on this input."
+      },
+      "summary": "提供的文章标题为《Claude Cowork入门最佳实践》，但内容仅重复了标题，缺乏具体信息。因此无法总结出实际要点。若需总结，请提供完整文章内容。"
+    },
+    {
+      "title": "Lessons from building Claude Code: How we use skills",
+      "link": "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "Lessons from building Claude Code: How we use skills",
+      "contentSnippet": "Lessons from building Claude Code: How we use skills",
+      "creator": "",
+      "summaries": {
+        "zh": "根据提供的标题信息，这是一篇关于构建Claude Code过程中的经验分享，重点探讨了“技能”的使用方法与心得。由于内容仅包含标题，无法进一步提取具体细节。建议提供更多文章正文以获得完整摘要。",
+        "en": "The article titled \"Lessons from building Claude Code: How we use skills\" has no provided content. Therefore, a summary cannot be generated as there is no substantive information to capture."
+      },
+      "summary": "根据提供的标题信息，这是一篇关于构建Claude Code过程中的经验分享，重点探讨了“技能”的使用方法与心得。由于内容仅包含标题，无法进一步提取具体细节。建议提供更多文章正文以获得完整摘要。"
+    },
+    {
+      "title": "How Anthropic enables self-service data analytics with Claude",
+      "link": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "How Anthropic enables self-service data analytics with Claude",
+      "contentSnippet": "How Anthropic enables self-service data analytics with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic利用Claude技术，为企业提供自助式数据分析解决方案。用户可通过自然语言与Claude交互，轻松完成数据查询与分析任务，降低了技术门槛，提升了数据洞察的效率与自主性。",
+        "en": "The article discusses how Anthropic utilizes its AI model Claude to empower self-service data analytics. It suggests that Claude's capabilities are designed to enable users, potentially without deep technical expertise, to independently analyze data and derive insights. The focus is on making data analytics more accessible and user-driven through the integration of this specific AI tool."
+      },
+      "summary": "Anthropic利用Claude技术，为企业提供自助式数据分析解决方案。用户可通过自然语言与Claude交互，轻松完成数据查询与分析任务，降低了技术门槛，提升了数据洞察的效率与自主性。"
+    },
+    {
+      "title": "A harness for every task: dynamic workflows in Claude Code ",
+      "link": "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code",
+      "pubDate": "Tue, 02 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-02T00:00:00.000Z",
+      "content": "A harness for every task: dynamic workflows in Claude Code ",
+      "contentSnippet": "A harness for every task: dynamic workflows in Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Code引入动态工作流功能，旨在为各类任务提供适配的解决方案。该功能通过“ harness ”（运行框架）机制，能够根据具体编程任务自动调整工作方式，提升任务处理的效率和灵活性。这有助于开发者在复杂编码环境中更流畅地实现开发目标。",
+        "en": "The provided content consists solely of the title \"A harness for every task: dynamic workflows in Claude Code.\" No article body or detailed information was included in your query.\n\nTherefore, a substantive summary of the article's key points cannot be generated. The title alone suggests a topic related to creating adaptable or dynamic workflows for the Claude Code platform, but the actual content, arguments, or features described are absent.\n\nTo provide a meaningful summary, please supply the full article text."
+      },
+      "summary": "Claude Code引入动态工作流功能，旨在为各类任务提供适配的解决方案。该功能通过“ harness ”（运行框架）机制，能够根据具体编程任务自动调整工作方式，提升任务处理的效率和灵活性。这有助于开发者在复杂编码环境中更流畅地实现开发目标。"
+    },
+    {
+      "title": "Introducing dynamic workflows in Claude Code",
+      "link": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+      "pubDate": "Thu, 28 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-28T00:00:00.000Z",
+      "content": "Introducing dynamic workflows in Claude Code",
+      "contentSnippet": "Introducing dynamic workflows in Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Code 引入了动态工作流功能。由于提供的内容仅包含标题，无具体说明，目前只能确认该功能被提出。",
+        "en": "Based on the title, the article likely introduces a new feature called \"dynamic workflows\" for Claude Code, suggesting enhanced functionality or flexibility in its use. However, since the article content was not provided, a detailed summary of the key information cannot be given."
+      },
+      "summary": "Claude Code 引入了动态工作流功能。由于提供的内容仅包含标题，无具体说明，目前只能确认该功能被提出。"
+    },
+    {
+      "title": "Zero Trust for AI agents",
+      "link": "https://claude.com/blog/zero-trust-for-ai-agents",
+      "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-27T00:00:00.000Z",
+      "content": "Zero Trust for AI agents",
+      "contentSnippet": "Zero Trust for AI agents",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章探讨了针对AI智能体的“零信任”安全框架。核心思想是不预先信任任何AI代理或系统，必须持续验证其身份、权限和行为。在人工智能应用中，此原则旨在防止因代理被入侵或误操作导致的数据泄露与系统风险，确保AI交互过程的安全与可控。",
+        "en": "The article \"Zero Trust for AI agents\" discusses applying the Zero Trust security model to artificial intelligence agents. This approach assumes no inherent trust in any agent, regardless of its origin or past behavior. Every request and action made by an AI agent must be continuously verified and authorized. The core principle is to enforce strict access controls and least-privilege permissions to minimize security risks and prevent potential misuse or compromise of the agent's capabilities."
+      },
+      "summary": "该文章探讨了针对AI智能体的“零信任”安全框架。核心思想是不预先信任任何AI代理或系统，必须持续验证其身份、权限和行为。在人工智能应用中，此原则旨在防止因代理被入侵或误操作导致的数据泄露与系统风险，确保AI交互过程的安全与可控。"
+    },
+    {
+      "title": "How CodeRabbit used Claude to build an agent orchestration system",
+      "link": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system",
+      "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-27T00:00:00.000Z",
+      "content": "How CodeRabbit used Claude to build an agent orchestration system",
+      "contentSnippet": "How CodeRabbit used Claude to build an agent orchestration system",
+      "creator": "",
+      "summaries": {
+        "zh": "CodeRabbit公司利用Claude的多智能体框架，构建了一个智能体编排系统。该系统旨在协调多个AI智能体，使其能够协同工作，共同完成复杂任务。这一实践展示了如何利用大语言模型的能力来实现智能体之间的有效协作与自动化流程管理。",
+        "en": "CodeRabbit utilized the Claude model to develop an agent orchestration system designed to manage and coordinate the workflows of multiple AI agents. This system enables streamlined collaboration between agents, enhancing overall efficiency and capability for complex tasks. The integration focuses on leveraging Claude's strengths to optimize agent interaction and task execution."
+      },
+      "summary": "CodeRabbit公司利用Claude的多智能体框架，构建了一个智能体编排系统。该系统旨在协调多个AI智能体，使其能够协同工作，共同完成复杂任务。这一实践展示了如何利用大语言模型的能力来实现智能体之间的有效协作与自动化流程管理。"
+    },
+    {
+      "title": "Using LLMs to secure source code",
+      "link": "https://claude.com/blog/using-llms-to-secure-source-code",
+      "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-27T00:00:00.000Z",
+      "content": "Using LLMs to secure source code",
+      "contentSnippet": "Using LLMs to secure source code",
+      "creator": "",
+      "summaries": {
+        "zh": "本文讨论利用大语言模型（LLMs）增强源代码安全性的方法。核心内容包括：LLMs可自动化分析代码以识别漏洞、生成安全修复建议，以及辅助检测潜在威胁。该方法旨在提升代码审查效率与安全性，通过AI技术辅助开发者防范常见安全风险。",
+        "en": "The provided article content contains only the title \"Using LLMs to secure source code\" without any substantive text. Therefore, no summary can be generated as there are no key points or information to summarize. Please provide the full article for a concise and accurate summary."
+      },
+      "summary": "本文讨论利用大语言模型（LLMs）增强源代码安全性的方法。核心内容包括：LLMs可自动化分析代码以识别漏洞、生成安全修复建议，以及辅助检测潜在威胁。该方法旨在提升代码审查效率与安全性，通过AI技术辅助开发者防范常见安全风险。"
+    },
+    {
+      "title": "Code w/ Claude London 2026: Rethinking how we build",
+      "link": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build",
+      "pubDate": "Tue, 26 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-26T00:00:00.000Z",
+      "content": "Code w/ Claude London 2026: Rethinking how we build",
+      "contentSnippet": "Code w/ Claude London 2026: Rethinking how we build",
+      "creator": "",
+      "summaries": {
+        "zh": "这是一个计划于2026年在伦敦举行的活动，主题为“重新思考我们构建软件的方式”。活动将围绕编程工具Claude展开讨论。",
+        "en": "The provided content consists solely of a title, \"Code w/ Claude London 2026: Rethinking how we build.\" No article body or details were included. Therefore, it is not possible to generate a substantive summary of the article's main points or key information."
+      },
+      "summary": "这是一个计划于2026年在伦敦举行的活动，主题为“重新思考我们构建软件的方式”。活动将围绕编程工具Claude展开讨论。"
+    },
+    {
+      "title": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
+      "link": "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers",
+      "pubDate": "Fri, 22 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-22T00:00:00.000Z",
+      "content": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
+      "contentSnippet": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
+      "creator": "",
+      "summaries": {
+        "zh": "根据所提供的标题和内容，目前没有获取到除标题外的实质性文章内容，因此无法生成有效摘要。",
+        "en": "Anthropic's finance team utilizes Claude to enhance financial storytelling. By leveraging the AI's capabilities, they aim to create more compelling and coherent narratives that explain financial data and insights. This integration helps transform complex numerical information into clear, actionable stories for stakeholders, improving communication and understanding of the company's financial performance and strategy."
+      },
+      "summary": "根据所提供的标题和内容，目前没有获取到除标题外的实质性文章内容，因此无法生成有效摘要。"
+    },
+    {
+      "title": "How our partners are putting Opus to work for cybersecurity",
+      "link": "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity",
+      "pubDate": "Thu, 21 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-21T00:00:00.000Z",
+      "content": "How our partners are putting Opus to work for cybersecurity",
+      "contentSnippet": "How our partners are putting Opus to work for cybersecurity",
+      "creator": "",
+      "summaries": {
+        "zh": "您提供的文章内容仅包含标题重复，未提供实质性信息。根据标题推断，该文章主题可能涉及合作伙伴在网络安全领域应用“Opus”技术，但具体内容无法总结。",
+        "en": "The article discusses how various partners are utilizing the Opus platform to enhance their cybersecurity efforts. It highlights applications and integrations designed to address security challenges, though specific details are not provided in the given text. The focus is on collaborative implementations of the technology within the security sector."
+      },
+      "summary": "您提供的文章内容仅包含标题重复，未提供实质性信息。根据标题推断，该文章主题可能涉及合作伙伴在网络安全领域应用“Opus”技术，但具体内容无法总结。"
+    },
+    {
+      "title": "Claude now works with more security and compliance tools",
+      "link": "https://claude.com/blog/compliance-api-security-partners",
+      "pubDate": "Thu, 21 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-21T00:00:00.000Z",
+      "content": "Claude now works with more security and compliance tools",
+      "contentSnippet": "Claude now works with more security and compliance tools",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude已与更多安全及合规工具实现集成。",
+        "en": "Claude has expanded its integrations to support a wider range of security and compliance tools. This update enhances its ability to work within established security frameworks and compliance protocols, likely making it more adaptable for enterprise environments with specific regulatory requirements. The development allows users to better align Claude's capabilities with their existing toolchains and governance policies."
+      },
+      "summary": "Claude已与更多安全及合规工具实现集成。"
+    },
+    {
+      "title": "How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book",
+      "link": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
+      "pubDate": "Wed, 20 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-20T00:00:00.000Z",
+      "content": "How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book",
+      "contentSnippet": "How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic的销售负责人通过Claude Cowork工具，高效管理其负责的4000个客户账户，展示了该工具在客户管理场景中的实际应用。",
+        "en": "The article focuses on how a sales leader at Anthropic utilizes Claude Cowork to effectively manage a large portfolio of 4,000 accounts. It highlights the application of AI tools to enhance efficiency and scalability in sales operations. However, the provided content is a repetition of the title and does not contain detailed information about the methods, outcomes, or specific features used."
+      },
+      "summary": "Anthropic的销售负责人通过Claude Cowork工具，高效管理其负责的4000个客户账户，展示了该工具在客户管理场景中的实际应用。"
+    },
+    {
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "link": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
+      "pubDate": "Wed, 20 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-20T00:00:00.000Z",
+      "content": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "contentSnippet": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "creator": "",
+      "summaries": {
+        "zh": "本文探讨了Claude Code在利用HTML语言方面展现出的高效能力。文章指出，HTML作为一种简单直观的标记语言，在Claude的辅助下能够有效应对各类编程任务，其效用甚至超出了常规预期，体现了基础技术在与AI结合时的强大潜力。",
+        "en": "The article's title suggests it explores the unexpected power or utility of HTML within the context of using Claude Code. However, since the provided content consists only of the title and no further details, a substantive summary of its main points cannot be generated from the given text."
+      },
+      "summary": "本文探讨了Claude Code在利用HTML语言方面展现出的高效能力。文章指出，HTML作为一种简单直观的标记语言，在Claude的辅助下能够有效应对各类编程任务，其效用甚至超出了常规预期，体现了基础技术在与AI结合时的强大潜力。"
+    },
+    {
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "link": "https://claude.com/blog/claude-managed-agents-updates",
+      "pubDate": "Tue, 19 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-19T00:00:00.000Z",
+      "content": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "contentSnippet": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Managed Agents 新增两项功能：自托管沙箱和MCP隧道。这两项功能现已可用。",
+        "en": "Anthropic has introduced new capabilities for Claude Managed Agents, specifically self-hosted sandboxes and MCP tunnels. The self-hosted sandboxes allow organizations to run Claude's agentic workloads within their own secure, isolated environments. Complementing this, the MCP tunnels provide a secure method for these agents to communicate with and access resources across different systems and networks. These updates aim to offer greater control, security, and flexibility for enterprises deploying AI agents on their own infrastructure."
+      },
+      "summary": "Claude Managed Agents 新增两项功能：自托管沙箱和MCP隧道。这两项功能现已可用。"
+    },
+    {
+      "title": "Deploying Claude across the legal industry",
+      "link": "https://claude.com/blog/deploying-claude-across-the-legal-industry",
+      "pubDate": "Fri, 15 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-15T00:00:00.000Z",
+      "content": "Deploying Claude across the legal industry",
+      "contentSnippet": "Deploying Claude across the legal industry",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章标题为《在法律行业中部署Claude》，但提供的具体内容仅为标题重复，未包含实际信息或细节。因此，无法进行实质性总结。",
+        "en": "Based on the provided information, the article appears to discuss the deployment and application of the Claude AI model within the legal sector. The content suggests a focus on how this AI technology can be integrated into legal workflows and practices."
+      },
+      "summary": "该文章标题为《在法律行业中部署Claude》，但提供的具体内容仅为标题重复，未包含实际信息或细节。因此，无法进行实质性总结。"
+    },
+    {
+      "title": "How Claude Code works in large codebases: Best practices and where to start",
+      "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "pubDate": "Thu, 14 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-14T00:00:00.000Z",
+      "content": "How Claude Code works in large codebases: Best practices and where to start",
+      "contentSnippet": "How Claude Code works in large codebases: Best practices and where to start",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍Claude Code在大型代码库中的工作流程与最佳实践。核心要点包括：理解项目结构与上下文、利用代码分块处理复杂任务、结合工具验证修改的准确性。建议从熟悉项目目录与关键文件入手，逐步实现自动化代码操作，确保输出符合项目规范。",
+        "en": "This article serves as a practical guide for developers using Claude Code within extensive and complex software projects. It outlines best practices for integration, emphasizes the importance of understanding project structure and context, and provides a clear starting point for teams. The focus is on effectively leveraging the tool to navigate and manage large codebases, improving efficiency and comprehension in the development workflow."
+      },
+      "summary": "本文介绍Claude Code在大型代码库中的工作流程与最佳实践。核心要点包括：理解项目结构与上下文、利用代码分块处理复杂任务、结合工具验证修改的准确性。建议从熟悉项目目录与关键文件入手，逐步实现自动化代码操作，确保输出符合项目规范。"
+    },
+    {
+      "title": "The founder's playbook: Building an AI-native startup",
+      "link": "https://claude.com/blog/the-founders-playbook",
+      "pubDate": "Thu, 14 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-14T00:00:00.000Z",
+      "content": "The founder's playbook: Building an AI-native startup",
+      "contentSnippet": "The founder's playbook: Building an AI-native startup",
+      "creator": "",
+      "summaries": {
+        "zh": "这篇文章标题为《创始人指南：构建AI原生初创企业》，但正文未提供具体内容，仅重复了标题。因此，无法基于现有信息总结其核心内容。",
+        "en": "The article's content is empty, so there is no substantive information to summarize. Based solely on the title, the piece appears to discuss a guide or framework for founders on creating a startup built from the ground up around artificial intelligence. However, without the actual text, specific details, strategies, or insights cannot be provided."
+      },
+      "summary": "这篇文章标题为《创始人指南：构建AI原生初创企业》，但正文未提供具体内容，仅重复了标题。因此，无法基于现有信息总结其核心内容。"
+    },
+    {
+      "title": "Best practices for computer and browser use with Claude",
+      "link": "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
+      "pubDate": "Wed, 13 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-13T00:00:00.000Z",
+      "content": "Best practices for computer and browser use with Claude",
+      "contentSnippet": "Best practices for computer and browser use with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章标题与内容完全相同，均为“Claude的计算机与浏览器使用最佳实践”，未提供具体最佳实践内容。",
+        "en": "The article is titled \"Best practices for computer and browser use with Claude.\" However, the provided article content is empty and only repeats the title. Therefore, a substantive summary of best practices cannot be generated. The summary is limited to acknowledging the article's topic."
+      },
+      "summary": "该文章标题与内容完全相同，均为“Claude的计算机与浏览器使用最佳实践”，未提供具体最佳实践内容。"
+    },
+    {
+      "title": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
+      "link": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity",
+      "pubDate": "Tue, 12 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-12T00:00:00.000Z",
+      "content": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
+      "contentSnippet": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic网络安全团队利用Claude Code工具开发了一个威胁检测平台。该平台旨在提升网络安全威胁的识别与响应能力，具体技术细节与应用效果未在文中进一步说明。",
+        "en": "Anthropic's cybersecurity team developed a threat detection platform utilizing their AI model, Claude Code. The system leverages Claude's capabilities to analyze security threats and enhance detection processes. This implementation demonstrates the application of advanced AI tools in cybersecurity operations to improve threat identification and response efficiency."
+      },
+      "summary": "Anthropic网络安全团队利用Claude Code工具开发了一个威胁检测平台。该平台旨在提升网络安全威胁的识别与响应能力，具体技术细节与应用效果未在文中进一步说明。"
+    },
+    {
+      "title": "Claude for the legal industry",
+      "link": "https://claude.com/blog/claude-for-the-legal-industry",
+      "pubDate": "Tue, 12 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-12T00:00:00.000Z",
+      "content": "Claude for the legal industry",
+      "contentSnippet": "Claude for the legal industry",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题指出\"Claude for the legal industry\"，暗示AI工具Claude可能在法律行业有应用潜力。由于未提供具体文章内容，无法进一步概括细节。",
+        "en": "Since the article content provided is empty, I am unable to generate a summary. Please provide the actual article text, and I will be happy to create a concise summary for you."
+      },
+      "summary": "文章标题指出\"Claude for the legal industry\"，暗示AI工具Claude可能在法律行业有应用潜力。由于未提供具体文章内容，无法进一步概括细节。"
+    },
+    {
+      "title": "Code w/ Claude SF 2026 recap: Building on the AI exponential ",
+      "link": "https://claude.com/blog/code-w-claude-sf-2026-sf",
+      "pubDate": "Tue, 12 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-12T00:00:00.000Z",
+      "content": "Code w/ Claude SF 2026 recap: Building on the AI exponential ",
+      "contentSnippet": "Code w/ Claude SF 2026 recap: Building on the AI exponential",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章标题为《Code w/ Claude SF 2026回顾：构建在AI指数增长之上》，但仅提供了标题，没有正文内容。根据现有信息，无法提取具体信息进行总结。若需准确摘要，请提供完整文章内容。",
+        "en": "This appears to be only a title without the supporting article content. Based solely on the title, the article is a recap of a 2026 \"Code w/ Claude\" event in San Francisco, focused on building or advancing within the context of rapid AI growth, often referred to as the \"AI exponential.\" No further details are available to summarize."
+      },
+      "summary": "该文章标题为《Code w/ Claude SF 2026回顾：构建在AI指数增长之上》，但仅提供了标题，没有正文内容。根据现有信息，无法提取具体信息进行总结。若需准确摘要，请提供完整文章内容。"
+    },
+    {
+      "title": "Introducing the Claude Platform on AWS",
+      "link": "https://claude.com/blog/claude-platform-on-aws",
+      "pubDate": "Mon, 11 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-11T00:00:00.000Z",
+      "content": "Introducing the Claude Platform on AWS",
+      "contentSnippet": "Introducing the Claude Platform on AWS",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude平台现已在AWS（亚马逊云服务）上推出。此公告确认了Claude模型可以通过AWS云服务访问。目前尚无更多关于该平台具体功能、定价或技术细节的公开信息。",
+        "en": "The article announces the launch of Anthropic's Claude platform on Amazon Web Services (AWS). This integration makes Claude's advanced AI models, designed for safety and helpfulness, available as a managed service within the AWS cloud ecosystem. The partnership aims to provide developers and businesses with secure, scalable access to Claude for building AI-powered applications and solutions. The service is part of AWS's strategy to expand its AI offerings and leverage Anthropic's research capabilities."
+      },
+      "summary": "Claude平台现已在AWS（亚马逊云服务）上推出。此公告确认了Claude模型可以通过AWS云服务访问。目前尚无更多关于该平台具体功能、定价或技术细节的公开信息。"
+    },
+    {
+      "title": "Agent view in Claude Code",
+      "link": "https://claude.com/blog/agent-view-in-claude-code",
+      "pubDate": "Mon, 11 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-11T00:00:00.000Z",
+      "content": "Agent view in Claude Code",
+      "contentSnippet": "Agent view in Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章标题为\"Claude Code中的Agent视图\"，但提供的具体内容仅重复了标题本身。因此，无法提取具体的要点或信息。根据标题推测，内容可能与Claude Code这款工具中代理（Agent）视角或功能相关，但缺乏实质性描述。如需准确摘要，建议补充完整文章内容或提供更多背景信息。",
+        "en": "The article likely discusses the \"Agent view\" feature within Claude Code, which appears to be an interface or perspective focused on agent-related functionalities. However, the provided content is minimal, offering no further details or specifics. A complete summary would require the full article text to accurately describe its purpose, key features, or implications."
+      },
+      "summary": "该文章标题为\"Claude Code中的Agent视图\"，但提供的具体内容仅重复了标题本身。因此，无法提取具体的要点或信息。根据标题推测，内容可能与Claude Code这款工具中代理（Agent）视角或功能相关，但缺乏实质性描述。如需准确摘要，建议补充完整文章内容或提供更多背景信息。"
+    },
+    {
+      "title": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook ",
+      "link": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
+      "pubDate": "Thu, 07 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-07T00:00:00.000Z",
+      "content": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook ",
+      "contentSnippet": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude 现在能够与微软 Office 套件中的四个主要应用程序进行协作，包括 Excel、PowerPoint、Word 和 Outlook。",
+        "en": "This article announces Claude's availability across Microsoft Office applications. It highlights that Claude can now collaborate with users directly within Excel, PowerPoint, Word, and Outlook, integrating AI assistance into these common productivity tools. The update enables seamless interaction with Claude to perform tasks and work within the familiar interfaces of these Office programs."
+      },
+      "summary": "Claude 现在能够与微软 Office 套件中的四个主要应用程序进行协作，包括 Excel、PowerPoint、Word 和 Outlook。"
+    }
+  ],
+  "lastUpdated": "2026-06-09T16:59:05.201Z"
+}

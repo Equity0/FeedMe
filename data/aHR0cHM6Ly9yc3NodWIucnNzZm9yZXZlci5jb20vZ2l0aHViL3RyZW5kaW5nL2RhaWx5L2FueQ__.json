@@ -1,0 +1,233 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d4b0b211888b77c01c88e220b059c2aa5b0b751bd9c9b33ecd2bab1bb44feb2d/mvanhorn/last30days-skill\" referrerpolicy=\"no-referrer\"><br>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary<br><br>Language: Python<br>Stars: 36733<br>Forks: 2992",
+      "contentSnippet": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\nLanguage: Python\nStars: 36733\nForks: 2992",
+      "creator": "mvanhorn",
+      "summaries": {
+        "zh": "这是一个用Python编写的AI代理技能，能够跨Reddit、X、YouTube、Hacker News、Polymarket及网络研究任意主题，并生成基于事实的摘要。该项目拥有超过3.6万星标和近3000个分支。",
+        "en": "This is an AI agent skill named \"last30days-skill,\" built in Python, designed to research topics across multiple platforms, including Reddit, X (formerly Twitter), YouTube, Hacker News (HN), Polymarket, and the broader web. Its primary function is to synthesize the gathered information into a grounded summary. The project is hosted on GitHub, where it has received 36,733 stars and 2,992 forks."
+      },
+      "summary": "这是一个用Python编写的AI代理技能，能够跨Reddit、X、YouTube、Hacker News、Polymarket及网络研究任意主题，并生成基于事实的摘要。该项目拥有超过3.6万星标和近3000个分支。"
+    },
+    {
+      "title": "RyanCodrai/turbovec",
+      "link": "https://github.com/RyanCodrai/turbovec",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1192555574/c9d82d4e-1a88-4201-a548-615cfbb0b16a\" referrerpolicy=\"no-referrer\"><br>A vector index built on TurboQuant, written in Rust with Python bindings<br><br>Language: Python<br>Stars: 9951<br>Forks: 850",
+      "contentSnippet": "A vector index built on TurboQuant, written in Rust with Python bindings\nLanguage: Python\nStars: 9951\nForks: 850",
+      "creator": "RyanCodrai",
+      "summaries": {
+        "zh": "这是一个名为turbovec的向量索引项目，基于TurboQuant构建，使用Rust编写并提供Python绑定。该项目在GitHub上获得了9951星和850个分叉，反映了其在开发者社区中的较高关注度。",
+        "en": "The article presents \"turbovec,\" a vector index built on TurboQuant. Developed in Rust with Python bindings, the project is designed for efficient vector operations. According to the provided details, the repository is primarily written in Python and has garnered significant community interest, with 9,951 stars and 850 forks on GitHub."
+      },
+      "summary": "这是一个名为turbovec的向量索引项目，基于TurboQuant构建，使用Rust编写并提供Python绑定。该项目在GitHub上获得了9951星和850个分叉，反映了其在开发者社区中的较高关注度。"
+    },
+    {
+      "title": "roboflow/supervision",
+      "link": "https://github.com/roboflow/supervision",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/203ff9c3ac132d31d8057d9c633338cf9a3def1bbdc18f0071703c4b10e479ef/roboflow/supervision\" referrerpolicy=\"no-referrer\"><br>We write your reusable computer vision tools. 💜<br><br>Language: Python<br>Stars: 42830<br>Forks: 3822",
+      "contentSnippet": "We write your reusable computer vision tools. 💜\nLanguage: Python\nStars: 42830\nForks: 3822",
+      "creator": "roboflow",
+      "summaries": {
+        "zh": "roboflow/supervision是一个开源计算机视觉工具库，提供可复用的Python工具。该项目在GitHub上获得42830星标和3822次分支。",
+        "en": "The GitHub repository \"roboflow/supervision\" is a project focused on creating reusable computer vision tools. It is written in the Python programming language. The repository has garnered significant community interest, as indicated by its 42,830 stars and 3,822 forks on GitHub."
+      },
+      "summary": "roboflow/supervision是一个开源计算机视觉工具库，提供可复用的Python工具。该项目在GitHub上获得42830星标和3822次分支。"
+    },
+    {
+      "title": "opencv/opencv",
+      "link": "https://github.com/opencv/opencv",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c3d1331d456f1f8e24d6a9fa86983230306cfa94e83000ef86ab2b3c368d0f2f/opencv/opencv\" referrerpolicy=\"no-referrer\"><br>Open Source Computer Vision Library<br><br>Language: C++<br>Stars: 88518<br>Forks: 56617",
+      "contentSnippet": "Open Source Computer Vision Library\nLanguage: C++\nStars: 88518\nForks: 56617",
+      "creator": "opencv",
+      "summaries": {
+        "zh": "OpenCV是一个开源计算机视觉库，主要使用C++编写。该项目在GitHub上拥有88518个星标和56617个分支，反映了其在计算机视觉领域的重要性和广泛的社区支持。",
+        "en": "OpenCV is an open-source computer vision library primarily written in C++. It is a highly popular project, evidenced by its 88,518 stars and 56,617 forks on GitHub, indicating a large and active user and developer community."
+      },
+      "summary": "OpenCV是一个开源计算机视觉库，主要使用C++编写。该项目在GitHub上拥有88518个星标和56617个分支，反映了其在计算机视觉领域的重要性和广泛的社区支持。"
+    },
+    {
+      "title": "refactoringhq/tolaria",
+      "link": "https://github.com/refactoringhq/tolaria",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/97b193f451569d8b39642d8e66c46fe46520d642e0f4fe1e62a3b57f7c4927b2/refactoringhq/tolaria\" referrerpolicy=\"no-referrer\"><br>Desktop app to manage markdown knowledge bases<br><br>Language: TypeScript<br>Stars: 14176<br>Forks: 984",
+      "contentSnippet": "Desktop app to manage markdown knowledge bases\nLanguage: TypeScript\nStars: 14176\nForks: 984",
+      "creator": "refactoringhq",
+      "summaries": {
+        "zh": "该项目是一个用于管理Markdown知识库的桌面应用程序，采用TypeScript开发。在GitHub上拥有约1.4万星和近1千个分支，表明其受欢迎程度较高。",
+        "en": "The GitHub repository \"refactoringhq/tolaria\" presents a desktop application designed for managing markdown-based knowledge bases. Developed using TypeScript, the project has garnered significant community interest, evidenced by its 14,176 stars and 984 forks."
+      },
+      "summary": "该项目是一个用于管理Markdown知识库的桌面应用程序，采用TypeScript开发。在GitHub上拥有约1.4万星和近1千个分支，表明其受欢迎程度较高。"
+    },
+    {
+      "title": "aaif-goose/goose",
+      "link": "https://github.com/aaif-goose/goose",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/77bb0b7fae3abdf961daefece172c99afa1875b7585782e3e0ad51be217ed74f/aaif-goose/goose\" referrerpolicy=\"no-referrer\"><br>an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM<br><br>Language: Rust<br>Stars: 48395<br>Forks: 5089",
+      "contentSnippet": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM\nLanguage: Rust\nStars: 48395\nForks: 5089",
+      "creator": "aaif-goose",
+      "summaries": {
+        "zh": "该项目是一个基于Rust语言的开源可扩展AI代理，其功能超越了代码建议，能够支持软件的安装、执行、编辑和测试等全流程操作。目前在GitHub上拥有超过4.8万星标，显示其社区活跃度较高。",
+        "en": "The article introduces \"goose,\" an open-source AI agent written in Rust designed to perform tasks beyond code suggestions. It can install, execute, edit, and test software using any large language model (LLM). The project is noted for its extensibility and has gained significant community traction, with 48,395 GitHub stars and 5,089 forks, highlighting its popularity and active development."
+      },
+      "summary": "该项目是一个基于Rust语言的开源可扩展AI代理，其功能超越了代码建议，能够支持软件的安装、执行、编辑和测试等全流程操作。目前在GitHub上拥有超过4.8万星标，显示其社区活跃度较高。"
+    },
+    {
+      "title": "Andyyyy64/whichllm",
+      "link": "https://github.com/Andyyyy64/whichllm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3a2f2c3d21607939505ae61acd36bf6da9df8dd0e7f4e273b7b3c3a05659f535/Andyyyy64/whichllm\" referrerpolicy=\"no-referrer\"><br>Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.<br><br>Language: Python<br>Stars: 3943<br>Forks: 220",
+      "contentSnippet": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.\nLanguage: Python\nStars: 3943\nForks: 220",
+      "creator": "Andyyyy64",
+      "summaries": {
+        "zh": "这是一个名为\"Andyyyy64/whichllm\"的GitHub项目。其主要功能是帮助用户找到最适合自己硬件的本地大语言模型，通过实际运行基准测试进行排名，而非依赖参数数量。该项目使用Python编写，提供简单命令即可运行，目前获得3943个星标和220个分支。",
+        "en": "The repository \"Andyyyy64/whichllm\" is a tool designed to help users identify the best-performing local large language model (LLM) for their specific hardware. It ranks models based on real-world performance benchmarks, prioritizing actual speed and capability over theoretical parameter counts. The tool is implemented in Python and can be run with a single command for immediate results. It is a popular open-source project, as indicated by its 3,943 stars and 220 forks on GitHub."
+      },
+      "summary": "这是一个名为\"Andyyyy64/whichllm\"的GitHub项目。其主要功能是帮助用户找到最适合自己硬件的本地大语言模型，通过实际运行基准测试进行排名，而非依赖参数数量。该项目使用Python编写，提供简单命令即可运行，目前获得3943个星标和220个分支。"
+    },
+    {
+      "title": "TapXWorld/ChinaTextbook",
+      "link": "https://github.com/TapXWorld/ChinaTextbook",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bdb1f68f9dbc77336ae9dab8a71e40a5c8c8251c533d01bfb6a0f401d1cf4606/TapXWorld/ChinaTextbook\" referrerpolicy=\"no-referrer\"><br>所有小初高、大学PDF教材。<br><br>Language: Roff<br>Stars: 73421<br>Forks: 16442",
+      "contentSnippet": "所有小初高、大学PDF教材。\nLanguage: Roff\nStars: 73421\nForks: 16442",
+      "creator": "TapXWorld",
+      "summaries": {
+        "zh": "TapXWorld/ChinaTextbook 是一个 GitHub 项目，提供了涵盖中国小学、初中、高中、大学所有阶段的 PDF 电子版教材。该项目使用 Roff 语言编写，目前拥有超过 7.3 万星标和 1.6 万次分叉。",
+        "en": "The GitHub repository \"TapXWorld/ChinaTextbook\" hosts a collection of PDF textbooks covering all levels of the Chinese education system, from primary and middle school through high school and university. The repository is notably popular, with over 73,000 stars and 16,000 forks, indicating significant community interest in accessing these educational resources."
+      },
+      "summary": "TapXWorld/ChinaTextbook 是一个 GitHub 项目，提供了涵盖中国小学、初中、高中、大学所有阶段的 PDF 电子版教材。该项目使用 Roff 语言编写，目前拥有超过 7.3 万星标和 1.6 万次分叉。"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2a26a351c187a95ee566bb41fd8ce209db06c10d8a41d2f8359993b3497eda0a/x1xhlol/system-prompts-and-models-of-ai-tools\" referrerpolicy=\"no-referrer\"><br>FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models<br><br>Language: Unknown<br>Stars: 139073<br>Forks: 34550",
+      "contentSnippet": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models\nLanguage: Unknown\nStars: 139073\nForks: 34550",
+      "creator": "x1xhlol",
+      "summaries": {
+        "zh": "该GitHub仓库收集了多种AI工具的系统提示词、内部工具及模型信息，包括Augment Code、Claude Code、Cursor、Devin AI、Perplexity等知名工具。这些内容以开源形式提供，仓库获得了较高的关注（约13.9万星标，3.5万复刻）。主要面向开发者参考AI工具的设计与实现。",
+        "en": "This GitHub repository, titled \"x1xhlol/system-prompts-and-models-of-ai-tools,\" is a curated collection of system prompts, internal tools, and AI models for numerous popular AI and code-assistance tools. The listed tools include Augment Code, Claude Code, Cursor, Devin AI, Replit, Windsurf, and many others. The repository is open-source, has received significant attention with approximately 139,000 stars and 34,500 forks, and its primary programming language is unspecified."
+      },
+      "summary": "该GitHub仓库收集了多种AI工具的系统提示词、内部工具及模型信息，包括Augment Code、Claude Code、Cursor、Devin AI、Perplexity等知名工具。这些内容以开源形式提供，仓库获得了较高的关注（约13.9万星标，3.5万复刻）。主要面向开发者参考AI工具的设计与实现。"
+    },
+    {
+      "title": "yikart/AiToEarn",
+      "link": "https://github.com/yikart/AiToEarn",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ff1ec9396b7dc98a9d15592aab3c3bddfae3dfdd2deb250eacfdb682f08ec93d/yikart/AiToEarn\" referrerpolicy=\"no-referrer\"><br>Let's use AI to Earn!<br><br>Language: TypeScript<br>Stars: 19803<br>Forks: 3013",
+      "contentSnippet": "Let's use AI to Earn!\nLanguage: TypeScript\nStars: 19803\nForks: 3013",
+      "creator": "yikart",
+      "summaries": {
+        "zh": "这是一个名为“AiToEarn”的GitHub开源项目，其核心目标是利用人工智能技术来获取收益。该项目主要使用TypeScript语言编写。目前，它在GitHub上拥有约19800个星标和3000个分支，表明其受到了相当程度的关注。",
+        "en": "The repository \"yikart/AiToEarn\" is a TypeScript-based project focused on leveraging AI to generate income or earning opportunities. It has garnered significant community interest, as indicated by its 19,800 stars and 3,013 forks on GitHub, highlighting its popularity and active development within the AI and development community."
+      },
+      "summary": "这是一个名为“AiToEarn”的GitHub开源项目，其核心目标是利用人工智能技术来获取收益。该项目主要使用TypeScript语言编写。目前，它在GitHub上拥有约19800个星标和3000个分支，表明其受到了相当程度的关注。"
+    },
+    {
+      "title": "phuryn/pm-skills",
+      "link": "https://github.com/phuryn/pm-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/24356d878f3b300c2b2bae850bf2b77293681bf9eb8293ae70fc0c39ceb27bf6/phuryn/pm-skills\" referrerpolicy=\"no-referrer\"><br>PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.<br><br>Language: Unknown<br>Stars: 13295<br>Forks: 1521",
+      "contentSnippet": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.\nLanguage: Unknown\nStars: 13295\nForks: 1521",
+      "creator": "phuryn",
+      "summaries": {
+        "zh": "phuryn/pm-skills 是一个产品管理技能市场平台，提供超过100种代理技能、命令与插件，覆盖从需求发现、策略制定、执行、发布到增长的全过程。该项目在GitHub上获得13295颗星和1521次分叉，受到较高关注。",
+        "en": "The GitHub repository \"PM Skills Marketplace\" offers over 100 agentic skills, commands, and plugins designed for project managers. These tools span the entire project lifecycle, including discovery, strategy, execution, launch, and growth. The repository, with an unknown primary language, has garnered significant community interest, as indicated by its 13,295 stars and 1,521 forks."
+      },
+      "summary": "phuryn/pm-skills 是一个产品管理技能市场平台，提供超过100种代理技能、命令与插件，覆盖从需求发现、策略制定、执行、发布到增长的全过程。该项目在GitHub上获得13295颗星和1521次分叉，受到较高关注。"
+    },
+    {
+      "title": "santifer/career-ops",
+      "link": "https://github.com/santifer/career-ops",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1201476594/7d3a70f0-f4ed-4e14-844b-58265706d512\" referrerpolicy=\"no-referrer\"><br>AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.<br><br>Language: JavaScript<br>Stars: 51326<br>Forks: 10391",
+      "contentSnippet": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.\nLanguage: JavaScript\nStars: 51326\nForks: 10391",
+      "creator": "santifer",
+      "summaries": {
+        "zh": "该项目是一个基于Claude Code构建的AI驱动的求职系统，主要使用JavaScript开发。它提供14种技能模式，包含Go语言编写的管理仪表盘，支持PDF生成与批处理功能。该项目在GitHub上拥有超过5万星标和1万次分支，显示出较高的关注度。",
+        "en": "The santifer/career-ops project is an AI-powered job search system built on Claude Code. It features 14 skill modes, a Go-based dashboard, PDF generation, and batch processing capabilities. The project is implemented in JavaScript and is hosted on GitHub, where it has garnered significant community attention with 51,326 stars and 10,391 forks."
+      },
+      "summary": "该项目是一个基于Claude Code构建的AI驱动的求职系统，主要使用JavaScript开发。它提供14种技能模式，包含Go语言编写的管理仪表盘，支持PDF生成与批处理功能。该项目在GitHub上拥有超过5万星标和1万次分支，显示出较高的关注度。"
+    },
+    {
+      "title": "openai/plugins",
+      "link": "https://github.com/openai/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/00d9fc5dc6569ca736b648f34b67ab0445e0594147e92e50e353b25fca78db2a/openai/plugins\" referrerpolicy=\"no-referrer\"><br>OpenAI Plugins<br><br>Language: JavaScript<br>Stars: 2523<br>Forks: 302",
+      "contentSnippet": "OpenAI Plugins\nLanguage: JavaScript\nStars: 2523\nForks: 302",
+      "creator": "openai",
+      "summaries": {
+        "zh": "OpenAI Plugins 是一个基于JavaScript开发的项目，目前在GitHub上获得了2523个星标和302个分支。",
+        "en": "This is a repository for OpenAI's official plugin documentation and examples. It primarily contains resources for developing and integrating plugins with OpenAI models, with JavaScript as the main language. The project has moderate community engagement, indicated by 2,523 stars and 302 forks. The repository serves as a reference for developers looking to extend OpenAI's capabilities through plugins."
+      },
+      "summary": "OpenAI Plugins 是一个基于JavaScript开发的项目，目前在GitHub上获得了2523个星标和302个分支。"
+    },
+    {
+      "title": "maziyarpanahi/openmed",
+      "link": "https://github.com/maziyarpanahi/openmed",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e8decc6cfdc5f71f31322501da1a21af7d8a8cc21ceb9ec214a613c38f172777/maziyarpanahi/openmed\" referrerpolicy=\"no-referrer\"><br>open-source healthcare ai<br><br>Language: Python<br>Stars: 1697<br>Forks: 200",
+      "contentSnippet": "open-source healthcare ai\nLanguage: Python\nStars: 1697\nForks: 200",
+      "creator": "maziyarpanahi",
+      "summaries": {
+        "zh": "该项目是一个基于Python的开源医疗人工智能工具，在GitHub上获得1697星标和200个分支，显示其在医疗AI领域受到一定关注。",
+        "en": "The repository \"maziyarpanahi/openmed\" is an open-source healthcare AI project implemented in Python. It has gained notable community interest, as indicated by its 1,697 stars and 200 forks on GitHub. The project is focused on providing AI tools and models for healthcare applications."
+      },
+      "summary": "该项目是一个基于Python的开源医疗人工智能工具，在GitHub上获得1697星标和200个分支，显示其在医疗AI领域受到一定关注。"
+    },
+    {
+      "title": "francescopace/espectre",
+      "link": "https://github.com/francescopace/espectre",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e538e39e33155a37c574aeba9c907fcff276029dd7cef366361e9a5c4f041e67/francescopace/espectre\" referrerpolicy=\"no-referrer\"><br>🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.<br><br>Language: Python<br>Stars: 8097<br>Forks: 626",
+      "contentSnippet": "🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.\nLanguage: Python\nStars: 8097\nForks: 626",
+      "creator": "francescopace",
+      "summaries": {
+        "zh": "ESPectre是一个基于Wi-Fi频谱分析（CSI）的运动检测系统，支持与Home Assistant智能家居平台集成。该项目使用Python编写，在GitHub上拥有8097个星标和626个分支。",
+        "en": "ESPectre is an open-source motion detection system that leverages Wi-Fi channel state information (CSI) analysis for its operation. It is designed for integration with Home Assistant, enabling smart home automation based on movement detection. The project is implemented in Python and is hosted on GitHub, where it has garnered significant community interest, as indicated by its 8,097 stars and 626 forks."
+      },
+      "summary": "ESPectre是一个基于Wi-Fi频谱分析（CSI）的运动检测系统，支持与Home Assistant智能家居平台集成。该项目使用Python编写，在GitHub上拥有8097个星标和626个分支。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/59d025f6b00c32bd9da3c0104e0bc9973f1f625fb966757312ad9e14388403b0/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: Shell<br>Stars: 49630<br>Forks: 5547",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: Shell\nStars: 49630\nForks: 5547",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "这是一个为AI编程助手提供生产级工程技能的GitHub仓库。该项目旨在为AI代理提供实用的工程能力，主要使用Shell语言开发。目前获得49,630个星标和5,547次分支，表明其在开发者社区中受到较高关注。仓库的核心目标是帮助AI编程工具更好地执行实际工程任务。",
+        "en": "The repository \"addyosmani/agent-skills\" provides production-grade engineering skills designed for AI coding agents. Written in Shell, it is a highly popular project with over 49,600 stars and 5,500 forks on GitHub, indicating significant community interest and adoption in the developer ecosystem."
+      },
+      "summary": "这是一个为AI编程助手提供生产级工程技能的GitHub仓库。该项目旨在为AI代理提供实用的工程能力，主要使用Shell语言开发。目前获得49,630个星标和5,547次分支，表明其在开发者社区中受到较高关注。仓库的核心目标是帮助AI编程工具更好地执行实际工程任务。"
+    }
+  ],
+  "lastUpdated": "2026-06-09T17:01:10.317Z"
+}

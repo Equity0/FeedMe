@@ -1,0 +1,261 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "chopratejas/headroom",
+      "link": "https://github.com/chopratejas/headroom",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/25b5a4bf8b634e90459db567df69eeac49405d1790e43cde7309517cadad2633/chopratejas/headroom\" referrerpolicy=\"no-referrer\"><br>Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.<br><br>Language: Python<br>Stars: 20162<br>Forks: 1289",
+      "contentSnippet": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.\nLanguage: Python\nStars: 20162\nForks: 1289",
+      "creator": "chopratejas",
+      "summaries": {
+        "zh": "“headroom”是一个开源项目，用于在数据输入大语言模型（LLM）前，压缩工具输出、日志、文件及检索增强生成（RAG）数据块。通过压缩，可减少60-95%的令牌使用量，同时保证回答质量不变。项目以库、代理服务器及MCP服务器形式提供，主要采用Python语言开发，在GitHub上获得了广泛关注。",
+        "en": "\"Headroom\" is an open-source tool that compresses data—including tool outputs, logs, files, and RAG chunks—before it is sent to large language models. It achieves a 60-95% reduction in token usage while aiming to preserve the same answer quality. The tool is implemented in Python and can be used as a library, a proxy, or an MCP server. The project has gained significant popularity, with 20,162 stars and 1,289 forks on GitHub."
+      },
+      "summary": "“headroom”是一个开源项目，用于在数据输入大语言模型（LLM）前，压缩工具输出、日志、文件及检索增强生成（RAG）数据块。通过压缩，可减少60-95%的令牌使用量，同时保证回答质量不变。项目以库、代理服务器及MCP服务器形式提供，主要采用Python语言开发，在GitHub上获得了广泛关注。"
+    },
+    {
+      "title": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d4b0b211888b77c01c88e220b059c2aa5b0b751bd9c9b33ecd2bab1bb44feb2d/mvanhorn/last30days-skill\" referrerpolicy=\"no-referrer\"><br>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary<br><br>Language: Python<br>Stars: 36733<br>Forks: 2992",
+      "contentSnippet": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\nLanguage: Python\nStars: 36733\nForks: 2992",
+      "creator": "mvanhorn",
+      "summaries": {
+        "zh": "该文章介绍了一个名为“last30days-skill”的AI代理技能。该工具基于Python开发，能够跨Reddit、X、YouTube、HN及网络等多个平台研究任意话题，并综合生成基于事实的摘要。项目在GitHub上获得了广泛关注。",
+        "en": "The repository \"last30days-skill\" provides an AI agent skill designed to research any topic. It aggregates and synthesizes information from multiple platforms, including Reddit, X (formerly Twitter), YouTube, Hacker News, Polymarket, and the wider web. The tool is built with Python and has garnered significant community interest, as indicated by over 36,000 stars and nearly 3,000 forks on GitHub. Its primary function is to compile a grounded summary from these diverse data sources."
+      },
+      "summary": "该文章介绍了一个名为“last30days-skill”的AI代理技能。该工具基于Python开发，能够跨Reddit、X、YouTube、HN及网络等多个平台研究任意话题，并综合生成基于事实的摘要。项目在GitHub上获得了广泛关注。"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "link": "https://github.com/microsoft/markitdown",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5ce83c30ba294afa7589a182b81afccadad704c1fa35c75f16a5d674c57cfbaa/microsoft/markitdown\" referrerpolicy=\"no-referrer\"><br>Python tool for converting files and office documents to Markdown.<br><br>Language: Python<br>Stars: 149164<br>Forks: 10254",
+      "contentSnippet": "Python tool for converting files and office documents to Markdown.\nLanguage: Python\nStars: 149164\nForks: 10254",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "微软开发的开源工具“markitdown”，是一款基于Python的转换器，能够将各类文件及办公文档转换为Markdown格式。该项目在GitHub上拥有约15万星标和超1万分支，体现了其较高的关注度。",
+        "en": "MarkItDown is an open-source Python tool developed by Microsoft for converting various file types and office documents into Markdown format. It has gained significant popularity, as indicated by its GitHub repository statistics showing over 149,000 stars and 10,200 forks. The tool facilitates the transformation of documents like PDFs, Word files, and presentations into the widely used Markdown plain-text markup language, supporting content portability and reuse."
+      },
+      "summary": "微软开发的开源工具“markitdown”，是一款基于Python的转换器，能够将各类文件及办公文档转换为Markdown格式。该项目在GitHub上拥有约15万星标和超1万分支，体现了其较高的关注度。"
+    },
+    {
+      "title": "openai/plugins",
+      "link": "https://github.com/openai/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/00d9fc5dc6569ca736b648f34b67ab0445e0594147e92e50e353b25fca78db2a/openai/plugins\" referrerpolicy=\"no-referrer\"><br>OpenAI Plugins<br><br>Language: JavaScript<br>Stars: 2523<br>Forks: 302",
+      "contentSnippet": "OpenAI Plugins\nLanguage: JavaScript\nStars: 2523\nForks: 302",
+      "creator": "openai",
+      "summaries": {
+        "zh": "该项目名为“openai/plugins”，是一个使用JavaScript语言开发的开源代码仓库。其GitHub页面显示，项目目前获得了2523个星标（Stars）和302个分支（Forks）。",
+        "en": "This summary covers the GitHub repository \"openai/plugins\". The project is written in JavaScript. It has 2,523 stars and 302 forks. The provided data consists solely of these basic repository statistics."
+      },
+      "summary": "该项目名为“openai/plugins”，是一个使用JavaScript语言开发的开源代码仓库。其GitHub页面显示，项目目前获得了2523个星标（Stars）和302个分支（Forks）。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1f40f0ddfcb7ccb1eafc0115d125cc0d5ecd3f751f7c1f508a164a29d085d5fa/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 25410<br>Forks: 2116",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 25410\nForks: 2116",
+      "creator": "Panniantong",
+      "summaries": {
+        "zh": "这是一个名为“Agent-Reach”的开源Python工具，旨在为AI代理提供访问和检索多个主流互联网平台信息的能力，包括Twitter、Reddit、YouTube、GitHub、Bilibili及小红书等。其核心特点是一个统一的命令行界面（CLI）且无需支付API费用。该项目在GitHub上拥有超过2.5万个星标和2100余个分支，显示了较高的社区关注度。",
+        "en": "Agent-Reach is a Python-based command-line tool that enables AI agents to access and read data from major internet platforms, including Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu. It provides search and reading capabilities through a single CLI interface without requiring API fees. The project has gained significant traction, with over 25,000 GitHub stars and more than 2,100 forks, indicating strong community interest and adoption for integrating broad web access into AI applications."
+      },
+      "summary": "这是一个名为“Agent-Reach”的开源Python工具，旨在为AI代理提供访问和检索多个主流互联网平台信息的能力，包括Twitter、Reddit、YouTube、GitHub、Bilibili及小红书等。其核心特点是一个统一的命令行界面（CLI）且无需支付API费用。该项目在GitHub上拥有超过2.5万个星标和2100余个分支，显示了较高的社区关注度。"
+    },
+    {
+      "title": "Leonxlnx/taste-skill",
+      "link": "https://github.com/Leonxlnx/taste-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1162099055/0a968964-fdca-4781-853b-84afc2bc2d31\" referrerpolicy=\"no-referrer\"><br>Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop <br><br>Language: Shell<br>Stars: 39373<br>Forks: 2790",
+      "contentSnippet": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop \nLanguage: Shell\nStars: 39373\nForks: 2790",
+      "creator": "Leonxlnx",
+      "summaries": {
+        "zh": "Taste-Skill 是一款旨在提升AI生成内容质量的工具，其主要功能是避免AI产出乏味、千篇一律的泛化内容。该项目使用 Shell 语言编写，在 GitHub 上获得了3937颗星和2790个分支。",
+        "en": "Taste-Skill is a tool designed to improve AI output by preventing the generation of generic or unoriginal content. It aims to give AI systems better judgment in selecting or creating responses. The tool is written in Shell and has garnered significant community interest, as indicated by its 39,373 stars and 2,790 forks on its repository."
+      },
+      "summary": "Taste-Skill 是一款旨在提升AI生成内容质量的工具，其主要功能是避免AI产出乏味、千篇一律的泛化内容。该项目使用 Shell 语言编写，在 GitHub 上获得了3937颗星和2790个分支。"
+    },
+    {
+      "title": "lfnovo/open-notebook",
+      "link": "https://github.com/lfnovo/open-notebook",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/876286167/a086d43b-112b-4c10-91f5-5c3fd71c9af9\" referrerpolicy=\"no-referrer\"><br>An Open Source implementation of Notebook LM with more flexibility and features<br><br>Language: TypeScript<br>Stars: 28411<br>Forks: 3219",
+      "contentSnippet": "An Open Source implementation of Notebook LM with more flexibility and features\nLanguage: TypeScript\nStars: 28411\nForks: 3219",
+      "creator": "lfnovo",
+      "summaries": {
+        "zh": "该项目“lfnovo/open-notebook”是Notebook LM的一个开源实现，提供更灵活的功能特性。项目采用TypeScript编写，在GitHub上获得超过2.8万星标和3200余次分支，表明其受到社区广泛关注。",
+        "en": "The \"open-notebook\" project is an open-source alternative to Notebook LM, designed to offer greater flexibility and additional features. Developed primarily in TypeScript, it has gained substantial community interest, as evidenced by over 28,000 stars and 3,200 forks on its repository. The implementation aims to provide a customizable and feature-rich version of notebook-style AI assistance for developers."
+      },
+      "summary": "该项目“lfnovo/open-notebook”是Notebook LM的一个开源实现，提供更灵活的功能特性。项目采用TypeScript编写，在GitHub上获得超过2.8万星标和3200余次分支，表明其受到社区广泛关注。"
+    },
+    {
+      "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/722844356/70b58869-a621-4db9-a371-387e6cdf9dcf\" referrerpolicy=\"no-referrer\"><br>Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms<br><br>Language: Python<br>Stars: 10690<br>Forks: 1241",
+      "contentSnippet": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms\nLanguage: Python\nStars: 10690\nForks: 1241",
+      "creator": "Open-LLM-VTuber",
+      "summaries": {
+        "zh": "Open-LLM-VTuber 是一个开源项目，允许用户通过免语音交互与任何大语言模型对话，支持语音打断功能，并可本地运行于跨平台环境的 Live2D 虚拟形象。该项目使用 Python 开发，目前在 GitHub 上已获得超过一万个星标和一千余个分叉，显示出较高的社区关注度。",
+        "en": "Open-LLM-VTuber is an open-source project that enables hands-free voice interaction with any Large Language Model (LLM). Key features include real-time voice interruption and a Live2D avatar for facial animation. Developed in Python, the project is designed to run locally across various platforms. It has garnered significant community interest, with over 10,000 GitHub stars and more than 1,200 forks, indicating active development and usage."
+      },
+      "summary": "Open-LLM-VTuber 是一个开源项目，允许用户通过免语音交互与任何大语言模型对话，支持语音打断功能，并可本地运行于跨平台环境的 Live2D 虚拟形象。该项目使用 Python 开发，目前在 GitHub 上已获得超过一万个星标和一千余个分叉，显示出较高的社区关注度。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1bb9648604385a292985f474ca3c845e12c60ee27fd9bc74593b8bd7c45a388d/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 211676<br>Forks: 32492",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 211676\nForks: 32492",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "项目 affaan-m/ECC 是一个旨在优化AI编程代理性能的系统，主要针对 Claude Code、Codex、Cursor 等工具。其核心功能涵盖技能、本能、记忆与安全等方面，并采用“研究优先”的开发理念。该项目主要由 JavaScript 构成，目前在 GitHub 上获得了超过21万星标与3.2万分支，显示了其较高的关注度。",
+        "en": "ECC (affaan-m/ECC) is a JavaScript-based agent harness designed for performance optimization. It provides features like skills, instincts, memory, security, and research-first development to support AI coding agents such as Claude Code, Codex, Opencode, and Cursor. The project has a substantial community, evidenced by 211,676 GitHub stars and 32,492 forks."
+      },
+      "summary": "项目 affaan-m/ECC 是一个旨在优化AI编程代理性能的系统，主要针对 Claude Code、Codex、Cursor 等工具。其核心功能涵盖技能、本能、记忆与安全等方面，并采用“研究优先”的开发理念。该项目主要由 JavaScript 构成，目前在 GitHub 上获得了超过21万星标与3.2万分支，显示了其较高的关注度。"
+    },
+    {
+      "title": "aquasecurity/trivy",
+      "link": "https://github.com/aquasecurity/trivy",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://avatars.githubusercontent.com/u/12783832?s=400&amp;v=4\" referrerpolicy=\"no-referrer\"><br>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more<br><br>Language: Go<br>Stars: 36219<br>Forks: 465",
+      "contentSnippet": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more\nLanguage: Go\nStars: 36219\nForks: 465",
+      "creator": "aquasecurity",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Trivy is a comprehensive security scanner that identifies vulnerabilities, misconfigurations, secrets, and generates Software Bills of Materials (SBOMs) across containers, Kubernetes, code repositories, and cloud environments. Written in Go, it is a widely adopted tool with 36,219 GitHub stars and 465 forks, supporting multiple platforms for integrated security analysis throughout development and deployment cycles."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "revfactory/harness",
+      "link": "https://github.com/revfactory/harness",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0904d1a1b939bdc675f6f682792ed169afcd4e69a4ccd8928fde437e00eb1c45/revfactory/harness\" referrerpolicy=\"no-referrer\"><br>A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.<br><br>Language: HTML<br>Stars: 6650<br>Forks: 906",
+      "contentSnippet": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.\nLanguage: HTML\nStars: 6650\nForks: 906",
+      "creator": "revfactory",
+      "summaries": {
+        "zh": "这是一个关于“revfactory/harness”的项目摘要。该项目是一个元技能（meta-skill），其核心功能是设计领域特定的代理团队、定义专用代理并生成它们使用的技能。该项目主要使用HTML语言开发，在GitHub上获得了6650次星标和906个分支。",
+        "en": "The GitHub repository `revfactory/harness` is a meta-skill designed for creating domain-specific agent teams. It defines specialized agents and generates the skills they utilize. The project is written in HTML and has garnered significant interest, with 6,650 stars and 906 forks."
+      },
+      "summary": "这是一个关于“revfactory/harness”的项目摘要。该项目是一个元技能（meta-skill），其核心功能是设计领域特定的代理团队、定义专用代理并生成它们使用的技能。该项目主要使用HTML语言开发，在GitHub上获得了6650次星标和906个分支。"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/651fc7e8e9af6bd7b8cbbf3b36bac83242f78046be80b38beebcce8f5df80f48/NousResearch/hermes-agent\" referrerpolicy=\"no-referrer\"><br>The agent that grows with you<br><br>Language: Python<br>Stars: 188529<br>Forks: 32496",
+      "contentSnippet": "The agent that grows with you\nLanguage: Python\nStars: 188529\nForks: 32496",
+      "creator": "NousResearch",
+      "summaries": {
+        "zh": "NousResearch/hermes-agent是一个Python项目，其特点是“与您共同成长”的智能体。该项目在GitHub上获得了18.8万星标和3.2万分支，显示了较高的社区关注度。",
+        "en": "NousResearch/hermes-agent is an adaptable AI agent described as one that \"grows with you.\" It is built using Python and has garnered significant community interest, with approximately 189,000 stars and 32,500 forks on GitHub."
+      },
+      "summary": "NousResearch/hermes-agent是一个Python项目，其特点是“与您共同成长”的智能体。该项目在GitHub上获得了18.8万星标和3.2万分支，显示了较高的社区关注度。"
+    },
+    {
+      "title": "phuryn/pm-skills",
+      "link": "https://github.com/phuryn/pm-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/24356d878f3b300c2b2bae850bf2b77293681bf9eb8293ae70fc0c39ceb27bf6/phuryn/pm-skills\" referrerpolicy=\"no-referrer\"><br>PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.<br><br>Language: Unknown<br>Stars: 13295<br>Forks: 1521",
+      "contentSnippet": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.\nLanguage: Unknown\nStars: 13295\nForks: 1521",
+      "creator": "phuryn",
+      "summaries": {
+        "zh": "PM Skills Marketplace提供100余种AI代理技能、命令及插件，涵盖产品从发现、策略、执行到发布与增长的全流程。该项目在GitHub上获得13295星标和1521分支，表明其受欢迎程度。",
+        "en": "The article introduces \"phuryn/pm-skills,\" a PM Skills Marketplace offering over 100 agentic skills, commands, and plugins. These resources are designed to support various stages of product management, from discovery and strategy to execution, launch, and growth. The repository has 13,295 stars and 1,521 forks, indicating significant community interest, though its primary programming language is not specified."
+      },
+      "summary": "PM Skills Marketplace提供100余种AI代理技能、命令及插件，涵盖产品从发现、策略、执行到发布与增长的全流程。该项目在GitHub上获得13295星标和1521分支，表明其受欢迎程度。"
+    },
+    {
+      "title": "supermemoryai/supermemory",
+      "link": "https://github.com/supermemoryai/supermemory",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6152e8a24e7050003a8b0c16754c4b4bc465562ebef9fbe86a3e11577ed5a4d3/supermemoryai/supermemory\" referrerpolicy=\"no-referrer\"><br>Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.<br><br>Language: TypeScript<br>Stars: 26307<br>Forks: 2293",
+      "contentSnippet": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.\nLanguage: TypeScript\nStars: 26307\nForks: 2293",
+      "creator": "supermemoryai",
+      "summaries": {
+        "zh": "这是一个名为supermemoryai/supermemory的开源项目。它是一个为AI时代设计的记忆引擎和应用程序，其核心记忆API具备极快的运行速度和可扩展的特性。项目主要使用TypeScript语言开发，并在GitHub上获得了26307个星标和2293个分支。",
+        "en": "Supermemory is an open-source memory engine and application designed as a high-speed, scalable Memory API for the AI era. Built primarily with TypeScript, it provides core infrastructure for AI systems requiring fast and efficient memory management. The project has gained significant traction on GitHub, with over 26,000 stars and 2,200 forks, indicating strong community interest and adoption."
+      },
+      "summary": "这是一个名为supermemoryai/supermemory的开源项目。它是一个为AI时代设计的记忆引擎和应用程序，其核心记忆API具备极快的运行速度和可扩展的特性。项目主要使用TypeScript语言开发，并在GitHub上获得了26307个星标和2293个分支。"
+    },
+    {
+      "title": "CopilotKit/CopilotKit",
+      "link": "https://github.com/CopilotKit/CopilotKit",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/655515393/3299a492-753a-4726-ad71-ea5d268c6e79\" referrerpolicy=\"no-referrer\"><br>The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol<br><br>Language: TypeScript<br>Stars: 34427<br>Forks: 4319",
+      "contentSnippet": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol\nLanguage: TypeScript\nStars: 34427\nForks: 4319",
+      "creator": "CopilotKit",
+      "summaries": {
+        "zh": "CopilotKit 是一个面向智能体与生成式UI的前端开发框架，支持 React、Angular、移动端及 Slack 等多平台。该项目基于 TypeScript 构建，推出了 AG-UI 协议，在 GitHub 上拥有 34,427 星与 4,319 分叉，体现了其在开发社区中的广泛关注与应用潜力。",
+        "en": "CopilotKit is an open-source frontend framework designed for building AI agents and generative user interfaces. It provides support for multiple platforms, including React, Angular, mobile apps, and Slack. The project is developed in TypeScript and has garnered a significant community, indicated by 34,427 stars and 4,319 forks on its repository. CopilotKit also created the AG-UI Protocol."
+      },
+      "summary": "CopilotKit 是一个面向智能体与生成式UI的前端开发框架，支持 React、Angular、移动端及 Slack 等多平台。该项目基于 TypeScript 构建，推出了 AG-UI 协议，在 GitHub 上拥有 34,427 星与 4,319 分叉，体现了其在开发社区中的广泛关注与应用潜力。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/12a22b6a4c792b15de737c21291a10c935ce2dd0233ff7af9d58947f195db261/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design language that makes your AI harness better at design.<br><br>Language: JavaScript<br>Stars: 36678<br>Forks: 1997",
+      "contentSnippet": "The design language that makes your AI harness better at design.\nLanguage: JavaScript\nStars: 36678\nForks: 1997",
+      "creator": "pbakaus",
+      "summaries": {
+        "zh": "GitHub 项目“impeccable”专注于提升AI在设计方面的能力，通过其设计语言实现。该项目使用JavaScript编写，目前拥有36,678个星标和1,997个分支。",
+        "en": "\"Impeccable\" is a design language specifically created to improve AI applications. It is a JavaScript-based project with significant community engagement, as indicated by its 36,678 stars and 1,997 forks on GitHub."
+      },
+      "summary": "GitHub 项目“impeccable”专注于提升AI在设计方面的能力，通过其设计语言实现。该项目使用JavaScript编写，目前拥有36,678个星标和1,997个分支。"
+    },
+    {
+      "title": "can1357/oh-my-pi",
+      "link": "https://github.com/can1357/oh-my-pi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/651fc7e8e9af6bd7b8cbbf3b36bac83242f78046be80b38beebcce8f5df80f48/can1357/oh-my-pi\" referrerpolicy=\"no-referrer\"><br>⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more<br><br>Language: TypeScript<br>Stars: 11485<br>Forks: 965",
+      "contentSnippet": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more\nLanguage: TypeScript\nStars: 11485\nForks: 965",
+      "creator": "can1357",
+      "summaries": {
+        "zh": "这是一个名为“oh-my-pi”的GitHub项目，主要是一个面向终端的AI编码代理工具。它基于TypeScript开发，提供了哈希锚点编辑、优化的工具集成、语言服务器协议支持、Python兼容、浏览器交互及子代理管理等丰富功能。该项目在GitHub上拥有超过1.1万颗星标，显示出较高的社区关注度。",
+        "en": "This GitHub repository introduces \"oh-my-pi,\" a TypeScript-based AI coding agent designed for terminal use. Its key features include hash-anchored edits, an optimized tool harness, LSP integration, and support for Python and browser-based interactions. The project also mentions subagent capabilities. It is a popular open-source tool, evidenced by its 11,485 stars and 965 forks on GitHub."
+      },
+      "summary": "这是一个名为“oh-my-pi”的GitHub项目，主要是一个面向终端的AI编码代理工具。它基于TypeScript开发，提供了哈希锚点编辑、优化的工具集成、语言服务器协议支持、Python兼容、浏览器交互及子代理管理等丰富功能。该项目在GitHub上拥有超过1.1万颗星标，显示出较高的社区关注度。"
+    },
+    {
+      "title": "EveryInc/compound-engineering-plugin",
+      "link": "https://github.com/EveryInc/compound-engineering-plugin",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ffdcd046a2b9ae904f5010f412f443d3a29369e775596bc973e49db63a790483/EveryInc/compound-engineering-plugin\" referrerpolicy=\"no-referrer\"><br>Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more<br><br>Language: TypeScript<br>Stars: 20711<br>Forks: 1531",
+      "contentSnippet": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more\nLanguage: TypeScript\nStars: 20711\nForks: 1531",
+      "creator": "EveryInc",
+      "summaries": {
+        "zh": "这是一个适用于Claude Code、Codex、Cursor等AI编程助手的官方Compound Engineering插件项目。该项目使用TypeScript编写，在GitHub上获得了显著关注，拥有超过2万颗星和1千5百多个分支。其核心功能是为多个主流的AI编程工具提供官方的扩展支持。",
+        "en": "This GitHub repository, titled \"EveryInc/compound-engineering-plugin,\" presents the official Compound Engineering plugin designed for AI-powered coding tools including Claude Code, Codex, and Cursor. Written in TypeScript, the project has garnered significant interest, evidenced by 20,711 stars and 1,531 forks. The plugin's purpose is to integrate and enhance functionality across these different AI development environments."
+      },
+      "summary": "这是一个适用于Claude Code、Codex、Cursor等AI编程助手的官方Compound Engineering插件项目。该项目使用TypeScript编写，在GitHub上获得了显著关注，拥有超过2万颗星和1千5百多个分支。其核心功能是为多个主流的AI编程工具提供官方的扩展支持。"
+    }
+  ],
+  "lastUpdated": "2026-06-09T17:01:24.102Z"
+}

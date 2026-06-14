@@ -1,0 +1,153 @@
+{
+  "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+  "title": "Microsoft Research",
+  "description": "",
+  "link": "https://www.microsoft.com/en-us/research/",
+  "items": [
+    {
+      "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
+      "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+      "pubDate": "Thu, 28 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-28T16:00:00.000Z",
+      "content": "<p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/\">Data Formulator 0.7: AI-powered data analytics for enterprise data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights.\nThe post Data Formulator 0.7: AI-powered data analytics for enterprise data appeared first on Microsoft Research.",
+      "creator": "Chenglong Wang, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
+      "summaries": {
+        "zh": "Data Formulator 0.7 是微软研究推出的一款面向企业数据的AI驱动分析工具。它旨在为数据团队提供一个AI就绪的工作空间，方便用户轻松接入企业数据。通过内置的AI代理，用户能够对数据进行探索、分析和可视化，从而高效地将原始数据转化为可操作的商业洞察。",
+        "en": "Data Formulator 0.7 is a new AI-powered analytics tool designed to streamline enterprise data workflows. It provides data teams with an AI-ready workspace to explore, analyze, and visualize data using AI agents, with the goal of transforming raw data into actionable insights. The tool aims to simplify the process for business users to work with complex enterprise data."
+      },
+      "summary": "Data Formulator 0.7 是微软研究推出的一款面向企业数据的AI驱动分析工具。它旨在为数据团队提供一个AI就绪的工作空间，方便用户轻松接入企业数据。通过内置的AI代理，用户能够对数据进行探索、分析和可视化，从而高效地将原始数据转化为可操作的商业洞察。"
+    },
+    {
+      "title": "Extending Human Intelligence Through AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+      "pubDate": "Wed, 27 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-27T16:00:00.000Z",
+      "content": "<p>Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/\">Extending Human Intelligence Through AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.\nThe post Extending Human Intelligence Through AI appeared first on Microsoft Research.",
+      "creator": "Ken Archer, Harald Wiltsche",
+      "summaries": {
+        "zh": "微软研究院指出，将人工智能视为人类智能的延伸而非替代，是构建可信赖AI系统更为务实的途径。",
+        "en": "The article \"Extending Human Intelligence Through AI\" argues for viewing artificial intelligence as a tool to enhance human capabilities rather than to replace them. It suggests that this perspective provides a more practical and grounded foundation for developing trustworthy AI systems. The piece was published on the Microsoft Research blog."
+      },
+      "summary": "微软研究院指出，将人工智能视为人类智能的延伸而非替代，是构建可信赖AI系统更为务实的途径。"
+    },
+    {
+      "title": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
+      "link": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+      "pubDate": "Thu, 21 May 2026 17:00:00 +0000",
+      "isoDate": "2026-05-21T17:00:00.000Z",
+      "content": "<p>MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient agentic performance on everyday tasks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/\">MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient agentic performance on everyday tasks.\nThe post MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models appeared first on Microsoft Research.",
+      "creator": "Microsoft Research AI Frontiers",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/MagenticLite-Fill-Expenses-Forms-Final-Demo.mp4",
+        "type": "video/mp4"
+      },
+      "summaries": {
+        "zh": "MagenticLite是一种面向小模型的智能体系统，能够在浏览器与本地文件系统中实现一体化工作流程。该系统通过整合专用模型与调度技术，旨在提升日常任务中的智能体运行效率。",
+        "en": "MagenticLite is an agentic system from Microsoft Research optimized for small models. It operates across both browser and local file system environments within a single workflow. By combining specialized models and orchestration, the system aims to deliver efficient agentic performance for everyday tasks."
+      },
+      "summary": "MagenticLite是一种面向小模型的智能体系统，能够在浏览器与本地文件系统中实现一体化工作流程。该系统通过整合专用模型与调度技术，旨在提升日常任务中的智能体运行效率。"
+    },
+    {
+      "title": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+      "pubDate": "Thu, 21 May 2026 13:48:40 +0000",
+      "isoDate": "2026-05-21T13:48:40.000Z",
+      "content": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/\">Vega: Zero-knowledge proofs for digital identity in the age of AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. \nThe post Vega: Zero-knowledge proofs for digital identity in the age of AI appeared first on Microsoft Research.",
+      "creator": "Srinath Setty",
+      "summaries": {
+        "zh": "微软研究院介绍了Vega技术，该技术将完整的身份凭证转化为单一证明，在需要时仅分享必要信息。Vega能在实际应用中高效运行，旨在为人工智能时代的数字身份提供零知识证明保障。",
+        "en": "Vega introduces a system using zero-knowledge proofs for digital identity, transforming full credentials into single proofs that reveal only necessary information. Designed for practical, real-world applications, it enhances privacy by minimizing data sharing. The approach is presented as a solution for digital identity management in the age of AI."
+      },
+      "summary": "微软研究院介绍了Vega技术，该技术将完整的身份凭证转化为单一证明，在需要时仅分享必要信息。Vega能在实际应用中高效运行，旨在为人工智能时代的数字身份提供零知识证明保障。"
+    },
+    {
+      "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
+      "link": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+      "pubDate": "Fri, 15 May 2026 18:06:57 +0000",
+      "isoDate": "2026-05-15T18:06:57.000Z",
+      "content": "<p>Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-horizon delegated and [&#8230;]</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/\">Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-horizon delegated and […]\nThe post Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability appeared first on Microsoft Research.",
+      "creator": "Philippe Laban, Tobias Schnabel, Jennifer Neville",
+      "summaries": {
+        "zh": "微软研究院就此前关于AI委托工作中文档可靠性的研究进行了补充说明。文章澄清，其论文《LLMs Corrupt Your Documents When You Delegate》旨在探讨如何评估长期委托工作流的鲁棒性，并非主张当前AI系统已完全可靠。研究聚焦于建立有效的评估方法，以推动系统在长期协作场景中的可靠性提升。",
+        "en": "The article addresses discussion surrounding the paper \"LLMs Corrupt Your Documents When You Delegate,\" which examines the reliability of AI systems in delegated workflows. It clarifies that the research focuses on developing robust evaluation methods for long-horizon delegated tasks and does not make broader claims. The post aims to provide further context on the paper's specific scope and findings."
+      },
+      "summary": "微软研究院就此前关于AI委托工作中文档可靠性的研究进行了补充说明。文章澄清，其论文《LLMs Corrupt Your Documents When You Delegate》旨在探讨如何评估长期委托工作流的鲁棒性，并非主张当前AI系统已完全可靠。研究聚焦于建立有效的评估方法，以推动系统在长期协作场景中的可靠性提升。"
+    },
+    {
+      "title": "mimalloc: A new, high-performance, scalable memory allocator for the modern era",
+      "link": "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+      "pubDate": "Wed, 13 May 2026 17:19:59 +0000",
+      "isoDate": "2026-05-13T17:19:59.000Z",
+      "content": "<p>mimalloc is an open-source, modern, scalable memory allocator that is a drop-in replacement for malloc and free. It is relatively small (~12K lines), with clear internal data structures, and is easy to build and integrate into other projects. It provides bounded worst-case allocation times (up to OS primitives), bounded space overhead, low internal fragmentation, and minimal contention by relying almost exclusively on atomic operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/\">mimalloc: A new, high-performance, scalable memory allocator for the modern era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "mimalloc is an open-source, modern, scalable memory allocator that is a drop-in replacement for malloc and free. It is relatively small (~12K lines), with clear internal data structures, and is easy to build and integrate into other projects. It provides bounded worst-case allocation times (up to OS primitives), bounded space overhead, low internal fragmentation, and minimal contention by relying almost exclusively on atomic operations.\nThe post mimalloc: A new, high-performance, scalable memory allocator for the modern era appeared first on Microsoft Research.",
+      "creator": "Daan Leijen",
+      "summaries": {
+        "zh": "mimalloc 是微软研究院发布的一个开源高性能内存分配器，可作为 malloc 和 free 的替代品。它代码量小（约 1.2 万行），结构清晰，易于集成。其特点包括：能将最坏情况下的分配时间限定在操作系统原生调用级别，空间开销低，内部碎片少，且几乎完全依赖原子操作以最大限度减少线程竞争，适合现代计算环境。",
+        "en": "mimalloc is a small, open-source memory allocator designed as a high-performance, scalable drop-in replacement for malloc and free. It emphasizes efficiency through clear data structures and atomic operations, offering benefits like bounded allocation times, low overhead, and minimal contention. Developed by Microsoft Research, it is easy to integrate into other projects while addressing modern system requirements."
+      },
+      "summary": "mimalloc 是微软研究院发布的一个开源高性能内存分配器，可作为 malloc 和 free 的替代品。它代码量小（约 1.2 万行），结构清晰，易于集成。其特点包括：能将最坏情况下的分配时间限定在操作系统原生调用级别，空间开销低，内部碎片少，且几乎完全依赖原子操作以最大限度减少线程竞争，适合现代计算环境。"
+    },
+    {
+      "title": "GridSFM: A new, small foundation model for the electric grid",
+      "link": "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+      "pubDate": "Wed, 13 May 2026 16:00:20 +0000",
+      "isoDate": "2026-05-13T16:00:20.000Z",
+      "content": "<p>Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct visibility into congestion, stability, and system health.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/\">GridSFM: A new, small foundation model for the electric grid</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct visibility into congestion, stability, and system health.\nThe post GridSFM: A new, small foundation model for the electric grid appeared first on Microsoft Research.",
+      "creator": "Weiwei Yang, Andrea Britto Mattos Lima, Thiago Vallin Spina, Spencer Fowers, Baosen   Zhang",
+      "summaries": {
+        "zh": "微软研究院推出GridSFM，一种面向电网的小型基础模型。该模型可在毫秒级时间内完成交流最优潮流预测，显著提升电网运行效率，助力降低成本。GridSFM为电网运营商提供直接监测拥堵、稳定性及系统健康状况的能力。",
+        "en": "GridSFM is a new small foundation model developed for electric grid operations. It can predict AC optimal power flow in milliseconds, which enhances efficiency and offers potential cost savings. The model provides grid operators with direct visibility into key aspects like network congestion, stability, and overall system health."
+      },
+      "summary": "微软研究院推出GridSFM，一种面向电网的小型基础模型。该模型可在毫秒级时间内完成交流最优潮流预测，显著提升电网运行效率，助力降低成本。GridSFM为电网运营商提供直接监测拥堵、稳定性及系统健康状况的能力。"
+    },
+    {
+      "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
+      "link": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
+      "pubDate": "Tue, 12 May 2026 13:00:00 +0000",
+      "isoDate": "2026-05-12T13:00:00.000Z",
+      "content": "<p>MatterSim is expanding what AI can do for materials science—from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces alone.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/\">Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "MatterSim is expanding what AI can do for materials science—from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces alone.\nThe post Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models appeared first on Microsoft Research.",
+      "creator": "Andrew Fowler, Claudio Zeni, Daniel Zügner, Fabian Thiemann, Robert Pinsler, Shoko Ueda, Kenji Takeda",
+      "summaries": {
+        "zh": "MatterSim是一项用于材料科学的AI技术新进展，其应用范围正持续扩展。该技术能够实现更快的大规模模拟，并推出了新型多任务模型MatterSim-MT，该模型可模拟势能面之外的更多材料属性，为材料研究提供了更强大的计算工具。",
+        "en": "MatterSim is an AI tool advancing materials science by enabling faster large-scale simulations. It also introduces MatterSim-MT, a new multi-task model capable of simulating material properties beyond just potential energy surfaces."
+      },
+      "summary": "MatterSim是一项用于材料科学的AI技术新进展，其应用范围正持续扩展。该技术能够实现更快的大规模模拟，并推出了新型多任务模型MatterSim-MT，该模型可模拟势能面之外的更多材料属性，为材料研究提供了更强大的计算工具。"
+    },
+    {
+      "title": "SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests",
+      "link": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+      "pubDate": "Mon, 11 May 2026 17:19:28 +0000",
+      "isoDate": "2026-05-11T17:19:28.000Z",
+      "content": "<p>Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently, but fail to consistently improve the user’s position, even with explicit instructions to optimize for user interest.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/\">SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently, but fail to consistently improve the user’s position, even with explicit instructions to optimize for user interest.\nThe post SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests appeared first on Microsoft Research.",
+      "creator": "Tyler Payne, Will Epperson, Safoora Yousefi, Zachary Huang, Gagan Bansal, Wenyue Hua, Maya Murad, Asli Celikyilmaz, Saleema Amershi",
+      "summaries": {
+        "zh": "微软研究院的基准测试SocialReasoning-Bench发现，尽管当前AI代理具备较强的任务执行能力，但在即使收到明确优化指令时，它们仍未能稳定地改善用户的处境。这反映出AI代理在理解并真正以用户最佳利益为核心行动方面存在不足。",
+        "en": "SocialReasoning-Bench is a benchmark designed to assess whether AI agents act in users' best interests. The evaluation reveals a consistent pattern: while AI agents can perform tasks competently, they often fail to genuinely improve the user's situation, even when explicitly instructed to prioritize the user's benefit. The research was published by Microsoft Research."
+      },
+      "summary": "微软研究院的基准测试SocialReasoning-Bench发现，尽管当前AI代理具备较强的任务执行能力，但在即使收到明确优化指令时，它们仍未能稳定地改善用户的处境。这反映出AI代理在理解并真正以用户最佳利益为核心行动方面存在不足。"
+    },
+    {
+      "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
+      "link": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
+      "pubDate": "Fri, 08 May 2026 19:53:56 +0000",
+      "isoDate": "2026-05-08T19:53:56.000Z",
+      "content": "<p>Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly available data. The ability to study transmission-level power grid behavior is essential for modern power systems research. Analyses of congestion, transmission expansion, demand growth, and system resilience all depend on network models with realistic [&#8230;]</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/\">Building realistic electric transmission grid dataset at scale: a pipeline from open dataset</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly available data. The ability to study transmission-level power grid behavior is essential for modern power systems research. Analyses of congestion, transmission expansion, demand growth, and system resilience all depend on network models with realistic […]\nThe post Building realistic electric transmission grid dataset at scale: a pipeline from open dataset appeared first on Microsoft Research.",
+      "creator": "Andrea Britto Mattos Lima, Thiago Vallin Spina, Weiwei Yang, Spencer Fowers, Ruslan Nagimov, Baosen   Zhang",
+      "summaries": {
+        "zh": "微软研究院发布了基于公开数据构建的美国电网近似传输拓扑开放数据集。该数据集旨在支持现代电力系统研究，为网络模型分析提供基础数据，可用于拥堵分析、输电扩展规划、需求增长及系统韧性等领域的研究。",
+        "en": "Microsoft Research has released an open dataset containing an approximate transmission topology of the U.S. power grid, derived from publicly available data. This resource is designed to facilitate research on transmission-level grid behavior, which is critical for analyzing congestion, system resilience, and future expansion. The dataset aims to provide a realistic network model to support modern power systems studies."
+      },
+      "summary": "微软研究院发布了基于公开数据构建的美国电网近似传输拓扑开放数据集。该数据集旨在支持现代电力系统研究，为网络模型分析提供基础数据，可用于拥堵分析、输电扩展规划、需求增长及系统韧性等领域的研究。"
+    }
+  ],
+  "lastUpdated": "2026-06-09T17:00:58.554Z"
+}

@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://openai.com/blog/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "link": "https://openai.com/index/openai-submits-confidential-s-1",
+      "pubDate": "Mon, 08 Jun 2026 14:00:00 GMT",
+      "isoDate": "2026-06-08T14:00:00.000Z",
+      "content": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "contentSnippet": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI已向美国证券交易委员会（SEC）秘密提交了S-1表格草案，但尚未确定后续行动的时间表。此举表明该公司正在为潜在的首次公开募股（IPO）做准备。",
+        "en": "OpenAI has confirmed the confidential submission of a draft S-1 registration statement to the U.S. Securities and Exchange Commission (SEC). The company stated that it has not yet determined the timing for any further action regarding this filing."
+      },
+      "summary": "OpenAI已向美国证券交易委员会（SEC）秘密提交了S-1表格草案，但尚未确定后续行动的时间表。此举表明该公司正在为潜在的首次公开募股（IPO）做准备。"
+    },
+    {
+      "title": "Built to benefit everyone: our plan",
+      "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "pubDate": "Mon, 08 Jun 2026 01:30:00 GMT",
+      "isoDate": "2026-06-08T01:30:00.000Z",
+      "content": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "contentSnippet": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI发布了其AI未来发展愿景，核心目标是确保通用人工智能（AGI）造福全人类。计划围绕三大支柱展开：首先，保障AGI的普及性，使其能广泛惠及社会各层面；其次，将安全性置于首位，确保技术可控、可靠；最后，致力于推动共同繁荣，通过技术进步为全球经济和社会发展带来广泛利益。整个规划旨在引导AI技术向安全、普惠、协作的方向发展。",
+        "en": "OpenAI presents a vision for the future of artificial intelligence centered on ensuring its benefits are widely shared. Their plan outlines key priorities: expanding access to AI technologies, guaranteeing safety and alignment with human values, and fostering shared prosperity. The overarching goal is to guide the development of artificial general intelligence (AGI) in a way that is equitable and advantageous for all of humanity."
+      },
+      "summary": "OpenAI发布了其AI未来发展愿景，核心目标是确保通用人工智能（AGI）造福全人类。计划围绕三大支柱展开：首先，保障AGI的普及性，使其能广泛惠及社会各层面；其次，将安全性置于首位，确保技术可控、可靠；最后，致力于推动共同繁荣，通过技术进步为全球经济和社会发展带来广泛利益。整个规划旨在引导AI技术向安全、普惠、协作的方向发展。"
+    },
+    {
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "link": "https://openai.com/index/economic-research-exchange",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-08T00:00:00.000Z",
+      "content": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "contentSnippet": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI启动了“经济研究交流”项目，旨在研究人工智能对就业、生产力和整体经济的影响。相关研究项目现正开放申请。",
+        "en": "OpenAI has launched the Economic Research Exchange, an initiative dedicated to studying the economic impact of artificial intelligence. The program will investigate how AI affects employment, productivity, and broader economic systems. Applications for selected research projects under this exchange are now open."
+      },
+      "summary": "OpenAI启动了“经济研究交流”项目，旨在研究人工智能对就业、生产力和整体经济的影响。相关研究项目现正开放申请。"
+    },
+    {
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "link": "https://openai.com/index/endava-frontiers",
+      "pubDate": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "isoDate": "2026-06-04T12:00:00.000Z",
+      "content": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "contentSnippet": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "creator": "",
+      "summaries": {
+        "zh": "Endava 正利用人工智能代理、ChatGPT 企业版和 Codex 等工具，加速软件交付流程，实现工作流自动化，并致力于在整个企业内构建 AI 原生文化，以此重新设计其软件交付体系。",
+        "en": "Endava is transforming its software delivery by integrating AI agents, ChatGPT Enterprise, and Codex. These technologies are used to accelerate development cycles, automate routine workflows, and foster an AI-native culture throughout the organization. The initiative aims to enhance efficiency and embed AI capabilities into core business processes."
+      },
+      "summary": "Endava 正利用人工智能代理、ChatGPT 企业版和 Codex 等工具，加速软件交付流程，实现工作流自动化，并致力于在整个企业内构建 AI 原生文化，以此重新设计其软件交付体系。"
+    },
+    {
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "link": "https://openai.com/index/chatgpt-memory-dreaming",
+      "pubDate": "Thu, 04 Jun 2026 09:00:00 GMT",
+      "isoDate": "2026-06-04T09:00:00.000Z",
+      "content": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "contentSnippet": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "creator": "",
+      "summaries": {
+        "zh": "ChatGPT 新增记忆功能，可记住用户偏好，使对话在不同场景中保持连贯与实用，提供更个性化的交互体验。",
+        "en": "ChatGPT has introduced a new memory system designed to enhance user experience. This feature allows the AI to better remember user preferences and maintain relevant context throughout multiple conversations, aiming for more personalized and consistent interactions."
+      },
+      "summary": "ChatGPT 新增记忆功能，可记住用户偏好，使对话在不同场景中保持连贯与实用，提供更个性化的交互体验。"
+    },
+    {
+      "title": "Biodefense in the Intelligence Age",
+      "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "pubDate": "Thu, 04 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-04T00:00:00.000Z",
+      "content": "An action plan for AI-powered biological resilience",
+      "contentSnippet": "An action plan for AI-powered biological resilience",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章标题为《情报时代的生物防御》，介绍了一项利用人工智能技术增强生物系统韧性的行动计划。内容聚焦于如何通过AI手段提升应对生物威胁的能力，但未提供具体细节。",
+        "en": "The article presents an action plan that leverages artificial intelligence to strengthen biodefense capabilities in the modern intelligence era. It focuses on developing AI-driven strategies and technologies to enhance preparedness and resilience against biological threats. The plan aims to integrate advanced data analysis and predictive modeling to proactively identify and mitigate biological risks, thereby safeguarding public health and security."
+      },
+      "summary": "该文章标题为《情报时代的生物防御》，介绍了一项利用人工智能技术增强生物系统韧性的行动计划。内容聚焦于如何通过AI手段提升应对生物威胁的能力，但未提供具体细节。"
+    },
+    {
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "pubDate": "Wed, 03 Jun 2026 13:15:00 GMT",
+      "isoDate": "2026-06-03T13:15:00.000Z",
+      "content": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "contentSnippet": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-Rosalind 在生命科学研究方面推出新功能，增强了生物学推理、药物化学分析、基因组学研究以及实验流程设计能力，以推动相关领域的研究进展。",
+        "en": "GPT-Rosalind introduces new capabilities for advancing life sciences research, featuring enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and support for experimental workflows."
+      },
+      "summary": "GPT-Rosalind 在生命科学研究方面推出新功能，增强了生物学推理、药物化学分析、基因组学研究以及实验流程设计能力，以推动相关领域的研究进展。"
+    },
+    {
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "link": "https://openai.com/index/wasmer",
+      "pubDate": "Wed, 03 Jun 2026 12:00:00 GMT",
+      "isoDate": "2026-06-03T12:00:00.000Z",
+      "content": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "contentSnippet": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "creator": "",
+      "summaries": {
+        "zh": "Wasmer公司采用Codex（配合GPT-5.5）技术，成功构建了面向边缘计算的Node.js运行时。该方案将开发速度提升了10至20倍，使产品能在数周内完成发布，而非以往的数月。",
+        "en": "Wasmer utilized Codex integrated with GPT-5.5 to develop a Node.js runtime optimized for edge computing. This collaboration dramatically accelerated their development timeline, achieving a speed increase of 10 to 20 times. As a result, Wasmer was able to ship the new runtime in a matter of weeks rather than the originally anticipated months."
+      },
+      "summary": "Wasmer公司采用Codex（配合GPT-5.5）技术，成功构建了面向边缘计算的Node.js运行时。该方案将开发速度提升了10至20倍，使产品能在数周内完成发布，而非以往的数月。"
+    },
+    {
+      "title": "OpenAI public policy agenda",
+      "link": "https://openai.com/index/public-policy-agenda",
+      "pubDate": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "isoDate": "2026-06-03T10:00:00.000Z",
+      "content": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "contentSnippet": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI公布了其人工智能公共政策议程，涵盖四大核心领域：确保AI安全发展、加强青少年保护措施、关注劳动力转型支持，以及推动建立全球性标准，旨在引导人工智能技术为社会带来积极效益。",
+        "en": "OpenAI's public policy agenda focuses on ensuring AI benefits society through four key areas: advancing safety measures, protecting young users, managing workforce transitions during AI adoption, and establishing global standards for responsible development. The agenda outlines the company's priorities for ethical AI governance and cross-sector collaboration to address societal challenges."
+      },
+      "summary": "OpenAI公布了其人工智能公共政策议程，涵盖四大核心领域：确保AI安全发展、加强青少年保护措施、关注劳动力转型支持，以及推动建立全球性标准，旨在引导人工智能技术为社会带来积极效益。"
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "link": "https://openai.com/index/frontier-safety-blueprint",
+      "pubDate": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "isoDate": "2026-06-03T10:00:00.000Z",
+      "content": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "contentSnippet": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI发布关于美国前沿AI治理的蓝图，建议建立联邦框架以保障安全、韧性与国家安全。该提案旨在通过政府监管促进AI技术的负责任发展。",
+        "en": "OpenAI has proposed a blueprint for the United States to establish a federal framework for governing frontier AI. The plan focuses on ensuring AI safety, system resilience, and national security. It outlines a structured approach for oversight and regulation of advanced AI systems at the federal level."
+      },
+      "summary": "OpenAI发布关于美国前沿AI治理的蓝图，建议建立联邦框架以保障安全、韧性与国家安全。该提案旨在通过政府监管促进AI技术的负责任发展。"
+    },
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "link": "https://openai.com/index/travelers",
+      "pubDate": "Tue, 02 Jun 2026 12:00:00 GMT",
+      "isoDate": "2026-06-02T12:00:00.000Z",
+      "content": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "contentSnippet": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "creator": "",
+      "summaries": {
+        "zh": "Travelers公司采用OpenAI技术部署了AI理赔助手，用于指导客户提交索赔、提供全天候在线支持，并在业务高峰期实现服务扩容。该系统已在全美范围内推广使用。",
+        "en": "Travelers has implemented a nationwide AI-powered Claim Assistant, developed with OpenAI. The tool is designed to guide customers through the claims filing process and provide continuous 24/7 support. A key objective of the deployment is to enhance operational scalability, particularly during periods of high claim volume."
+      },
+      "summary": "Travelers公司采用OpenAI技术部署了AI理赔助手，用于指导客户提交索赔、提供全天候在线支持，并在业务高峰期实现服务扩容。该系统已在全美范围内推广使用。"
+    },
+    {
+      "title": "Codex for every role, tool, and workflow",
+      "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "pubDate": "Tue, 02 Jun 2026 09:00:00 GMT",
+      "isoDate": "2026-06-02T09:00:00.000Z",
+      "content": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "contentSnippet": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "creator": "",
+      "summaries": {
+        "zh": "Codex推出了新插件、站点及注释工具，旨在通过AI协助分析师、营销人员、设计师、投资者等各类团队，提升工作效率与协作能力。",
+        "en": "Codex offers new plugins, sites, and annotations designed to boost productivity with AI across various professional roles. These tools assist analysts, marketers, designers, investors, and other teams in enhancing their workflows and achieving more. The focus is on providing AI-powered solutions to streamline tasks and improve efficiency for different job functions."
+      },
+      "summary": "Codex推出了新插件、站点及注释工具，旨在通过AI协助分析师、营销人员、设计师、投资者等各类团队，提升工作效率与协作能力。"
+    },
+    {
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "isoDate": "2026-06-02T07:00:00.000Z",
+      "content": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "contentSnippet": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI呼吁全球关注青少年AI安全，提议建立国际机构以加强相关保护措施、制定安全标准，并为青少年创造更多发展机会。该倡议旨在通过国际合作，系统性地应对人工智能时代对未成年人带来的潜在风险与挑战。",
+        "en": "OpenAI is advocating for global collaboration to enhance AI safety for young people. The organization proposes establishing an international institute dedicated to developing stronger safeguards, standards, and opportunities to protect and empower youth in the context of AI. This initiative underscores the need for coordinated international leadership in addressing the unique risks and potential of AI for younger generations."
+      },
+      "summary": "OpenAI呼吁全球关注青少年AI安全，提议建立国际机构以加强相关保护措施、制定安全标准，并为青少年创造更多发展机会。该倡议旨在通过国际合作，系统性地应对人工智能时代对未成年人带来的潜在风险与挑战。"
+    },
+    {
+      "title": "Codex is becoming a productivity tool for everyone",
+      "link": "https://openai.com/index/codex-for-knowledge-work",
+      "pubDate": "Tue, 02 Jun 2026 02:00:00 GMT",
+      "isoDate": "2026-06-02T02:00:00.000Z",
+      "content": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "contentSnippet": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "creator": "",
+      "summaries": {
+        "zh": "Codex正在成为面向所有人的生产力工具。根据《知识工作下一个时代》报告，Codex通过人工智能驱动的研究、数据分析、工作流程自动化和内容创作，正在大幅提升生产力。",
+        "en": "A report titled \"The Next Era of Knowledge Work\" examines how Codex is boosting productivity by serving as an AI-powered assistant. The tool aids in key tasks such as conducting research, analyzing data, automating workflows, and creating content, aiming to enhance efficiency for a wide range of users."
+      },
+      "summary": "Codex正在成为面向所有人的生产力工具。根据《知识工作下一个时代》报告，Codex通过人工智能驱动的研究、数据分析、工作流程自动化和内容创作，正在大幅提升生产力。"
+    },
+    {
+      "title": "Our views on AI policy and political advocacy",
+      "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "pubDate": "Mon, 01 Jun 2026 17:00:00 GMT",
+      "isoDate": "2026-06-01T17:00:00.000Z",
+      "content": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+      "contentSnippet": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章阐述了公司关于AI政策与政治倡导的立场，强调透明度、支持合理监管及AI安全。同时明确表示，没有外部政治团体可代表公司发言。",
+        "en": "This article outlines the company's approach to AI policy and political advocacy, emphasizing transparency and support for thoughtful regulation and AI safety. It also clarifies that no outside political group speaks on the company's behalf."
+      },
+      "summary": "该文章阐述了公司关于AI政策与政治倡导的立场，强调透明度、支持合理监管及AI安全。同时明确表示，没有外部政治团体可代表公司发言。"
+    },
+    {
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "link": "https://openai.com/index/stargate-michigan-data-center",
+      "pubDate": "Mon, 01 Jun 2026 12:00:00 GMT",
+      "isoDate": "2026-06-01T12:00:00.000Z",
+      "content": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "contentSnippet": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI在美国密歇根州启动了其\"星际之门\"（Stargate）项目下的一个大型数据中心建设，该项目容量达1吉瓦。该数据中心旨在构建人工智能基础设施，以扩展技术的可及性、创造就业岗位并支持当地社区发展。",
+        "en": "OpenAI has initiated the construction of a 1-gigawatt data center in Michigan, a major project under its Stargate initiative. The development aims to build essential artificial intelligence infrastructure. Key objectives include expanding access to AI technology, generating employment opportunities, and providing support to local communities."
+      },
+      "summary": "OpenAI在美国密歇根州启动了其\"星际之门\"（Stargate）项目下的一个大型数据中心建设，该项目容量达1吉瓦。该数据中心旨在构建人工智能基础设施，以扩展技术的可及性、创造就业岗位并支持当地社区发展。"
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "pubDate": "Mon, 01 Jun 2026 10:00:00 GMT",
+      "isoDate": "2026-06-01T10:00:00.000Z",
+      "content": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "contentSnippet": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI的前沿模型与Codex现已在AWS平台全面开放使用。企业用户可通过现有的AWS环境、管理工具及采购流程，无缝接入并构建基于OpenAI的应用，从而更快速地从技术评估过渡到生产部署。",
+        "en": "OpenAI's frontier models and Codex are now generally available on Amazon Web Services (AWS). This provides enterprises with a new option to build using OpenAI technology directly within their existing AWS environments, controls, and procurement processes. The integration aims to help customers accelerate their journey from evaluation to production deployment."
+      },
+      "summary": "OpenAI的前沿模型与Codex现已在AWS平台全面开放使用。企业用户可通过现有的AWS环境、管理工具及采购流程，无缝接入并构建基于OpenAI的应用，从而更快速地从技术评估过渡到生产部署。"
+    },
+    {
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "link": "https://openai.com/index/boston-childrens-hospital",
+      "pubDate": "Fri, 29 May 2026 12:00:00 GMT",
+      "isoDate": "2026-05-29T12:00:00.000Z",
+      "content": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "contentSnippet": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "creator": "",
+      "summaries": {
+        "zh": "波士顿儿童医院利用OpenAI的人工智能技术，旨在改善患者护理、减轻运营负担，并已协助诊断了超过40例罕见疾病病例。",
+        "en": "Boston Children's Hospital has implemented OpenAI technology to enhance patient care and reduce operational burdens. The system assists in diagnosing over 40 rare disease cases, demonstrating the practical application of AI in healthcare to support clinical decision-making and streamline processes."
+      },
+      "summary": "波士顿儿童医院利用OpenAI的人工智能技术，旨在改善患者护理、减轻运营负担，并已协助诊断了超过40例罕见疾病病例。"
+    },
+    {
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "link": "https://openai.com/index/braintrust",
+      "pubDate": "Fri, 29 May 2026 12:00:00 GMT",
+      "isoDate": "2026-05-29T12:00:00.000Z",
+      "content": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "contentSnippet": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "creator": "",
+      "summaries": {
+        "zh": "Braintrust公司工程师利用基于GPT-5.5的Codex工具，将客户需求快速转化为可执行代码。该平台通过集成先进AI模型，优化内部实验流程，显著提升了代码开发效率，实现了从需求分析到代码生成的自动化加速。",
+        "en": "Braintrust engineers are leveraging Codex integrated with GPT-5.5 to streamline their development process. This combination is used to run experiments and accelerate coding tasks, effectively turning customer requests into functional code more efficiently. The approach highlights a practical application of AI tools to enhance engineering productivity and workflow automation."
+      },
+      "summary": "Braintrust公司工程师利用基于GPT-5.5的Codex工具，将客户需求快速转化为可执行代码。该平台通过集成先进AI模型，优化内部实验流程，显著提升了代码开发效率，实现了从需求分析到代码生成的自动化加速。"
+    },
+    {
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "pubDate": "Fri, 29 May 2026 03:00:00 GMT",
+      "isoDate": "2026-05-29T03:00:00.000Z",
+      "content": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "contentSnippet": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI推出“罗莎琳德生物防御”项目，向经审核的开发者及美国政府合作伙伴开放GPT-罗莎琳德的可信访问权限。该项目旨在利用前沿AI技术，支持生物防御、公共卫生和大流行病防范领域的发展。",
+        "en": "OpenAI has launched Rosalind Biodefense, a new initiative that expands trusted access to its GPT-Rosalind model. The program is specifically for vetted developers and U.S. government partners working in the fields of biodefense, public health, and pandemic preparedness. It aims to leverage frontier AI technology to enhance societal resilience against biological threats."
+      },
+      "summary": "OpenAI推出“罗莎琳德生物防御”项目，向经审核的开发者及美国政府合作伙伴开放GPT-罗莎琳德的可信访问权限。该项目旨在利用前沿AI技术，支持生物防御、公共卫生和大流行病防范领域的发展。"
+    },
+    {
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "pubDate": "Fri, 29 May 2026 00:00:00 GMT",
+      "isoDate": "2026-05-29T00:00:00.000Z",
+      "content": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "contentSnippet": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI发布了关于第三方人工智能评估的指导方针，旨在为前沿系统建立可信的评估标准。该指南涵盖了如何评估模型能力、安全防护措施以及评估方法的有效性，为外部评估者提供了可共享的操作框架。",
+        "en": "OpenAI has released guidance for conducting third-party evaluations of AI systems. The guidance outlines methods to assess the capabilities, safety measures, and validity of evaluations, specifically for frontier AI models. It aims to provide a shared framework to ensure these assessments are thorough and reliable."
+      },
+      "summary": "OpenAI发布了关于第三方人工智能评估的指导方针，旨在为前沿系统建立可信的评估标准。该指南涵盖了如何评估模型能力、安全防护措施以及评估方法的有效性，为外部评估者提供了可共享的操作框架。"
+    },
+    {
+      "title": "How Endava builds an agentic organization with Codex",
+      "link": "https://openai.com/index/endava",
+      "pubDate": "Thu, 28 May 2026 12:00:00 GMT",
+      "isoDate": "2026-05-28T12:00:00.000Z",
+      "content": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "contentSnippet": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "creator": "",
+      "summaries": {
+        "zh": "Endava 利用 Codex 构建代理组织，大幅加速软件交付，将需求分析时间从数周缩短至数小时。",
+        "en": "Endava employs Codex to establish an agentic organizational structure, which significantly speeds up software delivery processes. A key achievement highlighted is the reduction of requirements analysis timelines from weeks down to just hours, demonstrating enhanced efficiency through the integration of this technology."
+      },
+      "summary": "Endava 利用 Codex 构建代理组织，大幅加速软件交付，将需求分析时间从数周缩短至数小时。"
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "link": "https://openai.com/index/mufg",
+      "pubDate": "Thu, 28 May 2026 00:00:00 GMT",
+      "isoDate": "2026-05-28T00:00:00.000Z",
+      "content": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "contentSnippet": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "creator": "",
+      "summaries": {
+        "zh": "三菱日联金融集团计划通过采用OpenAI的ChatGPT企业版，推动自身向人工智能原生型组织转型，旨在优化内部工作流程并大规模提供人工智能驱动的新型金融服务。",
+        "en": "MUFG aims to become an \"AI-native\" organization by implementing ChatGPT Enterprise. The bank's strategy involves using the technology to enhance internal workflows and develop new, AI-driven financial services for its customers at scale."
+      },
+      "summary": "三菱日联金融集团计划通过采用OpenAI的ChatGPT企业版，推动自身向人工智能原生型组织转型，旨在优化内部工作流程并大规模提供人工智能驱动的新型金融服务。"
+    },
+    {
+      "title": "OpenAI’s Frontier Governance Framework",
+      "link": "https://openai.com/index/openai-frontier-governance-framework",
+      "pubDate": "Thu, 28 May 2026 00:00:00 GMT",
+      "isoDate": "2026-05-28T00:00:00.000Z",
+      "content": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "contentSnippet": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI发布了前沿治理框架，旨在阐述其人工智能安全、风险管控及实践措施。该框架同时探讨了这些措施如何与新兴的欧盟及加利福尼亚州相关法规保持一致。",
+        "en": "OpenAI has introduced its Frontier Governance Framework, outlining safety, security, and risk management practices for its most advanced AI systems. The framework is designed to align with emerging regulatory standards, specifically those from the European Union and California. It aims to ensure responsible development and deployment of frontier AI models through structured governance and compliance measures."
+      },
+      "summary": "OpenAI发布了前沿治理框架，旨在阐述其人工智能安全、风险管控及实践措施。该框架同时探讨了这些措施如何与新兴的欧盟及加利福尼亚州相关法规保持一致。"
+    },
+    {
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "link": "https://openai.com/index/cisco",
+      "pubDate": "Wed, 27 May 2026 11:00:00 GMT",
+      "isoDate": "2026-05-27T11:00:00.000Z",
+      "content": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "contentSnippet": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "creator": "",
+      "summaries": {
+        "zh": "思科与OpenAI通过Codex合作，重新定义企业工程。该合作旨在帮助思科扩展AI原生开发、加速AI防御工作并实现缺陷修复自动化。",
+        "en": "Cisco and OpenAI are collaborating to redefine enterprise engineering using Codex. The partnership aims to help Cisco scale AI-native development, accelerate its AI Defense work, and automate the process of defect remediation."
+      },
+      "summary": "思科与OpenAI通过Codex合作，重新定义企业工程。该合作旨在帮助思科扩展AI原生开发、加速AI防御工作并实现缺陷修复自动化。"
+    },
+    {
+      "title": "Building self-improving tax agents with Codex",
+      "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
+      "isoDate": "2026-05-27T07:00:00.000Z",
+      "content": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "contentSnippet": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "creator": "",
+      "summaries": {
+        "zh": "某技术团队利用Codex开发了一款能够自主优化的税务智能体，该系统可自动化处理报税流程，在提升准确性的同时显著加快工作效率。",
+        "en": "OpenAI, Thrive, and Crete collaborated to create a self-improving tax agent powered by Codex. This system automates tax filings, enhances accuracy, and accelerates workflows through continuous learning and adaptation. The project demonstrates how AI can streamline complex financial processes."
+      },
+      "summary": "某技术团队利用Codex开发了一款能够自主优化的税务智能体，该系统可自动化处理报税流程，在提升准确性的同时显著加快工作效率。"
+    },
+    {
+      "title": "Election information and safeguards in 2026",
+      "link": "https://openai.com/index/election-safeguards-2026",
+      "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
+      "isoDate": "2026-05-27T00:00:00.000Z",
+      "content": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "contentSnippet": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年全球选举前，相关方面正致力于帮助民众获取信息、支持网络安全防护，并提升人工智能的透明度。",
+        "en": "Ahead of the 2026 global elections, initiatives are underway to help people access accurate information, support cyber defenders in securing election infrastructure, and increase transparency around the use of artificial intelligence. These measures aim to enhance election integrity and security."
+      },
+      "summary": "2026年全球选举前，相关方面正致力于帮助民众获取信息、支持网络安全防护，并提升人工智能的透明度。"
+    },
+    {
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "link": "https://openai.com/index/warp",
+      "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
+      "isoDate": "2026-05-27T00:00:00.000Z",
+      "content": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "contentSnippet": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "creator": "",
+      "summaries": {
+        "zh": "Warp近期宣布采用GPT-5.5及OpenAI模型，用于协调本地、云端及开源开发流程中的编程智能体，旨在推动开源生态建设。该公司借助该模型提升多环境开发协作效率，强化其在开发者工具领域的技术整合。",
+        "en": "Warp integrates GPT-5.5 and other OpenAI models to orchestrate coding agents across various development environments, including local machines, cloud platforms, and open-source workflows."
+      },
+      "summary": "Warp近期宣布采用GPT-5.5及OpenAI模型，用于协调本地、云端及开源开发流程中的编程智能体，旨在推动开源生态建设。该公司借助该模型提升多环境开发协作效率，强化其在开发者工具领域的技术整合。"
+    },
+    {
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "pubDate": "Mon, 25 May 2026 00:00:00 GMT",
+      "isoDate": "2026-05-25T00:00:00.000Z",
+      "content": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "contentSnippet": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI与巴西媒体集团Grupo Folha、Grupo UOL达成战略合作，将向ChatGPT提供可靠的巴西新闻内容。该合作旨在通过提供注明来源和透明化的方式，扩展用户对新闻信息的获取渠道。",
+        "en": "OpenAI has formed a content partnership with Grupo Folha and Grupo UOL. The collaboration aims to bring trusted Brazilian journalism to ChatGPT, thereby expanding access to news content while ensuring proper attribution and transparency."
+      },
+      "summary": "OpenAI与巴西媒体集团Grupo Folha、Grupo UOL达成战略合作，将向ChatGPT提供可靠的巴西新闻内容。该合作旨在通过提供注明来源和透明化的方式，扩展用户对新闻信息的获取渠道。"
+    },
+    {
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "link": "https://openai.com/index/virgin-atlantic",
+      "pubDate": "Fri, 22 May 2026 00:00:00 GMT",
+      "isoDate": "2026-05-22T00:00:00.000Z",
+      "content": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "contentSnippet": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "creator": "",
+      "summaries": {
+        "zh": "维珍大西洋航空在紧迫的节假日前，通过使用 Codex 工具高效完成了其移动应用的全面升级。借助该工具，团队实现了近乎完整的单元测试覆盖率，并在发布时达到了零个优先级一（P1）缺陷，确保了应用在固定交付日前的稳定与高质量。",
+        "en": "Virgin Atlantic utilized Codex to rapidly launch its updated mobile app, successfully meeting a fixed holiday travel deadline. The integration enabled the team to achieve near-complete unit test coverage and ensured the release had zero P1 (high-priority) defects, demonstrating significant improvements in both speed and software quality."
+      },
+      "summary": "维珍大西洋航空在紧迫的节假日前，通过使用 Codex 工具高效完成了其移动应用的全面升级。借助该工具，团队实现了近乎完整的单元测试覆盖率，并在发布时达到了零个优先级一（P1）缺陷，确保了应用在固定交付日前的稳定与高质量。"
+    }
+  ],
+  "lastUpdated": "2026-06-09T16:58:26.582Z"
+}

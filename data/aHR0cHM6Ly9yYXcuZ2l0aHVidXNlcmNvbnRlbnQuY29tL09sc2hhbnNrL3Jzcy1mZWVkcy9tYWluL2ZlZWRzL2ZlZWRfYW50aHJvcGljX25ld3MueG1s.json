@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+  "title": "Anthropic News",
+  "description": "Latest updates from Anthropic's newsroom",
+  "link": "https://www.anthropic.com/news",
+  "items": [
+    {
+      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "contentSnippet": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "creator": "",
+      "summaries": {
+        "zh": "这篇文章通过分析过去一年中人工智能驱动的网络安全威胁，总结了相关经验与发现。内容主要涉及AI技术如何被用于网络攻击，以及从中获得的防范启示。由于原文仅提供标题，具体细节未在内容中展开。",
+        "en": "This summary is based on the provided article title, as the full content was not included. The article \"What we learned mapping a year’s worth of AI-enabled cyber threats\" likely presents key insights and trends observed from analyzing a full year of cyber threats that leveraged artificial intelligence. The findings would typically cover the evolving tactics, common vulnerabilities, and defensive strategies identified through this comprehensive mapping exercise, offering a distilled overview of the AI-cybersecurity threat landscape."
+      },
+      "summary": "这篇文章通过分析过去一年中人工智能驱动的网络安全威胁，总结了相关经验与发现。内容主要涉及AI技术如何被用于网络攻击，以及从中获得的防范启示。由于原文仅提供标题，具体细节未在内容中展开。"
+    },
+    {
+      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "link": "https://www.anthropic.com/news/services-track-partner-hub",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "contentSnippet": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "creator": "",
+      "summaries": {
+        "zh": "本文宣布推出Claude合作伙伴网络中的服务轨道与合作伙伴中心。该举措旨在为合作伙伴提供更结构化的协作框架与支持平台。",
+        "en": "Anthropic has announced a new program structure for the Claude Partner Network. It introduces two key components: a Services Track for partners providing implementation and support services, and a Partner Hub serving as a centralized resource portal. This initiative aims to streamline collaboration and better support partners working with Claude AI technologies."
+      },
+      "summary": "本文宣布推出Claude合作伙伴网络中的服务轨道与合作伙伴中心。该举措旨在为合作伙伴提供更结构化的协作框架与支持平台。"
+    },
+    {
+      "title": "Expanding Project Glasswing",
+      "link": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "pubDate": "Tue, 02 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-02T00:00:00.000Z",
+      "content": "Expanding Project Glasswing",
+      "contentSnippet": "Expanding Project Glasswing",
+      "creator": "",
+      "summaries": {
+        "zh": "根据提供的文章内容，当前信息不足以生成有意义的摘要。文章仅包含标题“Expanding Project Glasswing”，未提供任何具体的项目信息、目标、方法或细节。因此，无法提取关键点进行总结。",
+        "en": "No substantive content was provided beyond the title \"Expanding Project Glasswing.\" The article body does not contain any details, updates, or information about the project's scope, objectives, or status. Therefore, a meaningful summary of key points cannot be generated from the given text."
+      },
+      "summary": "根据提供的文章内容，当前信息不足以生成有意义的摘要。文章仅包含标题“Expanding Project Glasswing”，未提供任何具体的项目信息、目标、方法或细节。因此，无法提取关键点进行总结。"
+    },
+    {
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "pubDate": "Mon, 01 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-01T00:00:00.000Z",
+      "content": "Anthropic confidentially submits draft S-1 to the SEC",
+      "contentSnippet": "Anthropic confidentially submits draft S-1 to the SEC",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic已向美国证券交易委员会（SEC）秘密提交了S-1注册草案。",
+        "en": "Anthropic has confidentially submitted a draft S-1 filing to the U.S. Securities and Exchange Commission (SEC). This indicates the AI company is initiating the process for a potential initial public offering (IPO). The filing is confidential, meaning detailed financial information is not yet public."
+      },
+      "summary": "Anthropic已向美国证券交易委员会（SEC）秘密提交了S-1注册草案。"
+    },
+    {
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "link": "https://www.anthropic.com/news/series-h",
+      "pubDate": "Thu, 28 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-28T00:00:00.000Z",
+      "content": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "contentSnippet": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "creator": "",
+      "summaries": {
+        "zh": "人工智能公司Anthropic宣布完成H轮融资，募集650亿美元，融资后估值达到9650亿美元。",
+        "en": "Anthropic has secured $65 billion in Series H funding, resulting in a post-money valuation of $965 billion. The announcement confirms the AI safety company's significant new capital and its position as one of the most highly valued private firms globally. Anthropic develops AI assistants and is known for its Claude language models."
+      },
+      "summary": "人工智能公司Anthropic宣布完成H轮融资，募集650亿美元，融资后估值达到9650亿美元。"
+    },
+    {
+      "title": "Introducing Claude Opus 4.8",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "pubDate": "Thu, 28 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-28T00:00:00.000Z",
+      "content": "Introducing Claude Opus 4.8",
+      "contentSnippet": "Introducing Claude Opus 4.8",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章标题为“介绍Claude Opus 4.8”，但内容仅重复标题，未提供任何具体信息。根据现有内容，无法提取有效摘要。",
+        "en": "The article announces the introduction of Claude Opus 4.8, a new model. No further details or specific information about its features or capabilities are provided in the content."
+      },
+      "summary": "该文章标题为“介绍Claude Opus 4.8”，但内容仅重复标题，未提供任何具体信息。根据现有内容，无法提取有效摘要。"
+    },
+    {
+      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "link": "https://www.anthropic.com/news/milan-office-opening",
+      "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-27T00:00:00.000Z",
+      "content": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "contentSnippet": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司在意大利米兰开设新办公室，旨在为意大利的企业、研究人员和开发者提供支持。此举旨在加强与当地合作伙伴的协作，推动人工智能技术的应用与发展。",
+        "en": "Anthropic has opened a new office in Milan, Italy. The expansion aims to provide dedicated support for Italian enterprises, researchers, and developers, facilitating access to the company's AI technology and fostering local innovation."
+      },
+      "summary": "Anthropic公司在意大利米兰开设新办公室，旨在为意大利的企业、研究人员和开发者提供支持。此举旨在加强与当地合作伙伴的协作，推动人工智能技术的应用与发展。"
+    },
+    {
+      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+      "pubDate": "Tue, 26 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-26T00:00:00.000Z",
+      "content": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "contentSnippet": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司任命崔起英（KiYoung Choi）为其韩国代表理事，此举为公司即将在首尔开设办公室做准备。",
+        "en": "Anthropic has appointed KiYoung Choi as Representative Director of Korea. This appointment is made in anticipation of the company opening a new office in Seoul, South Korea."
+      },
+      "summary": "Anthropic公司任命崔起英（KiYoung Choi）为其韩国代表理事，此举为公司即将在首尔开设办公室做准备。"
+    },
+    {
+      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "pubDate": "Mon, 25 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-25T00:00:00.000Z",
+      "content": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "contentSnippet": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic联合创始人Chris Olah对教皇利奥十四世通谕《Magnifica humanitas》发表了评论，但目前尚未提供其具体言论内容。",
+        "en": "Anthropic co-founder Chris Olah has commented on Pope Leo XIV's encyclical \"Magnifica humanitas.\" However, the provided content does not include the specific details or substance of his remarks. The available information only confirms that he made comments regarding this document."
+      },
+      "summary": "Anthropic联合创始人Chris Olah对教皇利奥十四世通谕《Magnifica humanitas》发表了评论，但目前尚未提供其具体言论内容。"
+    },
+    {
+      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "link": "https://www.anthropic.com/news/anthropic-kpmg",
+      "pubDate": "Tue, 19 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-19T00:00:00.000Z",
+      "content": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "contentSnippet": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "creator": "",
+      "summaries": {
+        "zh": "毕马威（KPMG）宣布与Claude达成战略合作，将在其核心业务中深度整合该技术，以服务其超过27.6万名全球员工。此次合作旨在提升毕马威的服务效率与专业能力。",
+        "en": "KPMG has integrated Anthropic's AI model, Claude, across its global operations in a strategic alliance. The deployment extends to KPMG's entire workforce of over 276,000 employees to enhance its core business functions."
+      },
+      "summary": "毕马威（KPMG）宣布与Claude达成战略合作，将在其核心业务中深度整合该技术，以服务其超过27.6万名全球员工。此次合作旨在提升毕马威的服务效率与专业能力。"
+    },
+    {
+      "title": "Widening the conversation on frontier AI",
+      "link": "https://www.anthropic.com/news/widening-conversation-ai",
+      "pubDate": "Tue, 19 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-19T00:00:00.000Z",
+      "content": "Widening the conversation on frontier AI",
+      "contentSnippet": "Widening the conversation on frontier AI",
+      "creator": "",
+      "summaries": {
+        "zh": "根据提供的信息，标题“Widening the conversation on frontier AI”意为“扩大关于前沿人工智能的对话”。然而，文章内容仅重复了标题，未提供具体信息。因此，无法提炼出实质性要点或关键内容进行有效摘要。",
+        "en": "The article \"Widening the conversation on frontier AI\" appears to address the need for broader discussions on advanced AI development. However, the provided content only contains the title without substantive details. Therefore, no specific main points, arguments, or key information can be summarized from the given material."
+      },
+      "summary": "根据提供的信息，标题“Widening the conversation on frontier AI”意为“扩大关于前沿人工智能的对话”。然而，文章内容仅重复了标题，未提供具体信息。因此，无法提炼出实质性要点或关键内容进行有效摘要。"
+    },
+    {
+      "title": "Anthropic acquires Stainless",
+      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "pubDate": "Mon, 18 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-18T00:00:00.000Z",
+      "content": "Anthropic acquires Stainless",
+      "contentSnippet": "Anthropic acquires Stainless",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司宣布收购Stainless。目前文章未提供更多收购细节或背景信息。",
+        "en": "Anthropic, an AI safety company, has acquired Stainless, a firm specializing in API development. This marks Anthropic's strategic move to enhance its technical capabilities and infrastructure. The acquisition aligns with Anthropic's focus on developing advanced AI systems, potentially integrating Stainless's tools into its future projects. Further details about the acquisition's terms or integration plans were not provided in the brief announcement."
+      },
+      "summary": "Anthropic公司宣布收购Stainless。目前文章未提供更多收购细节或背景信息。"
+    },
+    {
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "link": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "pubDate": "Thu, 14 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-14T00:00:00.000Z",
+      "content": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "contentSnippet": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic宣布与盖茨基金会建立价值2亿美元的合作伙伴关系。",
+        "en": "Anthropic has announced a $200 million partnership with the Bill & Melinda Gates Foundation. This collaboration is aimed at advancing the development and deployment of safe and beneficial artificial intelligence. The funding will support Anthropic's research and technical efforts to ensure AI systems are reliable, interpretable, and steerable, aligning with the foundation's goals of leveraging technology for global benefit."
+      },
+      "summary": "Anthropic宣布与盖茨基金会建立价值2亿美元的合作伙伴关系。"
+    },
+    {
+      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "pubDate": "Thu, 14 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-14T00:00:00.000Z",
+      "content": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "contentSnippet": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "creator": "",
+      "summaries": {
+        "zh": "普华永道正在部署Claude人工智能技术，用于为客户构建技术体系、执行交易以及重塑企业职能。",
+        "en": "PwC is deploying Claude, an AI tool, to enhance client services across three key areas. The professional services firm will use the technology to build new technological solutions, streamline and execute business deals, and transform core enterprise functions for its clients. The initiative represents PwC's integration of advanced AI into its operational and client-service strategy."
+      },
+      "summary": "普华永道正在部署Claude人工智能技术，用于为客户构建技术体系、执行交易以及重塑企业职能。"
+    },
+    {
+      "title": "Introducing Claude for Small Business",
+      "link": "https://www.anthropic.com/news/claude-for-small-business",
+      "pubDate": "Wed, 13 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-13T00:00:00.000Z",
+      "content": "Introducing Claude for Small Business",
+      "contentSnippet": "Introducing Claude for Small Business",
+      "creator": "",
+      "summaries": {
+        "zh": "您好！目前只收到了文章标题“Introducing Claude for Small Business”，但缺少具体内容。无法基于标题进行有效总结。\n\n请提供完整的文章内容，以便我为您生成符合要求的中文摘要。",
+        "en": "Based on the provided title and content, the article introduces a product or service named \"Claude\" aimed at small businesses. However, the supplied text does not contain further details about its features, purpose, or specifications. A concise summary, therefore, is limited to stating that the content announces the introduction of Claude, a tool or service designed for small business use, with no additional substantive information available from the source."
+      },
+      "summary": "您好！目前只收到了文章标题“Introducing Claude for Small Business”，但缺少具体内容。无法基于标题进行有效总结。\n\n请提供完整的文章内容，以便我为您生成符合要求的中文摘要。"
+    },
+    {
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "link": "https://www.anthropic.com/news/higher-limits-spacex",
+      "pubDate": "Wed, 06 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-06T00:00:00.000Z",
+      "content": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "contentSnippet": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude的使用限制将提高，同时其开发公司已与SpaceX达成算力合作协议。这一合作旨在利用SpaceX的计算资源来支持Claude相关的研发与应用。",
+        "en": "Anthropic has announced higher usage limits for its AI model, Claude, and revealed a compute deal with SpaceX. The update focuses on expanding access to Claude's capabilities while partnering with SpaceX to enhance computational resources."
+      },
+      "summary": "Claude的使用限制将提高，同时其开发公司已与SpaceX达成算力合作协议。这一合作旨在利用SpaceX的计算资源来支持Claude相关的研发与应用。"
+    },
+    {
+      "title": "Agents for financial services",
+      "link": "https://www.anthropic.com/news/finance-agents",
+      "pubDate": "Tue, 05 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-05T00:00:00.000Z",
+      "content": "Agents for financial services",
+      "contentSnippet": "Agents for financial services",
+      "creator": "",
+      "summaries": {
+        "zh": "金融服务业中的代理主要指借助技术或中介角色提供辅助服务的系统或机构。其核心作用在于处理风险评估、合规审查、客户服务等复杂流程，通过自动化或专业分工降低运营成本，提升行业效率。",
+        "en": "The article \"Agents for financial services\" appears to be a topic or heading, but the provided content does not include substantive details, analysis, or information to summarize. Therefore, a concise summary of its key points cannot be generated. The available text only indicates the subject area without further elaboration."
+      },
+      "summary": "金融服务业中的代理主要指借助技术或中介角色提供辅助服务的系统或机构。其核心作用在于处理风险评估、合规审查、客户服务等复杂流程，通过自动化或专业分工降低运营成本，提升行业效率。"
+    },
+    {
+      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "pubDate": "Mon, 04 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-04T00:00:00.000Z",
+      "content": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "contentSnippet": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "creator": "",
+      "summaries": {
+        "zh": "美国黑石集团、HFM投资公司与高盛集团宣布共同投资组建一家企业级人工智能服务公司。该公司专注于为企业提供专业的AI解决方案。此次合作汇聚了多家知名投资机构，旨在通过技术资源整合推动人工智能在商业领域的应用与发展。",
+        "en": "A new enterprise AI services company is being established through a collaboration between Blackstone, Hellman & Friedman, and Goldman Sachs. The initiative brings together these major financial firms to develop and offer artificial intelligence solutions for businesses. However, specific details about the company's structure, services, or launch timeline are not provided in the source material."
+      },
+      "summary": "美国黑石集团、HFM投资公司与高盛集团宣布共同投资组建一家企业级人工智能服务公司。该公司专注于为企业提供专业的AI解决方案。此次合作汇聚了多家知名投资机构，旨在通过技术资源整合推动人工智能在商业领域的应用与发展。"
+    },
+    {
+      "title": "Claude for Creative Work",
+      "link": "https://www.anthropic.com/news/claude-for-creative-work",
+      "pubDate": "Tue, 28 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-28T00:00:00.000Z",
+      "content": "Claude for Creative Work",
+      "contentSnippet": "Claude for Creative Work",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章标题为\"Claude for Creative Work\"，但正文内容为空。因此，无法提供具体总结。标题暗示内容可能涉及Claude人工智能在创意工作中的应用。",
+        "en": "Based on the provided content, I can only note the article's title, \"Claude for Creative Work.\" The actual article text is not included, so I cannot generate a substantive summary of its key points or information."
+      },
+      "summary": "该文章标题为\"Claude for Creative Work\"，但正文内容为空。因此，无法提供具体总结。标题暗示内容可能涉及Claude人工智能在创意工作中的应用。"
+    },
+    {
+      "title": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+      "link": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+      "pubDate": "Mon, 27 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-27T00:00:00.000Z",
+      "content": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+      "contentSnippet": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司任命Theo Hourmouzis为澳大利亚和新西兰地区总经理，并正式开设了悉尼办公室。",
+        "en": "Anthropic has appointed Theo Hourmouzis as the General Manager for its operations in Australia and New Zealand. Concurrently, the AI company has officially inaugurated a new office in Sydney, marking a significant step in its regional expansion and operational presence in the area."
+      },
+      "summary": "Anthropic公司任命Theo Hourmouzis为澳大利亚和新西兰地区总经理，并正式开设了悉尼办公室。"
+    },
+    {
+      "title": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+      "link": "https://www.anthropic.com/news/anthropic-nec",
+      "pubDate": "Fri, 24 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-24T00:00:00.000Z",
+      "content": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+      "contentSnippet": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic与NEC达成合作，旨在共同打造日本规模最大的AI工程团队。",
+        "en": "Anthropic and NEC have announced a collaboration to establish Japan's largest AI engineering workforce. The partnership aims to combine Anthropic's expertise in AI development with NEC's technical and business infrastructure to train and deploy a significant number of AI engineers in Japan. This initiative focuses on building local talent to advance AI technology and its applications."
+      },
+      "summary": "Anthropic与NEC达成合作，旨在共同打造日本规模最大的AI工程团队。"
+    },
+    {
+      "title": "An update on our election safeguards",
+      "link": "https://www.anthropic.com/news/election-safeguards-update",
+      "pubDate": "Fri, 24 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-24T00:00:00.000Z",
+      "content": "An update on our election safeguards",
+      "contentSnippet": "An update on our election safeguards",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为“关于我们的选举保障措施的最新情况”，但未提供具体内容。若能提供文章正文，我将根据内容为您生成准确的中文摘要。",
+        "en": "Based on the provided content, no detailed information is available for summarization. The article contains only its title, \"An update on our election safeguards.\" Therefore, a substantive summary of the main points cannot be generated."
+      },
+      "summary": "文章标题为“关于我们的选举保障措施的最新情况”，但未提供具体内容。若能提供文章正文，我将根据内容为您生成准确的中文摘要。"
+    },
+    {
+      "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+      "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
+      "pubDate": "Mon, 20 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-20T00:00:00.000Z",
+      "content": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+      "contentSnippet": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic与亚马逊扩展合作，计划新增最高5吉瓦的计算资源。此举旨在增强双方在人工智能领域的算力支持与技术协同。",
+        "en": "Anthropic and Amazon have expanded their existing partnership to secure up to 5 gigawatts of new computing capacity. This significant expansion aims to support the development and deployment of Anthropic's advanced AI systems."
+      },
+      "summary": "Anthropic与亚马逊扩展合作，计划新增最高5吉瓦的计算资源。此举旨在增强双方在人工智能领域的算力支持与技术协同。"
+    },
+    {
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "pubDate": "Fri, 17 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-17T00:00:00.000Z",
+      "content": "Introducing Claude Design by Anthropic Labs",
+      "contentSnippet": "Introducing Claude Design by Anthropic Labs",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic Labs 推出了 Claude Design。由于提供的具体内容有限，目前仅能确认该发布信息，暂无更多细节可供总结。",
+        "en": "This article introduces \"Claude Design,\" a new product or initiative from Anthropic Labs. However, the provided content consists only of the title and a repetition of the same introductory phrase. No further details, features, or key information about Claude Design are included in the given text, so a substantive summary cannot be generated."
+      },
+      "summary": "Anthropic Labs 推出了 Claude Design。由于提供的具体内容有限，目前仅能确认该发布信息，暂无更多细节可供总结。"
+    },
+    {
+      "title": "Introducing Claude Opus 4.7",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "pubDate": "Thu, 16 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-16T00:00:00.000Z",
+      "content": "Introducing Claude Opus 4.7",
+      "contentSnippet": "Introducing Claude Opus 4.7",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章标题为\"Claude Opus 4.7介绍\"，但所提供的实际内容仅为重复的标题，未包含任何具体的功能描述、技术细节或相关背景信息。因此，无法提取有效信息进行实质性的总结。",
+        "en": "The article announces the introduction of Claude Opus 4.7. However, it provides no further details regarding its features, capabilities, or technical specifications. The content is limited solely to this announcement."
+      },
+      "summary": "该文章标题为\"Claude Opus 4.7介绍\"，但所提供的实际内容仅为重复的标题，未包含任何具体的功能描述、技术细节或相关背景信息。因此，无法提取有效信息进行实质性的总结。"
+    },
+    {
+      "title": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+      "link": "https://www.anthropic.com/news/narasimhan-board",
+      "pubDate": "Tue, 14 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-14T00:00:00.000Z",
+      "content": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+      "contentSnippet": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司的长期利益信托宣布，任命Vas Narasimhan为其董事会成员。",
+        "en": "Anthropic’s Long-Term Benefit Trust has named Vas Narasimhan as a member of its Board of Directors."
+      },
+      "summary": "Anthropic公司的长期利益信托宣布，任命Vas Narasimhan为其董事会成员。"
+    },
+    {
+      "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+      "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "pubDate": "Mon, 06 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-06T00:00:00.000Z",
+      "content": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+      "contentSnippet": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic宣布扩大与谷歌及博通的战略合作，共同推进下一代计算基础设施建设，以满足未来人工智能发展对大规模算力的需求。此次合作旨在支撑多吉瓦级算力的构建与部署。",
+        "en": "Anthropic has expanded its partnership with Google and Broadcom to secure multiple gigawatts of next-generation compute. This collaboration aims to significantly scale up the computing infrastructure available to Anthropic, supporting the development of its advanced AI systems. The expansion highlights a major investment in future computational capacity from key technology partners."
+      },
+      "summary": "Anthropic宣布扩大与谷歌及博通的战略合作，共同推进下一代计算基础设施建设，以满足未来人工智能发展对大规模算力的需求。此次合作旨在支撑多吉瓦级算力的构建与部署。"
+    },
+    {
+      "title": "Australian government and Anthropic sign MOU for AI safety and research",
+      "link": "https://www.anthropic.com/news/australia-MOU",
+      "pubDate": "Tue, 31 Mar 2026 00:00:00 +0000",
+      "isoDate": "2026-03-31T00:00:00.000Z",
+      "content": "Australian government and Anthropic sign MOU for AI safety and research",
+      "contentSnippet": "Australian government and Anthropic sign MOU for AI safety and research",
+      "creator": "",
+      "summaries": {
+        "zh": "澳大利亚政府与人工智能公司Anthropic签署谅解备忘录，旨在加强在人工智能安全与研究领域的合作。",
+        "en": "The Australian government has signed a Memorandum of Understanding with Anthropic, an AI safety and research company. The agreement focuses on collaboration in the field of artificial intelligence safety."
+      },
+      "summary": "澳大利亚政府与人工智能公司Anthropic签署谅解备忘录，旨在加强在人工智能安全与研究领域的合作。"
+    },
+    {
+      "title": "Anthropic invests $100 million into the Claude Partner Network",
+      "link": "https://www.anthropic.com/news/claude-partner-network",
+      "pubDate": "Thu, 12 Mar 2026 00:00:00 +0000",
+      "isoDate": "2026-03-12T00:00:00.000Z",
+      "content": "Anthropic invests $100 million into the Claude Partner Network",
+      "contentSnippet": "Anthropic invests $100 million into the Claude Partner Network",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic宣布向其Claude合作伙伴网络投资1亿美元。",
+        "en": "Anthropic is investing $100 million into its Claude Partner Network. This financial commitment is aimed at expanding the network, which supports partners that build applications and tools using its Claude AI model. The initiative is designed to grow the ecosystem around the AI assistant, fostering collaboration and integration across various platforms and services."
+      },
+      "summary": "Anthropic宣布向其Claude合作伙伴网络投资1亿美元。"
+    },
+    {
+      "title": "Introducing The Anthropic Institute",
+      "link": "https://www.anthropic.com/news/the-anthropic-institute",
+      "pubDate": "Wed, 11 Mar 2026 00:00:00 +0000",
+      "isoDate": "2026-03-11T00:00:00.000Z",
+      "content": "Introducing The Anthropic Institute",
+      "contentSnippet": "Introducing The Anthropic Institute",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic推出了其新设立的研究院（The Anthropic Institute）。",
+        "en": "The article announces the introduction of \"The Anthropic Institute.\""
+      },
+      "summary": "Anthropic推出了其新设立的研究院（The Anthropic Institute）。"
+    }
+  ],
+  "lastUpdated": "2026-06-09T16:58:51.321Z"
+}

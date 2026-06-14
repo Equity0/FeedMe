@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Introducing the Google Colab CLI",
+      "link": "https://developers.googleblog.com/en/introducing-the-google-colab-cli/",
+      "pubDate": "Thu, 04 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-04T16:00:00.000Z",
+      "content": "Google has announced the Google Colab Command-Line Interface (CLI), a new tool that allows developers and AI agents to connect local terminals to remote Colab runtimes for frictionless execution. The lightweight CLI enables users to easily request high-powered GPUs, run local Python scripts remotely, and seamlessly retrieve artifact logs or models like fine-tuned Gemma 3 adapters. By integrating directly into standard terminal environments, the tool is highly programmable and ready to be used by AI agents such as Antigravity or Claude Code to manage complex machine learning pipelines.",
+      "contentSnippet": "Google has announced the Google Colab Command-Line Interface (CLI), a new tool that allows developers and AI agents to connect local terminals to remote Colab runtimes for frictionless execution. The lightweight CLI enables users to easily request high-powered GPUs, run local Python scripts remotely, and seamlessly retrieve artifact logs or models like fine-tuned Gemma 3 adapters. By integrating directly into standard terminal environments, the tool is highly programmable and ready to be used by AI agents such as Antigravity or Claude Code to manage complex machine learning pipelines.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌推出Colab命令行接口（CLI）工具，开发者及AI智能体可通过本地终端无缝连接云端Colab运行时。该轻量级工具支持快速调用高性能GPU、远程执行本地Python脚本，并便捷获取日志与模型产物（如微调的Gemma 3适配器）。它能直接集成至标准终端环境，可编程性强，便于Antigravity或Claude Code等AI智能体管理复杂机器学习流程。",
+        "en": "Google has launched the Google Colab CLI, a command-line interface that links local terminals to remote Colab runtimes. This tool lets developers and AI agents easily access powerful GPUs, run Python scripts remotely, and retrieve logs and models. Designed for integration into standard terminal environments, the lightweight CLI is highly programmable, enabling AI agents to manage complex machine learning pipelines efficiently."
+      },
+      "summary": "谷歌推出Colab命令行接口（CLI）工具，开发者及AI智能体可通过本地终端无缝连接云端Colab运行时。该轻量级工具支持快速调用高性能GPU、远程执行本地Python脚本，并便捷获取日志与模型产物（如微调的Gemma 3适配器）。它能直接集成至标准终端环境，可编程性强，便于Antigravity或Claude Code等AI智能体管理复杂机器学习流程。"
+    },
+    {
+      "title": "Gemma 4 12B: The Developer Guide",
+      "link": "https://developers.googleblog.com/en/gemma-4-12b-the-developer-guide/",
+      "pubDate": "Tue, 02 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-02T16:00:00.000Z",
+      "content": "The newly released Gemma 4 12B is a dense, multimodal model designed for high-performance local AI execution on consumer devices. By introducing a novel, encoder-free architecture, it bypasses traditional visual and audio encoders to feed multimodal data directly into the LLM backbone.",
+      "contentSnippet": "The newly released Gemma 4 12B is a dense, multimodal model designed for high-performance local AI execution on consumer devices. By introducing a novel, encoder-free architecture, it bypasses traditional visual and audio encoders to feed multimodal data directly into the LLM backbone.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Gemma 4 12B 是一款新发布的密集型多模态模型，专为在消费级设备上实现高性能本地AI运行而设计。它采用创新的无编码器架构，绕过传统的视觉和音频编码器，将多模态数据直接输入大型语言模型主干网络进行处理。",
+        "en": "Gemma 4 12B is a newly released dense, multimodal model optimized for high-performance local AI execution on consumer devices. Its key innovation is an encoder-free architecture, which processes multimodal inputs directly through the LLM backbone instead of using traditional separate visual or audio encoders."
+      },
+      "summary": "Gemma 4 12B 是一款新发布的密集型多模态模型，专为在消费级设备上实现高性能本地AI运行而设计。它采用创新的无编码器架构，绕过传统的视觉和音频编码器，将多模态数据直接输入大型语言模型主干网络进行处理。"
+    },
+    {
+      "title": "Bringing Gemma 4 12B to your Laptop: Unlocking Local, Agentic Workflows with Google AI Edge",
+      "link": "https://developers.googleblog.com/en/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
+      "pubDate": "Tue, 02 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-02T16:00:00.000Z",
+      "content": "Google DeepMind’s Gemma 4 12B model brings agentic, multimodal AI capabilities to everyday laptops with 16GB of RAM, enabling local data processing and visual insight generation. Users can leverage this model on macOS through the Google AI Edge Gallery for dynamic Python code execution and visualization, as well as via Google AI Edge Eloquent for completely offline voice dictation and text editing. Additionally, developer workflows are enhanced by the LiteRT-LM CLI's new serve command, which creates an industry-compatible local endpoint to power fully-local AI tools and agents.",
+      "contentSnippet": "Google DeepMind’s Gemma 4 12B model brings agentic, multimodal AI capabilities to everyday laptops with 16GB of RAM, enabling local data processing and visual insight generation. Users can leverage this model on macOS through the Google AI Edge Gallery for dynamic Python code execution and visualization, as well as via Google AI Edge Eloquent for completely offline voice dictation and text editing. Additionally, developer workflows are enhanced by the LiteRT-LM CLI's new serve command, which creates an industry-compatible local endpoint to power fully-local AI tools and agents.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌DeepMind发布Gemma 4 12B模型，可在配备16GB内存的普通笔记本电脑本地运行，支持多模态AI与智能代理能力。该模型通过Google AI Edge平台，为macOS用户提供动态Python执行、可视化工具及离线语音听写等功能，实现本地数据处理与视觉分析。此外，开发者可利用LiteRT-LM CLI的serve命令创建兼容性本地端点，以构建完全离线的AI工具与智能",
+        "en": "Google DeepMind's Gemma 4 12B brings advanced, agentic AI capabilities directly to standard laptops with 16GB of RAM. The model enables local data processing and visual insight generation without relying on the cloud. Users can run it on macOS via the Google AI Edge Gallery for tasks like dynamic code execution, or use Google AI Edge Eloquent for fully offline voice dictation. For developers, the new LiteRT-LM CLI \"serve\" command creates a local endpoint, supporting the development of fully local AI tools and agents."
+      },
+      "summary": "谷歌DeepMind发布Gemma 4 12B模型，可在配备16GB内存的普通笔记本电脑本地运行，支持多模态AI与智能代理能力。该模型通过Google AI Edge平台，为macOS用户提供动态Python执行、可视化工具及离线语音听写等功能，实现本地数据处理与视觉分析。此外，开发者可利用LiteRT-LM CLI的serve命令创建兼容性本地端点，以构建完全离线的AI工具与智能"
+    },
+    {
+      "title": "Supercharge your integration workflow with the Google Pay & Wallet Developer MCP server",
+      "link": "https://developers.googleblog.com/en/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/",
+      "pubDate": "Wed, 27 May 2026 16:00:00 GMT",
+      "isoDate": "2026-05-27T16:00:00.000Z",
+      "content": "Google has announced the new Google Pay &amp; Wallet Developer MCP server, an open-standard tool designed to securely connect AI development assistants and IDEs with real-time API and account context. The server allows developers to remain within their development environment to search official documentation, validate Wallet pass definitions, check integration status, and manage merchant accounts. Ultimately, this integration aims to reduce friction and accelerate development workflows by minimizing context switching and providing up-to-date, grounded AI support.",
+      "contentSnippet": "Google has announced the new Google Pay & Wallet Developer MCP server, an open-standard tool designed to securely connect AI development assistants and IDEs with real-time API and account context. The server allows developers to remain within their development environment to search official documentation, validate Wallet pass definitions, check integration status, and manage merchant accounts. Ultimately, this integration aims to reduce friction and accelerate development workflows by minimizing context switching and providing up-to-date, grounded AI support.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌推出新款Google Pay与钱包开发者MCP服务器。该工具采用开放标准，旨在将AI开发助手与IDE安全连接至实时API及账户上下文，使开发者无需离开开发环境即可搜索官方文档、验证钱包通行证定义、检查集成状态并管理商户账户。该集成旨在通过减少上下文切换、提供实时更新的AI支持来降低开发阻力，从而加速工作流程。",
+        "en": "Google has launched the Google Pay & Wallet Developer MCP server, an open-standard tool designed to streamline development workflows. This server securely integrates AI assistants and IDEs with real-time API and account information, enabling developers to search documentation, validate passes, check status, and manage accounts without leaving their environment. By reducing context switching, it aims to accelerate development and provide grounded, up-to-date support."
+      },
+      "summary": "谷歌推出新款Google Pay与钱包开发者MCP服务器。该工具采用开放标准，旨在将AI开发助手与IDE安全连接至实时API及账户上下文，使开发者无需离开开发环境即可搜索官方文档、验证钱包通行证定义、检查集成状态并管理商户账户。该集成旨在通过减少上下文切换、提供实时更新的AI支持来降低开发阻力，从而加速工作流程。"
+    },
+    {
+      "title": "How the community trained Gemma to \"Think\" with Tunix and TPUs",
+      "link": "https://developers.googleblog.com/en/how-the-community-trained-gemma-to-think-with-tunix-and-tpus/",
+      "pubDate": "Wed, 27 May 2026 16:00:00 GMT",
+      "isoDate": "2026-05-27T16:00:00.000Z",
+      "content": "The Google Tunix Hackathon on Kaggle challenged developers to transform small, non-reasoning base models into general reasoning engines using Kaggle TPUs and a limited compute budget. The winning teams achieved this by implementing multi-stage post-training pipelines that combined Supervised Fine-Tuning (SFT) with advanced alignment techniques like GRPO and SimPO. Ultimately, the competition democratized AI development by proving that highly capable, structured reasoning models can be successfully trained by the community using accessible, open-source resources.",
+      "contentSnippet": "The Google Tunix Hackathon on Kaggle challenged developers to transform small, non-reasoning base models into general reasoning engines using Kaggle TPUs and a limited compute budget. The winning teams achieved this by implementing multi-stage post-training pipelines that combined Supervised Fine-Tuning (SFT) with advanced alignment techniques like GRPO and SimPO. Ultimately, the competition democratized AI development by proving that highly capable, structured reasoning models can be successfully trained by the community using accessible, open-source resources.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌在Kaggle举办的Tunix黑客马拉松挑战开发者，利用TPU和有限算力将基础模型转化为通用推理引擎。获奖团队通过多阶段训练流程，结合监督微调与GRPO、SimPO等对齐技术实现了目标。该竞赛证明社区能借助开源资源开发高能力推理模型，推动了AI开发的普及化。",
+        "en": "The Google Tunix Hackathon on Kaggle tasked developers with using Kaggle TPUs and limited compute to transform small base models into capable reasoning engines. Winning teams succeeded by implementing multi-stage pipelines combining Supervised Fine-Tuning (SFT) with advanced alignment techniques like GRPO and SimPO. The competition demonstrated that highly structured reasoning models can be effectively trained by the community using accessible, open-source resources, thereby helping to democratize advanced AI development."
+      },
+      "summary": "谷歌在Kaggle举办的Tunix黑客马拉松挑战开发者，利用TPU和有限算力将基础模型转化为通用推理引擎。获奖团队通过多阶段训练流程，结合监督微调与GRPO、SimPO等对齐技术实现了目标。该竞赛证明社区能借助开源资源开发高能力推理模型，推动了AI开发的普及化。"
+    },
+    {
+      "title": "The latest updates to Google Pay",
+      "link": "https://developers.googleblog.com/en/the-latest-updates-to-google-pay/",
+      "pubDate": "Tue, 26 May 2026 16:00:00 GMT",
+      "isoDate": "2026-05-26T16:00:00.000Z",
+      "content": "Google Pay is evolving for \"agentic commerce\" by introducing the Universal Commerce Protocol and a new MCP server that allows AI agents to manage integrations and analyze trends. New Android updates introduce dynamic callbacks for seamless express checkouts and extend payment support into social media apps via WebViews. Additionally, the platform is launching cross-device biometric authentication and new transaction signals to help merchants reduce friction and optimize processing costs.",
+      "contentSnippet": "Google Pay is evolving for \"agentic commerce\" by introducing the Universal Commerce Protocol and a new MCP server that allows AI agents to manage integrations and analyze trends. New Android updates introduce dynamic callbacks for seamless express checkouts and extend payment support into social media apps via WebViews. Additionally, the platform is launching cross-device biometric authentication and new transaction signals to help merchants reduce friction and optimize processing costs.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌支付正为“代理商务”进行升级：推出通用商务协议和新MCP服务器，支持AI代理管理集成并分析趋势；Android系统新增动态回调功能以简化快速结账，并将支付支持扩展至社交媒体应用内的WebView页面。平台还引入了跨设备生物认证和新交易信号，旨在帮助商家降低交易摩擦并优化处理成本。",
+        "en": "Google Pay is updating to support \"agentic commerce\" with a new Universal Commerce Protocol and MCP server, enabling AI agents to handle integrations and analyze trends. The platform introduces dynamic callbacks on Android for smoother express checkouts and extends payment options into social media apps. New features include cross-device biometric authentication and transaction signals designed to help merchants reduce friction and optimize processing costs."
+      },
+      "summary": "谷歌支付正为“代理商务”进行升级：推出通用商务协议和新MCP服务器，支持AI代理管理集成并分析趋势；Android系统新增动态回调功能以简化快速结账，并将支付支持扩展至社交媒体应用内的WebView页面。平台还引入了跨设备生物认证和新交易信号，旨在帮助商家降低交易摩擦并优化处理成本。"
+    },
+    {
+      "title": "Enhancing Android Checkout with Dynamic Callbacks in Google Pay",
+      "link": "https://developers.googleblog.com/en/enhancing-android-checkout-with-dynamic-callbacks-in-google-pay/",
+      "pubDate": "Mon, 25 May 2026 16:00:00 GMT",
+      "isoDate": "2026-05-25T16:00:00.000Z",
+      "content": "We are excited to bring Express checkout with Google Pay for Android native apps enabling developers...",
+      "contentSnippet": "We are excited to bring Express checkout with Google Pay for Android native apps enabling developers...",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Google Pay在安卓原生应用中推出了“快捷结账”功能，允许开发者使用动态回调机制。该功能的核心优势在于，开发者无需更新应用程序本身，即可远程配置和修改支付完成后的回调流程。这极大提升了支付集成的灵活性，便于快速适配不同的业务场景和处理逻辑。",
+        "en": "Google Pay has introduced \"Express checkout\" with dynamic callbacks for Android native applications. This enhancement allows developers to implement a more streamlined payment process. The new feature aims to simplify the integration of Google Pay within apps, improving the checkout experience for users on Android devices."
+      },
+      "summary": "Google Pay在安卓原生应用中推出了“快捷结账”功能，允许开发者使用动态回调机制。该功能的核心优势在于，开发者无需更新应用程序本身，即可远程配置和修改支付完成后的回调流程。这极大提升了支付集成的灵活性，便于快速适配不同的业务场景和处理逻辑。"
+    },
+    {
+      "title": "Announcing ADK for Kotlin and ADK for Android 0.1.0: Building AI Agents on Android and Beyond",
+      "link": "https://developers.googleblog.com/en/adk-kotlin-android-building-ai-agents/",
+      "pubDate": "Wed, 20 May 2026 16:00:00 GMT",
+      "isoDate": "2026-05-20T16:00:00.000Z",
+      "content": "Google has announced the launch of version 0.1.0 of the Agent Development Kit (ADK) for Kotlin, alongside a specialized ADK library for Android. This open-source framework simplifies the creation of AI agents by managing complex orchestration, session sharing, and error handling across cloud and edge environments. The release supports hybrid orchestration, enabling developers to build multi-agent systems where a cloud-based model can seamlessly offload specific tasks to local, on-device models like Gemini Nano to enhance user privacy.",
+      "contentSnippet": "Google has announced the launch of version 0.1.0 of the Agent Development Kit (ADK) for Kotlin, alongside a specialized ADK library for Android. This open-source framework simplifies the creation of AI agents by managing complex orchestration, session sharing, and error handling across cloud and edge environments. The release supports hybrid orchestration, enabling developers to build multi-agent systems where a cloud-based model can seamlessly offload specific tasks to local, on-device models like Gemini Nano to enhance user privacy.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌发布ADK for Kotlin和ADK for Android 0.1.0版本。这是一套开源框架，旨在简化跨云与边缘环境的智能体开发，提供会话共享、错误处理等功能。新版本支持混合编排，允许开发者构建多智能体系统，将任务无缝分配至云端或本地设备模型（如Gemini Nano），从而增强用户隐私保护。",
+        "en": "Google has released version 0.1.0 of its open-source Agent Development Kit (ADK) for Kotlin and a specialized ADK library for Android. This framework streamlines the development of AI agents by handling orchestration, session sharing, and error handling for both cloud and edge environments. A key feature is its support for hybrid orchestration, allowing multi-agent systems where a cloud model can delegate tasks to on-device models like Gemini Nano, thereby enhancing user privacy."
+      },
+      "summary": "谷歌发布ADK for Kotlin和ADK for Android 0.1.0版本。这是一套开源框架，旨在简化跨云与边缘环境的智能体开发，提供会话共享、错误处理等功能。新版本支持混合编排，允许开发者构建多智能体系统，将任务无缝分配至云端或本地设备模型（如Gemini Nano），从而增强用户隐私保护。"
+    },
+    {
+      "title": "Empowering Service Providers and Hardware Partners with Gemini for Home",
+      "link": "https://developers.googleblog.com/en/empowering-service-providers-and-hardware-partners-with-gemini-for-home/",
+      "pubDate": "Wed, 20 May 2026 16:00:00 GMT",
+      "isoDate": "2026-05-20T16:00:00.000Z",
+      "content": "Google is expanding its smart home ecosystem by launching a full-stack Gemini AI offering that integrates advanced camera intelligence, natural language queries, and daily activity summaries. This initiative provides service providers and hardware manufacturers with turnkey reference designs and APIs to build proactive, branded services without extensive research and development. Ultimately, the program aims to move beyond basic device control toward an AI-native home that can understand context and care for users' needs in real time.",
+      "contentSnippet": "Google is expanding its smart home ecosystem by launching a full-stack Gemini AI offering that integrates advanced camera intelligence, natural language queries, and daily activity summaries. This initiative provides service providers and hardware manufacturers with turnkey reference designs and APIs to build proactive, branded services without extensive research and development. Ultimately, the program aims to move beyond basic device control toward an AI-native home that can understand context and care for users' needs in real time.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌推出基于Gemini AI的全栈智能家居方案，集成摄像头智能分析、自然语言查询与每日活动摘要功能。该方案为服务商和硬件厂商提供即用型参考设计与API，支持其快速开发主动式品牌服务，推动智能家居从基础设备控制向具备场景理解与实时响应能力的AI原生生态演进。",
+        "en": "Google is expanding its smart home ecosystem by introducing a full-stack Gemini AI offering for service providers and hardware partners. This provides ready-to-use reference designs and APIs for features like intelligent camera analysis, natural language commands, and activity summaries. The goal is to move beyond simple device control, enabling the creation of proactive, branded services that build toward an AI-native home environment capable of understanding context and responding to users' needs in real time."
+      },
+      "summary": "谷歌推出基于Gemini AI的全栈智能家居方案，集成摄像头智能分析、自然语言查询与每日活动摘要功能。该方案为服务商和硬件厂商提供即用型参考设计与API，支持其快速开发主动式品牌服务，推动智能家居从基础设备控制向具备场景理解与实时响应能力的AI原生生态演进。"
+    },
+    {
+      "title": "All the news from the Google I/O 2026 Developer keynote",
+      "link": "https://developers.googleblog.com/en/all-the-news-from-the-google-io-2026-developer-keynote/",
+      "pubDate": "Mon, 18 May 2026 16:00:00 GMT",
+      "isoDate": "2026-05-18T16:00:00.000Z",
+      "content": "Google announced the transition from assistive AI to independent agents, highlighting the launch of the Gemini 3.5 series and major updates to its Antigravity agent-first development platform. For mobile developers, the post introduces new Android CLI tools, the Android Bench evaluation leaderboard, and an automated Migration agent designed to rapidly convert various frameworks into native Kotlin code. Web development is also being transformed through Chrome DevTools for agents, the HTML-in-Canvas API, and the proposal of WebMCP, an open web standard that enables browser-based AI agents to execute complex tasks.",
+      "contentSnippet": "Google announced the transition from assistive AI to independent agents, highlighting the launch of the Gemini 3.5 series and major updates to its Antigravity agent-first development platform. For mobile developers, the post introduces new Android CLI tools, the Android Bench evaluation leaderboard, and an automated Migration agent designed to rapidly convert various frameworks into native Kotlin code. Web development is also being transformed through Chrome DevTools for agents, the HTML-in-Canvas API, and the proposal of WebMCP, an open web standard that enables browser-based AI agents to execute complex tasks.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "在谷歌I/O 2026开发者主旨演讲中，谷歌宣布从辅助型AI向独立智能体转型，发布了Gemini 3.5系列并大幅更新Antigravity智能体开发平台。面向移动开发者，推出了Android命令行工具、评测排行榜及自动迁移智能体，用于将各类框架快速转换为原生Kotlin代码。在Web开发方面，Chrome DevTools新增智能体支持，发布了HTML-in-Canvas API，并提出了WebMCP这一开放网络标准，旨在让基于浏览器的智能体能够执行复杂任务。",
+        "en": "Google announced a shift toward autonomous AI agents at its 2026 Developer keynote. Key launches include the Gemini 3.5 series and major updates to its Antigravity agent-first development platform. For mobile developers, new Android CLI tools, a performance leaderboard, and an automated Migration agent were introduced to convert frameworks into Kotlin code. Web development will be enhanced by Chrome DevTools for agents, the HTML-in-Canvas API, and the proposed WebMCP open standard, enabling AI agents to perform complex tasks directly within browsers."
+      },
+      "summary": "在谷歌I/O 2026开发者主旨演讲中，谷歌宣布从辅助型AI向独立智能体转型，发布了Gemini 3.5系列并大幅更新Antigravity智能体开发平台。面向移动开发者，推出了Android命令行工具、评测排行榜及自动迁移智能体，用于将各类框架快速转换为原生Kotlin代码。在Web开发方面，Chrome DevTools新增智能体支持，发布了HTML-in-Canvas API，并提出了WebMCP这一开放网络标准，旨在让基于浏览器的智能体能够执行复杂任务。"
+    }
+  ],
+  "lastUpdated": "2026-06-09T16:59:40.761Z"
+}
